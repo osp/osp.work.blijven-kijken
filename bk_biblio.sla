@@ -959,6 +959,7 @@
         <STYLE NAME="txt parts" INDENT="14.1732283464567" FIRST="14.1732283464567" FONT="PT Sans Bold" FONTSIZE="9" FEATURES="allcaps" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="3.9" TXTULW="3" TXTSTP="-0.1" TXTSTW="-0.1" KERN="5" LANGUAGE="Dutch"/>
         <STYLE NAME="parts indic" FONT="PT Serif Italic" FONTSIZE="11" LANGUAGE="Dutch"/>
         <STYLE NAME="parties 1,2" ALIGN="1" LINESP="30" FONT="PT Serif Regular" FONTSIZE="30" LANGUAGE="Dutch"/>
+        <STYLE NAME="biblio" ALIGN="1" VOR="8" FONT="PT Serif Regular" LANGUAGE="Dutch"/>
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Crimson Text Roman" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Dutch"/>
         <CHARSTYLE CNAME="pers" FONT="PT Serif Bold" LANGUAGE="Dutch"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
@@ -1009,86 +1010,86 @@
             <trail PARENT="pagina"/>
             <PageItemAttributes/>
         </MASTEROBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="625.49905511811" YPOS="76.6941732282827" WIDTH="390" HEIGHT="507.843779527611" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 390 0 390 0 390 0 390 0 390 507.844 390 507.844 390 507.844 390 507.844 0 507.844 0 507.844 0 507.844 0 507.844 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 390 0 390 0 390 0 390 0 390 507.844 390 507.844 390 507.844 390 507.844 0 507.844 0 507.844 0 507.844 0 507.844 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="624.410078740158" YPOS="62.520944881826" WIDTH="311.811023622047" HEIGHT="549.479055118174" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="11.3385826771654" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 549.479 311.811 549.479 311.811 549.479 311.811 549.479 0 549.479 0 549.479 0 549.479 0 549.479 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 549.479 311.811 549.479 311.811 549.479 311.811 549.479 0 549.479 0 549.479 0 549.479 0 549.479 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="1" BACKITEM="-1">
             <ITEXT CH="BIBLIO­GRA­FIE"/>
             <para PARENT="body"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Giorgio Ag­am­ben, ‘Rem­nants of Auschwitz. The Wit­ness and the Ar­chi­ve’, Zo­ne Books, 2002 [1999]"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Giorgio Ag­am­ben, ‘Qu’est-ce que le con­tempo­rain?’, Riva­ges, 2008"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Ro­bert Antel­me, ‘De menselij­ke soort’, Sun, 2001 [1947]"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Her­man As­selberghs, Els Op­somer, Pieter Van Bogae­rt, ‘Time Sus­pended’, Squa­re, 2004"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Roland Bar­t­hes, ‘Com­ment vi­vre en­sem­ble. Cours et sé­mi­nai­res au Collè­ge de Fran­ce (1976-1977)’, Seuil, 2002"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Roland Bar­t­hes, ‘La mort de l’au­teur’. In: Id. ‘Le bruis­sement de la lan­gue’, Seuil, 1984: 61-67"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Ro­si Braidot­ti, ‘Trans­po­siti­ons. On Nomadic Ethics’, Po­li­ty, 2006"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Lie­ven De Cau­ter, ‘De cap­su­lai­re be­scha­ving. Over de stad in het tijd­perk van de angst’, NAi, 2004"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Jo­hn Ca­ge, ‘Silen­ce. Lectu­res and Writings’, Ma­ri­on Boy­ars, 2011 [1968]"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Mi­chel de Cer­teau, Lu­ce Gi­ard, Pier­re May­ol, ‘L’in­venti­on du quo­ti­dien 2. Habi­ter, cui­siner’, Folio, 1994"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Gilles De­leuze, ‘Dif­féren­ce et répé­titi­on’, PUF, 1968"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Gilles De­leuze, ‘Fou­cault’, Mi­nuit, 1986/2004"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Gilles De­leuze, ‘Le pli’, Mi­nuit, 1989"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Gilles De­leuze, ‘Pour­parlers’, Mi­nuit, 1990"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Gilles De­leuze, ‘Deux ré­gimes de fous. Tex­tes et en­tre­tiens 1975-1995’, Mi­nuit, 2003"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Gilles De­leuze &amp; Félix Gu­at­tari, ‘Mille Pla­teaux. Ca­pi­ta­lis­me et schizophré­nie 2’, Mi­nuit, 1980"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Gilles De­leuze &amp; Félix Gu­at­tari, ‘Qu’est-ce que la phi­lo­so­phie?’, Mi­nuit, 1991"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Gilles De­leuze &amp; Clai­re Par­net, ‘Dia­lo­gues’, Flam­ma­ri­on, 1996"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Jac­ques Derri­da, ‘Mal d’ar­chi­ve’, Galilée, 1995"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Ge­or­ges Didi-Huber­man, ‘Ima­ges Mal­gré Tout’, Mi­nuit, 2003"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Ge­or­ges Didi-Huber­man, ‘L’Ima­ge brûle’ in: Lau­rent Zim­mer­man (ed) ‘Pen­ser par les Ima­ges. Au­tour des travaux de Ge­or­ges Didi-Huber­man’, Cé­ci­le Defaut, 2006"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Gusta­ve Flaubert, ‘Bouvard et Pé­cu­chet’, 1881"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Mi­chel Fou­cault, ‘De woorden en de din­gen. Een ar­che­o­logie van de mens­we­ten­schappen’, Ambo,"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Giorgio Ag­am­ben, ‘Rem­nants of Auschwitz. The Wit­ness and the Ar­chi­ve’, Zo­ne Books, 2002 [1999]"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Giorgio Ag­am­ben, ‘Qu’est-ce que le con­tempo­rain?’, Riva­ges, 2008"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Ro­bert Antel­me, ‘De menselij­ke soort’, Sun, 2001 [1947]"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Her­man As­selberghs, Els Op­somer, Pieter Van Bogae­rt, ‘Time Sus­pended’, Squa­re, 2004"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Roland Bar­t­hes, ‘Com­ment vi­vre en­sem­ble. Cours et sé­mi­nai­res au Collè­ge de Fran­ce (1976-1977)’, Seuil, 2002"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Roland Bar­t­hes, ‘La mort de l’au­teur’. In: Id. ‘Le bruis­sement de la lan­gue’, Seuil, 1984: 61-67"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Ro­si Braidot­ti, ‘Trans­po­siti­ons. On Nomadic Ethics’, Po­li­ty, 2006"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Lie­ven De Cau­ter, ‘De cap­su­lai­re be­scha­ving. Over de stad in het tijd­perk van de angst’, NAi, 2004"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Jo­hn Ca­ge, ‘Silen­ce. Lectu­res and Writings’, Ma­ri­on Boy­ars, 2011 [1968]"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Mi­chel de Cer­teau, Lu­ce Gi­ard, Pier­re May­ol, ‘L’in­venti­on du quo­ti­dien 2. Habi­ter, cui­siner’, Folio, 1994"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Gilles De­leuze, ‘Dif­féren­ce et répé­titi­on’, PUF, 1968"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Gilles De­leuze, ‘Fou­cault’, Mi­nuit, 1986/2004"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Gilles De­leuze, ‘Le pli’, Mi­nuit, 1989"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Gilles De­leuze, ‘Pour­parlers’, Mi­nuit, 1990"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Gilles De­leuze, ‘Deux ré­gimes de fous. Tex­tes et en­tre­tiens 1975-1995’, Mi­nuit, 2003"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Gilles De­leuze &amp; Félix Gu­at­tari, ‘Mille Pla­teaux. Ca­pi­ta­lis­me et schizophré­nie 2’, Mi­nuit, 1980"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Gilles De­leuze &amp; Félix Gu­at­tari, ‘Qu’est-ce que la phi­lo­so­phie?’, Mi­nuit, 1991"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Gilles De­leuze &amp; Clai­re Par­net, ‘Dia­lo­gues’, Flam­ma­ri­on, 1996"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Jac­ques Derri­da, ‘Mal d’ar­chi­ve’, Galilée, 1995"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Ge­or­ges Didi-Huber­man, ‘Ima­ges Mal­gré Tout’, Mi­nuit, 2003"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Ge­or­ges Didi-Huber­man, ‘L’Ima­ge brûle’ in: Lau­rent Zim­mer­man (ed) ‘Pen­ser par les Ima­ges. Au­tour des travaux de Ge­or­ges Didi-Huber­man’, Cé­ci­le Defaut, 2006"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Gusta­ve Flaubert, ‘Bouvard et Pé­cu­chet’, 1881"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Mi­chel Fou­cault, ‘De woorden en de din­gen. Een ar­che­o­logie van de mens­we­ten­schappen’, Ambo,"/>
             <nbspace/>
-            <ITEXT CH="1973 [Gal­limard, 1966]"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Mi­chel Fou­cault, ‘L’ar­chéo­logie du sa­voir’, Gal­limard, 1969"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Mi­chel Fou­cault, ‘Qu’est-ce qu’un au­teur?’, 1969"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Mi­chael Hardt &amp; An­tonio Ne­gri, ‘Em­pi­re’, Harvard, 2000"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Mi­chael Hardt &amp; An­tonio Ne­gri, ‘Mul­ti­tu­de’, Penguin, 2004"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Mi­chael Hardt &amp; An­tonio Ne­gri, ‘Com­mon­wealth’, Harvard, 2009"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Dou­g­las Kahn, ‘Water – Noi­se – Meat’, MIT, 2001"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Pri­mo Levi, ‘De Ge­tui­ge­nis­sen’, Meulen­hof, 1999 (= Is dit een mens [1947] + Het res­pijt [1963] + De ver­dron­ke­ne en de ge­red­de [1986])"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Chris­tof Mogo­ne, ‘Sonic­somatic: per­forman­ces of the uns­ound body’, Errant bodies press, 2012"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Henk Oos­ter­ling, ‘De op­stand van het li­chaam’, SUA, 1989 "/>
-            <para PARENT="body"/>
-            <ITEXT CH="Henk Oos­ter­ling, ‘Door schijn be­wogen’, Kok Agora, 1996"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Henk Oos­ter­ling, ‘Ra­di­ca­le middelmatig­heid’, Boom, 2000"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Jac­ques Ran­ciè­re, ‘Le maî­tre ig­no­rant. Cinq leçons sur l’éman­ci­pati­on in­tel­lec­tu­el­le’, Fayard, 1987"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Jac­ques Ran­ciè­re, ‘Le spec­tateur éman­cipé’, La Fabri­que, 2008"/>
-            <para PARENT="body"/>
-            <ITEXT CH="Paul Vi­ri­lio, ‘Es­thé­ti­que de la dis­pariti­on’, Galilée, 1989"/>
-            <para PARENT="body"/>
+            <ITEXT FONTSIZE="12" CH="1973 [Gal­limard, 1966]"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Mi­chel Fou­cault, ‘L’ar­chéo­logie du sa­voir’, Gal­limard, 1969"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Mi­chel Fou­cault, ‘Qu’est-ce qu’un au­teur?’, 1969"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Mi­chael Hardt &amp; An­tonio Ne­gri, ‘Em­pi­re’, Harvard, 2000"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Mi­chael Hardt &amp; An­tonio Ne­gri, ‘Mul­ti­tu­de’, Penguin, 2004"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Mi­chael Hardt &amp; An­tonio Ne­gri, ‘Com­mon­wealth’, Harvard, 2009"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Dou­g­las Kahn, ‘Water – Noi­se – Meat’, MIT, 2001"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Pri­mo Levi, ‘De Ge­tui­ge­nis­sen’, Meulen­hof, 1999 (= Is dit een mens [1947] + Het res­pijt [1963] + De ver­dron­ke­ne en de ge­red­de [1986])"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Chris­tof Mogo­ne, ‘Sonic­somatic: per­forman­ces of the uns­ound body’, Errant bodies press, 2012"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Henk Oos­ter­ling, ‘De op­stand van het li­chaam’, SUA, 1989 "/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Henk Oos­ter­ling, ‘Door schijn be­wogen’, Kok Agora, 1996"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Henk Oos­ter­ling, ‘Ra­di­ca­le middelmatig­heid’, Boom, 2000"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Jac­ques Ran­ciè­re, ‘Le maî­tre ig­no­rant. Cinq leçons sur l’éman­ci­pati­on in­tel­lec­tu­el­le’, Fayard, 1987"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Jac­ques Ran­ciè­re, ‘Le spec­tateur éman­cipé’, La Fabri­que, 2008"/>
+            <para PARENT="biblio"/>
+            <ITEXT FONTSIZE="12" CH="Paul Vi­ri­lio, ‘Es­thé­ti­que de la dis­pariti­on’, Galilée, 1989"/>
+            <breakframe/>
             <para PARENT="body"/>
             <ITEXT CH="Over de tek­sten"/>
             <para PARENT="body"/>
@@ -1128,7 +1129,7 @@
             <para PARENT="body"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="144" YPOS="795.037952755873" WIDTH="352.5" HEIGHT="566.949763779558" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 352.5 0 352.5 0 352.5 0 352.5 0 352.5 566.95 352.5 566.95 352.5 566.95 352.5 566.95 0 566.95 0 566.95 0 566.95 0 566.95 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 352.5 0 352.5 0 352.5 0 352.5 0 352.5 566.95 352.5 566.95 352.5 566.95 352.5 566.95 0 566.95 0 566.95 0 566.95 0 566.95 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="35" BACKITEM="0">
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="144" YPOS="795.037952755873" WIDTH="311.811023622047" HEIGHT="566.949763779558" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="11.3385826771654" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 566.95 311.811 566.95 311.811 566.95 311.811 566.95 0 566.95 0 566.95 0 566.95 0 566.95 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 566.95 311.811 566.95 311.811 566.95 311.811 566.95 0 566.95 0 566.95 0 566.95 0 566.95 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="34" BACKITEM="0">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="142.52031496063" YPOS="114437.724094488" WIDTH="388.346456692914" HEIGHT="549.92125984252" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="3.881" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 388.346 0 388.346 0 388.346 0 388.346 0 388.346 549.921 388.346 549.921 388.346 549.921 388.346 549.921 0 549.921 0 549.921 0 549.921 0 549.921 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 388.346 0 388.346 0 388.346 0 388.346 0 388.346 549.921 388.346 549.921 388.346 549.921 388.346 549.921 0 549.921 0 549.921 0 549.921 0 549.921 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="3" BACKITEM="-1">
@@ -1228,11 +1229,10 @@
         <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="624.410078740158" YPOS="129461.102362205" WIDTH="388.346456692914" HEIGHT="549.92125984252" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="3.881" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 388.346 0 388.346 0 388.346 0 388.346 0 388.346 549.921 388.346 549.921 388.346 549.921 388.346 549.921 0 549.921 0 549.921 0 549.921 0 549.921 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 388.346 0 388.346 0 388.346 0 388.346 0 388.346 549.921 388.346 549.921 388.346 549.921 388.346 549.921 0 549.921 0 549.921 0 549.921 0 549.921 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="32">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="142.52031496063" YPOS="1526.45669291339" WIDTH="388.346456692914" HEIGHT="549.92125984252" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="3.881" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 388.346 0 388.346 0 388.346 0 388.346 0 388.346 549.921 388.346 549.921 388.346 549.921 388.346 549.921 0 549.921 0 549.921 0 549.921 0 549.921 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 388.346 0 388.346 0 388.346 0 388.346 0 388.346 549.921 388.346 549.921 388.346 549.921 388.346 549.921 0 549.921 0 549.921 0 549.921 0 549.921 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="624.410078740158" YPOS="794.488818897638" WIDTH="311.811023622047" HEIGHT="566.011181102362" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="11.3385826771654" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 566.011 311.811 566.011 311.811 566.011 311.811 566.011 0 566.011 0 566.011 0 566.011 0 566.011 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 566.011 311.811 566.011 311.811 566.011 311.811 566.011 0 566.011 0 566.011 0 566.011 0 566.011 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="35" BACKITEM="1">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="648" YPOS="792" WIDTH="327" HEIGHT="423" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 327 0 327 0 327 0 327 0 327 423 327 423 327 423 327 423 0 423 0 423 0 423 0 423 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 327 0 327 0 327 0 327 0 327 423 327 423 327 423 327 423 0 423 0 423 0 423 0 423 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="1">
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="142.52031496063" YPOS="1526.45669291339" WIDTH="311.811023622047" HEIGHT="549.92125984252" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="11.3385826771654" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 549.921 311.811 549.921 311.811 549.921 311.811 549.921 0 549.921 0 549.921 0 549.921 0 549.921 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 549.921 311.811 549.921 311.811 549.921 311.811 549.921 0 549.921 0 549.921 0 549.921 0 549.921 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="34">
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
