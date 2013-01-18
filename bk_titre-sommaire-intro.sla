@@ -1123,7 +1123,7 @@
             <EXCEPTION WORD="slimmigheid" HYPHENATED="slimmig-heid"/>
             <EXCEPTION WORD="gesoigneerd" HYPHENATED="ge-soig-neerd"/>
         </HYPHEN>
-        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="body" ALIGN="3" LINESPMode="0" LINESP="12" FIRST="11.33858268" OpticalMargins="14" MinGlyphShrink="0.93" MaxGlyphExtend="1.07" FONT="Nadia Serif Cut BK Cut" FONTSIZE="9.3" LANGUAGE="Dutch"/>
         <STYLE NAME="pagina" ALIGN="3" LINESPMode="0" FONT="Source Sans Pro Regular" FONTSIZE="7" LANGUAGE="English"/>
         <STYLE NAME="New Style" LANGUAGE="Dutch"/>
@@ -1158,7 +1158,7 @@
         <STYLE NAME="Copy of sommaire (1)" ALIGN="1" LINESP="14" VOR="6" FONT="Consola Mono Book" FONTSIZE="10" FEATURES="" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="-1" LANGUAGE="Dutch">
             <Tabs Type="1" Pos="309.1662992" Fill="."/>
         </STYLE>
-        <CHARSTYLE CNAME="Default Character Style" FONT="Crimson Text Roman" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Dutch"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Crimson Text Roman" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Dutch"/>
         <CHARSTYLE CNAME="pers" FONT="Source Sans Pro Regular" FONTSIZE="9.5" FEATURES="" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="95" TXTULW="3" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="Dutch"/>
         <CHARSTYLE CNAME="footnote" FONT="Univers Else Light " FONTSIZE="7.5" FEATURES="superscript" FCOLOR="Magenta" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEV="102" KERN="2"/>
         <CHARSTYLE CNAME="parenthese parties intro" FONT="Source Sans Pro Light" FONTSIZE="13.5" LANGUAGE="Dutch"/>
