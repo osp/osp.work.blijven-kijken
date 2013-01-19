@@ -98,6 +98,7 @@
         <COLOR NAME="FrogFill9" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="FrogFinalFill" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="FrogInitialFill" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#000000" RGB="#000000" Spot="0" Register="0"/>
         <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
         <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
         <COLOR NAME="New Color" CMYK="#ff26ff00" Spot="0" Register="0"/>
@@ -1123,7 +1124,7 @@
             <EXCEPTION WORD="slimmigheid" HYPHENATED="slimmig-heid"/>
             <EXCEPTION WORD="gesoigneerd" HYPHENATED="ge-soig-neerd"/>
         </HYPHEN>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="body" ALIGN="3" LINESPMode="0" LINESP="12" FIRST="11.33858268" OpticalMargins="14" MinGlyphShrink="0.93" MaxGlyphExtend="1.07" FONT="Nadia Serif Cut BK Cut" FONTSIZE="9.3" LANGUAGE="Dutch"/>
         <STYLE NAME="pagina" ALIGN="3" LINESPMode="0" FONT="Source Sans Pro Regular" FONTSIZE="7" LANGUAGE="English"/>
         <STYLE NAME="New Style" LANGUAGE="Dutch"/>
@@ -1158,7 +1159,15 @@
         <STYLE NAME="Copy of sommaire (1)" ALIGN="1" LINESP="14" VOR="6" FONT="Consola Mono Book" FONTSIZE="10" FEATURES="" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="-1" LANGUAGE="Dutch">
             <Tabs Type="1" Pos="309.1662992" Fill="."/>
         </STYLE>
-        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Crimson Text Roman" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Dutch"/>
+        <STYLE NAME="biblio" ALIGN="0" LINESPMode="0" LINESP="10" VOR="0" NACH="4" FONT="Univers Else Light " FONTSIZE="7.5" LANGUAGE="Dutch"/>
+        <STYLE NAME="Copy of biblio-over titres (1)" ALIGN="1" LINESP="30" NACH="8" FONT="Source Sans Pro Light" FONTSIZE="15" FEATURES="allcaps" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="2" LANGUAGE="Dutch"/>
+        <STYLE NAME="colophon" ALIGN="0" LINESP="12" FONT="Source Sans Pro Light" FONTSIZE="9.5" LANGUAGE="Dutch"/>
+        <STYLE NAME="Copy of notes (1)" ALIGN="3" LINESP="10" INDENT="8.503937008" FIRST="-8.503937008" VOR="0" NACH="2" OpticalMargins="14" MinGlyphShrink="0.96" MaxGlyphExtend="1.03" FONT="Univers Else Light " FONTSIZE="7.5" LANGUAGE="Dutch">
+            <Tabs Type="0" Pos="8.503937008" Fill=""/>
+        </STYLE>
+        <STYLE NAME="opmaak" ALIGN="3" LINESP="12" FONT="Source Sans Pro Light" FONTSIZE="9.5" LANGUAGE="Dutch"/>
+        <STYLE NAME="over de texten" ALIGN="0" LINESP="10" INDENT="0" FIRST="0" VOR="0" NACH="4" FONT="Univers Else Light " FONTSIZE="7.5" LANGUAGE="Dutch"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="Crimson Text Roman" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Dutch"/>
         <CHARSTYLE CNAME="pers" FONT="Source Sans Pro Regular" FONTSIZE="9.5" FEATURES="" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="95" TXTULW="3" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="Dutch"/>
         <CHARSTYLE CNAME="footnote" FONT="Univers Else Light " FONTSIZE="7.5" FEATURES="superscript" FCOLOR="Magenta" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEV="102" KERN="2"/>
         <CHARSTYLE CNAME="parenthese parties intro" FONT="Source Sans Pro Light" FONTSIZE="13.5" LANGUAGE="Dutch"/>
@@ -1171,13 +1180,16 @@
         <CHARSTYLE CNAME="expression ou etrangere" FONT="Source Sans Pro Light Italic" FONTSIZE="9.5" LANGUAGE="English"/>
         <CHARSTYLE CNAME="titre body" FONT="Source Sans Pro Regular" FONTSIZE="9.5" LANGUAGE="English"/>
         <CHARSTYLE CNAME="auteurs citations" FONT="Nadia Serif Cut BK Cut" FONTSIZE="9.3" LANGUAGE="English"/>
-        <CHARSTYLE CNAME="italique dans citation" FONT="Univers Else Light Slanted" FONTSIZE="9.3" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="italique dans citation" FONT="Crimson Text Roman" FONTSIZE="9.3" LANGUAGE="English"/>
         <CHARSTYLE CNAME="intro - etrangers" FONT="Source Sans Pro ExtraLight Italic" FONTSIZE="11.5" KERN="1" LANGUAGE="Dutch"/>
         <CHARSTYLE CNAME="intro titres" FONT="Source Sans Pro Regular" FONTSIZE="11.5" FCOLOR="Black" LANGUAGE="Dutch"/>
         <CHARSTYLE CNAME="intro footnote" FONT="Univers Else Light " FONTSIZE="9.5" FEATURES="superscript" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEV="102" KERN="2"/>
         <CHARSTYLE CNAME="chiffres sommaire" FONT="Source Sans Pro Regular" FONTSIZE="11.5" LANGUAGE="Dutch"/>
         <CHARSTYLE CNAME="dots" FONT="Source Sans Pro ExtraLight" FONTSIZE="11" KERN="18" LANGUAGE="Dutch"/>
         <CHARSTYLE CNAME="Copy of titre body (1)" FONT="Source Sans Pro Semibold" FONTSIZE="9.5" FCOLOR="Black" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Footnote titre" FONT="Univers Else Regular " FONTSIZE="7.5" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="titres biblio" FONT="Univers Else Bold " FONTSIZE="7.5" LANGUAGE="Dutch"/>
+        <CHARSTYLE CNAME="titres over" FONT="Univers Else Regular " FONTSIZE="7.5" LANGUAGE="Dutch"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="1" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="0" includePDFMarks="0" PSLevel="-12808256" PDLanguage="-12808256" markOffset="3.32012114005318e-321" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="1" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="InfoString" BTop="8.50393700787402" BLeft="8.50393700787402" BRight="8.50393700787402" BBottom="8.50393700787402" useDocBleeds="0" cropMarks="1" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
@@ -1294,7 +1306,7 @@
             <ITEXT CH=". Dat is wat ik al­tijd doe. Blijven kij­ken tot er (n)iets meer te zien is. Zoeken naar en ver­lo­ren lo­pen in beelden. Het is de titel van dit boek en van deze ten­toon­stel­ling: het re­sul­taat van ja­ren kij­ken naar de we­reld, de media en de kunst. Een ac­tualisering van een re­cente ge­schie­denis."/>
             <para PARENT="intro first"/>
             <ITEXT CH="Blijven kij­ken gaat over de materie van de media. Het ver­trekt van de pixels waar­uit beelden ver­schij­nen. Het heeft aan­dacht voor de "/>
-            <ITEXT CPARENT="intro - etrangers" CH="drop-outs"/>
+            <ITEXT CPARENT="intro - etrangers" FONT="Source Sans Pro ExtraLight" CH="drop-outs"/>
             <ITEXT CH=": wat uit het beeld dreigt te val­len, wat het ka­der beves­tigt. Voor de ruis: de sto­ring die de pu­re materie van beeld en ge­luid toont. Voor tech­no­logie: die be­paalt hoe je kijkt. Voor es­the­ti­sche keuzes, die dik­wijls ook po­litieke keuzes zijn (en om­ge­keerd). Het ein­digt met pixels waar­in beelden op­nieuw verd­wij­nen. "/>
             <para PARENT="intro"/>
             <ITEXT CH="De materie van de media "/>
@@ -1309,15 +1321,17 @@
             <ITEXT CH="Op dat moment gaat de materie van "/>
             <ITEXT CPARENT="intro italics" CH="Blijven kij­ken"/>
             <ITEXT CH=" voor­bij het medium. Het is al­les en ie­der­een dat zich niet aan­past aan een sys­teem: de drop-out en de ruis, maar ook de schoolver­la­ter, de dis­sident, de patiënt, de sans-papier. Ook dat zijn drop-outs en ook dat valt on­der de materie van "/>
-            <ITEXT CPARENT="intro italics" CH="Blijven kij­ken"/>
+            <ITEXT CPARENT="intro italics" CH="Blijven Kij­ken"/>
             <ITEXT CH=". Ook zij ma­ken structu­ren zicht­baar, door zich op de rand van het ka­der te be­wegen. Daar zit de be­we­ging van Blijven kij­ken: tus­sen de tech­no­logie en de ge­brui­ker, tus­sen de ma­chi­ne en het li­chaam, tus­sen het beeld en de ac­tuali­teit, tus­sen de ac­tuali­teit en de ver­beel­ding. Al­lemaal zijn ze deel van dezelf­de re­ali­teit. Wat telt, is de be­we­ging in het kij­ken: het "/>
             <ITEXT CPARENT="intro italics" CH="naar"/>
             <ITEXT CH=", het "/>
             <ITEXT CPARENT="intro italics" CH="tus­sen"/>
-            <ITEXT CH=", het en dat de din­gen zicht­baar maakt. Al die be­we­gin­gen van ver­schij­nen "/>
+            <ITEXT CH=", het"/>
+            <ITEXT CPARENT="intro italics" CH=" en "/>
+            <ITEXT CH="dat de din­gen zicht­baar maakt. Al die be­we­gin­gen van ver­schij­nen "/>
             <ITEXT CPARENT="intro italics" CH="naar "/>
             <ITEXT CH="verd­wij­nen (en te­rug), dat is de materie van "/>
-            <ITEXT CPARENT="intro italics" CH="Blijven kij­ken"/>
+            <ITEXT CPARENT="intro italics" CH="Blijven Kij­ken"/>
             <ITEXT CH=". "/>
             <para PARENT="intro"/>
             <ITEXT CH="Ver­schij­nen en verd­wij­nen "/>
@@ -1333,12 +1347,12 @@
             <ITEXT CPARENT="intro italics" CH="mul­ti­tu­de"/>
             <ITEXT CH=" ver­beelden, de mil­joe­nen beto­gers die op 15 fe­bru­a­ri 2003 we­reld­wijd de straat op­trek­ken te­gen de oor­log in Irak. In de uit­wer­king: door het ge­bruik van ver­schillen­de dis­po­si­tieven – in­ternet­film­pjes, gsm-beelden, her­film­de video­beelden – verd­wij­nen die mil­joe­nen men­sen in de pixels van hun media. As­selberghs’ mul­ti­tu­de is een fi­lo­so­fisch con­cept dat ont­staat in en door de media. De media zijn de materie van de "/>
             <ITEXT CPARENT="intro italics" CH="mul­ti­tu­de"/>
-            <ITEXT CH=": zon­der hen geen 2/15, geen Arabi­sche Lente, geen "/>
-            <ITEXT CPARENT="intro - etrangers" CH="Oc­cu­py Wall Street"/>
-            <ITEXT CH=". En ook dit is een werk zon­der eind: aan­ge­kon­digd als "/>
-            <ITEXT CPARENT="intro - etrangers" CH="Epi­so­de 1"/>
-            <ITEXT CH=" en af­ge­slo­ten met "/>
-            <ITEXT CPARENT="intro - etrangers" CH="to be con­ti­nued"/>
+            <ITEXT CH=": zon­der hen geen 2/15, geen Arabi­sche Lente, geen"/>
+            <ITEXT CPARENT="intro italics" CH=" Oc­cu­py Wall Street."/>
+            <ITEXT CH=" En ook dit is een werk zon­der eind: aan­ge­kon­digd als "/>
+            <ITEXT CPARENT="intro italics" CH="Epi­so­de 1"/>
+            <ITEXT CH=" en af­ge­slo­ten met"/>
+            <ITEXT CPARENT="intro italics" CH=" to be con­ti­nued"/>
             <ITEXT CH=". Even einde­loos als "/>
             <ITEXT CPARENT="intro titres" CH="Pixel­sp­leen"/>
             <ITEXT CH=", even open als "/>
@@ -1358,9 +1372,9 @@
             <ITEXT CH=". Het zit ten slot­te ook in de trans­pic­tie van Gorik Lin­de­mans (van schilde­rij naar Pho­to­shop), de trans­po­si­tie van Els Vi­ae­ne en Duncan Speak­man (van op­ge­nomen ge­luid naar ge­drukt beeld) en de hermediëring van Elias Heunin­ck (van ni­traat­film naar het in­ternet). Aan elk van die es­the­ti­sche keuzes zit een niet te ont­ken­nen po­litieke dimen­sie. Ze ma­ken het kijk­proces zicht­baar. Ze to­nen hoe een beeld ont­staat en daar­door ook hoe een beeld kan ont­staan. Het toont po­tenti­eel, al­ter­na­tieven, mo­ge­lijk­he­den: "/>
             <ITEXT CPARENT="intro italics" CH="een an­der beeld is mogelijk."/>
             <para PARENT="intro"/>
-            <breakframe/>
+            <tab/>
             <ITEXT CH="Es­the­tiek en po­litiek "/>
-            <ITEXT CPARENT="parenthese parties intro" CH="(de no­tie van het bui­ten)"/>
+            <ITEXT CPARENT="parenthese parties intro" KERN="-2" CH="(de no­tie van het bui­ten)"/>
             <para PARENT="parties intro"/>
             <ITEXT CH="De be­we­ging van "/>
             <ITEXT CPARENT="intro titres" CH="Pixel­sp­leen"/>
@@ -1395,69 +1409,58 @@
             <ITEXT CH=" in het kamp van Auschwitz-Bir­ke­nau, in de zomer van 1944. Daar­voor werd eerst een came­ra en een stuk­je film het kamp in ge­smok­keld. Daar­na werden van­uit de gas­kamers vier fo­to’s ge­maakt van vrou­wen op weg naar de ver­gas­sing en van li­chamen die klaar­lig­gen om ver­brand te worden. Ver­stopt in een tube tand­pas­ta werd de film weer naar bui­ten en naar het Pool­se ver­zet ge­smok­keld. Dat bui­ten is de eni­ge drijfveer voor de levens­gevaar­lij­ke opera­tie: bui­ten ligt de hoop op een an­de­re re­ali­teit van de ten do­de op­ge­schreven gevan­ge­nen. "/>
             <para PARENT="intro first"/>
             <ITEXT CH="Het bui­ten zit ver­vat in het "/>
-            <ITEXT CPARENT="intro italics" CH="al­les "/>
-            <ITEXT CPARENT="intro - etrangers" CH="(tout)"/>
+            <ITEXT CPARENT="intro italics" CH="al­les (tout)"/>
             <ITEXT CH=" uit de titel van zijn boek. Dat wordt met­een ge­re­lati­veerd door het "/>
-            <ITEXT CPARENT="intro italics" CH="on­danks "/>
-            <ITEXT CPARENT="intro - etrangers" CH="(mal­gré)"/>
+            <ITEXT CPARENT="intro italics" CH="on­danks (mal­gré)"/>
             <ITEXT CH=" dat Didi-Huber­man er­voor zet: "/>
             <ITEXT CPARENT="intro italics" CH="al­les"/>
             <ITEXT CH=" – hoe einde­loos, grenze­loos, bui­ten­loos ook – be­staat. Daar is geen twijfel over."/>
             <ITEXT CPARENT="intro footnote" CH="4"/>
             <ITEXT CH=" Maar de onbereik­baar­heid ervan, de onvat­baar­heid, geeft op­nieuw zicht op het bui­ten. We moe­ten het al­tijd doen met het "/>
-            <ITEXT CPARENT="intro - etrangers" CH="‘mal­gré tout’"/>
-            <ITEXT FONTSIZE="6" CH=" "/>
+            <ITEXT CPARENT="intro italics" CH="mal­gré tout"/>
             <ITEXT CH=": on­danks het "/>
             <ITEXT CPARENT="intro italics" CH="al­les"/>
             <ITEXT CH=" dat on­ken­baar is, moe­ten we toch werken met die elemen­ten die wel ken­baar zijn. Al­tijd zul­len er din­gen bui­ten val­len, on­ken­baar of onzicht­baar zijn. Dat is de materie van "/>
-            <ITEXT CPARENT="intro italics" CH="Blijven kij­ken"/>
+            <ITEXT CPARENT="intro italics" CH="Blijven Kij­ken"/>
             <ITEXT CH=": de rest van dat "/>
             <ITEXT CPARENT="intro italics" CH="al­les"/>
             <ITEXT CH=", de din­gen die soms ver­schij­nen en dan weer verd­wij­nen, die soms doen kie­zen voor een es­the­tiek en dan weer ver­trek­ken van een po­litiek. "/>
             <para PARENT="intro"/>
             <para PARENT="intro"/>
-            <ITEXT CH="Dat maakt van het boek van Didi-Huber­man – vandaar de aan­dacht er­voor in deze reader zon­der de beelden te to­nen in de ten­toon­stel­ling – een oefening in "/>
-            <ITEXT CPARENT="intro italics" CH="blijven kij­ken"/>
-            <ITEXT CH=". Het is een oefening in blijven zoeken naar dat bui­ten, om on­danks het al­les dat niet te zien is in deze fo­to’s, toch te blijven werken met deze beelden. Dat kan door naar de beelden zelf te kij­ken, door naar de samen­hang tus­sen de beelden (de sequen­tie) te kij­ken, of door te zoeken in de mar­ge van de beelden: in de ver­ha­len, de ge­tui­ge­nis­sen van de over­le­ven­den van de kam­pen. Want zij zijn de wa­re drop-outs, de feitelij­ke "/>
+            <ITEXT CH="Dat maakt van het boek van Didi-Huber­man – vandaar de aan­dacht er­voor in deze reader zon­der de beelden te to­nen in de ten­toon­stel­ling – een oefening in blijven kij­ken. Het is een oefening in blijven zoeken naar dat bui­ten, om on­danks het al­les dat niet te zien is in deze fo­to’s, toch te blijven werken met deze beelden. Dat kan door naar de beelden zelf te kij­ken, door naar de samen­hang tus­sen de beelden (de sequen­tie) te kij­ken, of door te zoeken in de mar­ge van de beelden: in de ver­ha­len, de ge­tui­ge­nis­sen van de over­le­ven­den van de kam­pen. Want zij zijn de wa­re drop-outs, de feitelij­ke "/>
             <ITEXT CPARENT="intro italics" CH="mul­ti­tu­de"/>
             <ITEXT CH=" van de kam­pen, die verd­wijnt in de kor­rel van de fo­to’s. Ze zijn een duis­te­re spie­gel voor de ge­schie­denis."/>
             <para PARENT="intro first"/>
             <ITEXT CH="Tijds­beeld "/>
             <ITEXT CPARENT="parenthese parties intro" CH="(blijven kij­ken / ce qui nous regar­de)"/>
             <para PARENT="parties intro"/>
-            <ITEXT CH="An­de­re ver­ha­len en ge­tui­ge­nis­sen, dik­wijls van an­de­re en niet minder be­lang­rij­ke, minder spec­taculai­re "/>
-            <ITEXT CPARENT="intro - etrangers" CH="ho­locausts"/>
-            <ITEXT CH=", werken door bij Pieter Geenen en Mek­hi­tar Ga­rabedian. Net als As­selberghs en Martens on­der­strepen ze de ver­bonden­heid van de media en hun ge­brui­kers: hun wederzijd­se af­hankelijk­heid en daar­langs – in de woorden van Henk Oos­ter­ling – hun ra­di­ca­le middelmatig­heid."/>
+            <ITEXT CH="An­de­re ver­ha­len en ge­tui­ge­nis­sen, dik­wijls van an­de­re en niet minder be­lang­rij­ke, minder spec­taculai­re"/>
+            <ITEXT CPARENT="intro italics" CH=" ho­locausts, "/>
+            <ITEXT CH="werken door bij Pieter Geenen en Mek­hi­tar Ga­rabedian. Net als As­selberghs en Martens on­der­strepen ze de ver­bonden­heid van de media en hun ge­brui­kers: hun wederzijd­se af­hankelijk­heid en daar­langs – in de woorden van Henk Oos­ter­ling – hun ra­di­ca­le middelmatig­heid."/>
             <ITEXT CPARENT="intro footnote" CH="5"/>
             <ITEXT CH=" Wat zouden de ge­brui­kers zijn zon­der hun media en de media zon­der hun ge­brui­kers? De media zijn de toe­gang tot die an­de­re mogelij­ke we­reld waar­voor de "/>
             <ITEXT CPARENT="intro italics" CH="mul­ti­tu­de "/>
             <ITEXT CH="(op 2/15, tijdens de Arabi­sche Lente, voor "/>
-            <ITEXT CPARENT="intro - etrangers" CH="Oc­cu­py Wall Street"/>
+            <ITEXT CPARENT="intro italics" CH="Oc­cu­py Wall Street"/>
             <ITEXT CH=") de straat op­trekt. Ze zijn het medium om de gees­ten van het ver­le­den van de moeder op te roe­pen in Ga­rabedians "/>
             <ITEXT CPARENT="intro titres" CH="Wit­hout ever leaving, we are al­ready no longer the­re"/>
             <ITEXT CH=". Ze zijn de manier om ons te ver­plaat­sen naar de an­de­re kant bij Pieter Geenen. En als ze fa­len, verd­wijnt de laat­ste no­tie van het bui­ten, de laat­ste hoop bij Renzo Martens. Dat is de grens en daar houdt het op. "/>
-            <para PARENT="intro first"/>
+            <para PARENT="intro"/>
             <ITEXT CH="Ge­luk­kig fa­len ze niet al­tijd. Dat houdt de vra­gen voor "/>
-            <ITEXT CPARENT="intro italics" CH="Blijven kij­ken "/>
+            <ITEXT CPARENT="intro italics" CH="Blijven Kij­ken "/>
             <ITEXT CH="relevant: Is er nog een grens? Is er nog een bui­ten? Het ant­woord op die vra­gen twijfelt – zo­als de twee pixels in "/>
             <ITEXT CPARENT="intro titres" CH="Pixel­sp­leen"/>
-            <ITEXT CH=" – tus­sen ja en nee: er is niet één grens, niet één bui­ten. Er zijn er veel. Die twijfel, die heen-en-weerbe­we­ging tus­sen ver­schillen­de grenzen, mogelij­ke bui­tens, dat is een reden om te blijven kij­ken: voor­uit en ach­ter­uit. Het be­tekent zoeken in de res­ten van de ge­schie­denis. En er­over schrijven, zo­als Didi-Huber­man. Dat fa­len en die twijfel is ove­ri­gens de drijfveer achter elk eman­ci­pe­rend den­ken, achter elke vorm van le­ren: lees er het in­ter­view met Fem­ke Snel­ting op na. Schrijvers en het medium van het boek spe­len daar­in een gro­te rol: "/>
-            <ITEXT CPARENT="intro italics" CH="blijven pro­be­ren"/>
-            <ITEXT CH=". Net zo­als het einde­loze van het ar­chief"/>
-            <ITEXT FONTSIZE="6" CH=" "/>
-            <ITEXT CH=": "/>
-            <ITEXT CPARENT="intro italics" CH="blijven kij­ken"/>
-            <ITEXT CH="."/>
+            <ITEXT CH=" – tus­sen ja en nee: er is niet één grens, niet één bui­ten. Er zijn er veel. Die twijfel, die heen-en-weerbe­we­ging tus­sen ver­schillen­de grenzen, mogelij­ke bui­tens, dat is een reden om te blijven kij­ken: voor­uit en ach­ter­uit. Het be­tekent zoeken in de res­ten van de ge­schie­denis. En er­over schrijven, zo­als Didi-Huber­man. Dat fa­len en die twijfel is ove­ri­gens de drijfveer achter elk eman­ci­pe­rend den­ken, achter elke vorm van le­ren: lees er het in­ter­view met Fem­ke Snel­ting op na. Schrijvers en het medium van het boek spe­len daar­in een gro­te rol: blijven pro­be­ren. Net zo­als het einde­loze van het ar­chief : blijven kij­ken."/>
             <para PARENT="intro first"/>
             <para PARENT="intro"/>
             <ITEXT CH="Daar zit de his­to­ri­sche dimen­sie van "/>
-            <ITEXT CPARENT="intro italics" CH="Blijven kij­ken"/>
+            <ITEXT CPARENT="intro italics" CH="Blijven Kij­ken"/>
             <ITEXT CH=". Het is een ac­tuali­se­ren van de ge­schie­denis. Het blikt van­uit het elek­tro­nisch tijd­perk voor­uit op het digi­tale tijd­perk (Lar­chers "/>
             <ITEXT CPARENT="intro titres" CH="Video­void"/>
             <ITEXT CH="). Het kijkt van­uit het digi­tale tijd­perk te­rug naar het elek­tro­ni­sche tijd­perk (Quix’ "/>
             <ITEXT CPARENT="intro titres" CH="Not With a Bang But With a Whimper"/>
             <ITEXT CH="). Het be­gint op het hoog­te­punt van het tv-tijd­perk (de val van de muur, de oor­log in de Golf) en komt uit op het hoog­te­punt van het in­ternet­tijd­perk (de Twee­de Golfoor­log, de Arabi­sche Lente, "/>
-            <ITEXT CPARENT="intro - etrangers" CH="Oc­cu­py Wall Street"/>
+            <ITEXT CPARENT="intro italics" CH="Oc­cu­py Wall Street"/>
             <ITEXT CH="). Het is al­tijd al deel van een langer du­ren­de ge­schie­denis. Vandaar"/>
             <ITEXT FONTSIZE="6" CH=" "/>
             <ITEXT CH=": "/>
@@ -1465,7 +1468,7 @@
             <ITEXT CH=" als een trai­ler voor een video die er nooit zal komen, ‘Pixel­sp­leen’ als een ver­haal zon­der be­gin en eind, "/>
             <ITEXT CPARENT="intro titres" CH="Af­ter Em­pi­re"/>
             <ITEXT CH=" als een video "/>
-            <ITEXT CPARENT="intro - etrangers" CH="to be con­ti­nued"/>
+            <ITEXT CPARENT="intro italics" CH="to be con­ti­nued"/>
             <ITEXT CH=", de ge­schie­denis van Ga­rabedian als "/>
             <ITEXT CPARENT="intro titres" CH="Some­thing About To­day"/>
             <ITEXT CH=", Martens’ "/>
@@ -1515,24 +1518,36 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="625.590551181102" YPOS="2009.81364829397" WIDTH="311.811023622047" HEIGHT="103.780892388448" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="3" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="1" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 103.781 311.811 103.781 311.811 103.781 311.811 103.781 0 103.781 0 103.781 0 103.781 0 103.781 0 0 0 0 " NUMCO="16" COCOOR="-6.00364 -6.01266 -6.00364 -6.01266 317.807 -6.01266 317.807 -6.01266 317.807 -6.01266 317.807 -6.01266 317.807 109.768 317.807 109.768 317.807 109.768 317.807 109.768 -6.00364 109.768 -6.00364 109.768 -6.00364 109.768 -6.00364 109.768 -6.00364 -6.01266 -6.00364 -6.01266 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="21" BACKITEM="-1">
             <ITEXT CPARENT="note num" CH="1"/>
-            <ITEXT CH=" Met dank aan Christine De Smedt. Zij stelt de vraag op de haar eigen vanzelfsprekende manier bij de voorstelling van ‘4 choreographic portraits’. Zie: Christine De Smedt, ‘4 choreographic portraits’, Les ballets C de la B, 2012: 3."/>
+            <ITEXT CH=" Met dank aan Christine De Smedt. Zij stelt de vraag op de haar eigen vanzelfsprekende manier bij de voorstelling van "/>
+            <ITEXT FONT="Univers Else Regular " CH="4 choreographic portraits"/>
+            <ITEXT CH=". Zie: Christine De Smedt, "/>
+            <ITEXT FONT="Univers Else Regular " CH="4 choreographic portraits"/>
+            <ITEXT CH=", Les ballets C de la B, 2012: 3."/>
             <para PARENT="notes"/>
             <ITEXT CPARENT="note num" CH="2"/>
-            <ITEXT CH=" Met dank aan Chantal Akerman, die zichzelf een ressasseuse noemt, een herkauwster die altijd op hetzelfde werkt. In: Chantal Akerman, ‘Autoportrait en cinéaste’, Cahiers du Cinéma, 2004."/>
+            <ITEXT CH=" Met dank aan Chantal Akerman, die zichzelf een ressasseuse noemt, een herkauwster die altijd op hetzelfde werkt. In: Chantal Akerman, "/>
+            <ITEXT FONT="Univers Else Regular " CH="Autoportrait en cinéaste"/>
+            <ITEXT CH=", Cahiers du Cinéma, 2004."/>
             <para PARENT="notes"/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
             <ITEXT CPARENT="note num" CH="3"/>
-            <ITEXT CH=" Michael Hardt &amp; Antonio Negri, ‘Empire’, Harvard, 2000: 186."/>
+            <ITEXT CH=" Michael Hardt &amp; Antonio Negri, "/>
+            <ITEXT FONT="Univers Else Regular " CH="Empire"/>
+            <ITEXT CH=", Harvard, 2000: 186."/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
             <ITEXT CPARENT="note num" CH="4"/>
-            <ITEXT CH=" Volgens Quine is het ongeveer het enige waarvan je zeker kunt zijn dat het bestaat. Zijn antwoord op de vraag “what is there?”, luidt simpelweg: “Everything.” WVO Quine, ‘On What There Is’, 1948."/>
+            <ITEXT CH=" Volgens Quine is het ongeveer het enige waarvan je zeker kunt zijn dat het bestaat. Zijn antwoord op de vraag “what is there?”, luidt simpelweg: “Everything.” WVO Quine, "/>
+            <ITEXT FONT="Univers Else Regular " CH="On What There Is"/>
+            <ITEXT CH=", 1948."/>
             <para PARENT="notes"/>
             <ITEXT CPARENT="note num" CH="5"/>
-            <ITEXT CH=" Henk Oosterling, ‘Radicale middelmatigheid’, Boom, 2000."/>
+            <ITEXT CH=" Henk Oosterling, "/>
+            <ITEXT FONT="Univers Else Regular " CH="Radicale middelmatigheid"/>
+            <ITEXT CH=", Boom, 2000."/>
             <trail PARENT="notes"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1683,6 +1698,10 @@
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="710.671916000788" YPOS="629.82939634252" WIDTH="126.1161155" HEIGHT="27.99999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Source Sans Pro Light" ISIZE="11.5" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 126.116 0 126.116 0 126.116 0 126.116 0 126.116 28 126.116 28 126.116 28 126.116 28 0 28 0 28 0 28 0 28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 126.116 0 126.116 0 126.116 0 126.116 0 126.116 28 126.116 28 126.116 28 126.116 28 0 28 0 28 0 28 0 28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Source Sans Pro Light" FONTSIZE="9.5" FCOLOR="Black" FSHADE="100" CH="Reader"/>
             <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="143.940944851969" YPOS="786.532126012599" WIDTH="85" HEIGHT="96.2178739874014" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0857716067781878" LOCALSCY="0.0857977085318978" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="3" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="1" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="logos/colofonprovisoirelogos/M-Logo-118.jpg" PFILE2="" PFILE3="" PRFILE="CineonLog M " EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 85 0 85 0 85 0 85 0 85 96.2179 85 96.2179 85 96.2179 85 96.2179 0 96.2179 0 96.2179 0 96.2179 0 96.2179 0 0 0 0 " NUMCO="16" COCOOR="-2.43132 6.49389 -2.43132 6.49389 50.9615 6.49389 50.9615 6.49389 50.9615 6.49389 50.9615 6.49389 50.9615 96.2179 50.9615 96.2179 50.9615 96.2179 50.9615 96.2179 -2.43132 96.2179 -2.43132 96.2179 -2.43132 96.2179 -2.43132 96.2179 -2.43132 6.49389 -2.43132 6.49389 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
