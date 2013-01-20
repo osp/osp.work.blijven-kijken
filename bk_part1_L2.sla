@@ -134,8 +134,8 @@
         <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="body" ALIGN="3" LINESPMode="0" LINESP="12" RMARGIN="2.834645669" FIRST="7.086614173" OpticalMargins="14" MinGlyphShrink="0.95" MaxGlyphExtend="1.05" FONT="Nadia Serif Cut BK Cut" FONTSIZE="9.3" LANGUAGE="Dutch"/>
         <STYLE NAME="citations" ALIGN="3" LINESPMode="0" LINESP="14" INDENT="0" FIRST="0" VOR="2" NACH="4" OpticalMargins="14" MinGlyphShrink="0.98" MaxGlyphExtend="1.01" FONT="Univers Else Light " FONTSIZE="10" KERN="0" LANGUAGE="Dutch"/>
-        <STYLE NAME="notes" ALIGN="3" LINESP="10" INDENT="9.92125984251969" FIRST="-9.92125984251969" VOR="0" NACH="2" OpticalMargins="14" MinGlyphShrink="0.96" MaxGlyphExtend="1.03" FONT="Univers Else Light " FONTSIZE="7.5" LANGUAGE="Dutch">
-            <Tabs Type="0" Pos="9.92125984251969" Fill=""/>
+        <STYLE NAME="notes" ALIGN="3" LINESP="10" INDENT="8.503937008" FIRST="-8.503937008" VOR="0" NACH="2" OpticalMargins="14" MinGlyphShrink="0.96" MaxGlyphExtend="1.03" FONT="Univers Else Light " FONTSIZE="7.5" LANGUAGE="Dutch">
+            <Tabs Type="0" Pos="8.503937008" Fill=""/>
         </STYLE>
         <STYLE NAME="parties 1,2" ALIGN="1" LINESP="30" FONT="Source Sans Pro Light" FONTSIZE="30" LANGUAGE="Dutch"/>
         <STYLE NAME="suite titre" ALIGN="0" LINESP="14" VOR="2" NACH="3" FONT="Source Sans Pro Light" FONTSIZE="11.5" FEATURES="allcaps" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="4" LANGUAGE="Dutch"/>
@@ -282,8 +282,8 @@
         <PAGE PAGEXPOS="581.890393700788" PAGEYPOS="6939.6831496063" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="20" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="7631.65133858268" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="21" NAM="" MNAM="sans num" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="581.890393700788" PAGEYPOS="7631.65133858268" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="22" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="8323.61952755906" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="23" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="581.890393700788" PAGEYPOS="8323.61952755906" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="24" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="8323.61952755905" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="23" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="581.890393700788" PAGEYPOS="8323.61952755905" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="24" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="9015.58771653543" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="25" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="581.890393700788" PAGEYPOS="9015.58771653543" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="26" NAM="" MNAM="sans num" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="9707.55590551181" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="27" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
@@ -295,7 +295,7 @@
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="11783.4604724409" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="33" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="581.890393700788" PAGEYPOS="11783.4604724409" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="34" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="12475.4286614173" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="35" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="581.890393700788" PAGEYPOS="12475.4286614173" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="36" NAM="" MNAM="sans num" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="581.890393700788" PAGEYPOS="12475.4286614173" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="36" NAM="" MNAM="sans num" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="194.36 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="13167.3968503937" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="37" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="581.890393700788" PAGEYPOS="13167.3968503937" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="38" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="13859.3650393701" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="39" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
@@ -1143,28 +1143,28 @@
             <ITEXT CH="Over Ma­non de Boer"/>
             <para PARENT="suite titre"/>
             <ITEXT CH="“The role of the imagi­nati­on, or the mind which con­tem­pla­tes in its mul­ti­ple and frag­mented sta­tes, is to draw some­thing new from re­petiti­on, to draw a dif­feren­ce from it.”"/>
-            <ITEXT CPARENT="footnote" CH="6"/>
+            <ITEXT CPARENT="footnote" CH="1"/>
             <para PARENT="citations"/>
             <ITEXT CH="“"/>
             <ITEXT KERN="-2" CH="Sou­ti­rer à la répé­titi­on quel­que cho­se de nouveau, lui sou­ti­rer la dif­féren­ce, tel est le rôle de l’imagi­nati­on ou de l’es­prit qui con­tem­ple dans ses états mul­ti­ples et mor­celés.”"/>
-            <ITEXT CPARENT="footnote" KERN="-2" CH="7"/>
+            <ITEXT CPARENT="footnote" CH="2"/>
             <para PARENT="citations"/>
             <ITEXT CH="“De rol van de ver­beel­ding of de geest die in al zijn veel­vou­di­ge en ge­frag­men­teer­de ge­daanten aan­schouwt, be­staat er­uit om iets nieuws te ont­trek­ken aan de her­haling, namelijk het ver­schil.”"/>
-            <ITEXT CPARENT="footnote" CH="8"/>
+            <ITEXT CPARENT="footnote" CH="3"/>
             <para PARENT="citations"/>
             <ITEXT CH="Het ver­schil woont in de her­haling, zegt Gilles De­leuze, en Ma­non de Boer heeft dat goed be­grepen. Haar ge­frag­men­teer­de ver­beel­ding werkt in stappen. Ze ge­bruikt niet zozeer een tech­niek van in elkaar pas­sen­de epi­so­des, maar wel van op zich staan­de etap­pes. Het gaat hier niet zozeer over een ver­volg re­ali­se­ren, zo­als op tv, maar wel over si­tua­ties her­ha­len, zo­als in een li­chaam."/>
-            <ITEXT CPARENT="footnote" CH="9"/>
+            <ITEXT CPARENT="footnote" CH="4"/>
             <ITEXT CH=" Het gaat niet om een si­tua­tie be­grij­pen, maar eerder om een per­soon­lijk­heid vat­ten. Die van haar on­derwerp, van haar pu­bliek, van haarzelf."/>
             <para PARENT="body first"/>
             <ITEXT CH="Een beeld van het den­ken"/>
             <para PARENT="txt parts"/>
             <ITEXT CH="Haar eer­s­te werken zijn portret­ten van vrien­den. Met de su­per 8-came­ra filmt ze Ro­bert die gi­taar speelt in 1996. Ze doet dat op­nieuw in 2007. Dat is een stap, een etappe. Hier groeit een portret. Ze filmt Lau­rien die leest in 1996, in 2001 en in 2007. In haar vrou­wen­portret­ten graaft ze naar het ge­heugen van de ja­ren zeven­tig. Dat doet ze in drie stappen: Syl­via Kristel ver­telt – via haar ont­moe­ting met on­der an­de­re Hu­go Claus – over haar Pa­rij­se ja­ren, Su­e­ly Rol­nik – via haar on"/>
             <ITEXT KERN="-1" CH="t­moe­ting met on­der an­de­re De­leuze – over haar Brazi­li­aan­se bal­ling­schap, en Ro­byn Schul­kows­ky – via haar ont­moe­ting met on­der an­de­re Jo­hn Ca­ge – over haar vor­mings­ja­ren in de VS en Duits­land."/>
-            <ITEXT CPARENT="footnote" KERN="-1" CH="10"/>
+            <ITEXT CPARENT="footnote" KERN="-1" CH="5"/>
             <ITEXT KERN="-1" CH=" Syl­via Kristel brengt twee ver­sies van hetzelf­de ver­haal in één film. Van het ge­film­de ver­haal van Su­e­ly Rol­nik in "/>
             <ITEXT CPARENT="titre body" KERN="-1" CH="Re­so­nating Surfaces"/>
             <ITEXT KERN="-1" CH=" be­staat een ge­druk­te ver­sie met een ver­schil."/>
-            <ITEXT CPARENT="footnote" KERN="-1" CH="11"/>
+            <ITEXT CPARENT="footnote" KERN="-1" CH="6"/>
             <ITEXT KERN="-1" CH=" In "/>
             <ITEXT CPARENT="titre body" CH="Two Times 4'33''"/>
             <ITEXT KERN="-1" CH=" (2008) brengt ze twee ver­sies van Ca­ges com­po­si­tie. En in "/>
@@ -1183,9 +1183,9 @@
             <ITEXT CH=" schrijft De­leuze over "/>
             <ITEXT CPARENT="titre body" CH="Het beeld van het den­ken"/>
             <ITEXT CH=". Het is een dog­matisch beeld, dat het ei­gen­lij­ke den­ken dreigt te ver­plet­te­ren on­der het beeld van het Zelf­de en Gelij­ken­de in de re­pre­sen­ta­tie. Het den­ken van het ver­schil en de her­haling, van het fi­lo­so­fi­sche be­gin en herbe­gin, is een den­ken zon­der beeld. Het is het den­ken dat in het den­ken ont­staat, de den­kact die in zijn cre­a­tivi­teit ge­ge­nereerd wordt."/>
-            <ITEXT CPARENT="footnote" CH="12"/>
+            <ITEXT CPARENT="footnote" CH="7"/>
             <ITEXT CH=" Door te kij­ken naar li­chamen, te luis­te­ren naar ge­luiden, door tijd en film te her­ha­len en te ver­beelden, evoceert Ma­non de Boer het den­ken van haar per­sona­ges, van haar pu­bliek, van haarzelf. Ze lijkt te werken op het frag­ment, het ge­frag­men­teer­de, van elk ver­schil en elke her­haling. Maar ei­gen­lijk toont ze net dat het frag­ment niet be­staat. Een beeld is al­tijd volle­dig – het kan al­leen maar leiden naar een an­der beeld. Iets gelijk­aar­digs geldt voor een ge­luid : het is al­tijd syn­chroon – het kan al­leen maar leiden naar een an­de­re mo­ge­lijk­heid. Ma­non de Boer iso­leert haar beelden en ge­luiden niet, maar laat ze pre­cies werken in een gro­ter ge­heel. Elk beeld past in een om­ge­ving."/>
-            <ITEXT CPARENT="footnote" CH="13"/>
+            <ITEXT CPARENT="footnote" CH="8"/>
             <ITEXT CH=" "/>
             <para PARENT="body"/>
             <ITEXT CH="Het ge­luid in haar eer­s­te ge­film­de portret­ten zit bui­ten beeld : de gi­taar van Ro­bert, het boek van Lau­rien, de projec­tor voor het scherm. In haar eer­s­te ge­luids­werk, "/>
@@ -1195,7 +1195,7 @@
             <ITEXT CH=" en "/>
             <ITEXT CPARENT="titre body" CH="Re­so­nating Surfaces"/>
             <ITEXT CH=" zor­gen het asyn­chro­ne beeld en ge­luid voor een ge­voel van in­co­he­ren­tie : een ge­frag­men­teerd nar­ratief. In die laat­ste film is het bo­vendien een ge­luid, een schreeuw, een lied, dat het nar­ratief opent."/>
-            <ITEXT CPARENT="footnote" CH="14"/>
+            <ITEXT CPARENT="footnote" CH="9"/>
             <ITEXT CH=" In "/>
             <ITEXT CPARENT="titre body" CH="Pres­to, Per­fect Sound"/>
             <ITEXT CH=" is het beeld on­der­ge­schikt aan het ge­luid : de mon­ta­ge waarmee Ge­or­ge van Dam elke onzui­ver­heid uit het ge­luid weg­knipt om zijn per­fecte ge­luid te krij­gen, is al­leen maar waar­neem­baar in het beeld. Al die frag­men­ten (het ka­der van de portret­ten, de klan­ken van de taal, de ha­peringen in het nar­ratief, de ver­sneden op­name) vor­men een nieuw ge­heel. In "/>
@@ -1209,7 +1209,7 @@
             <ITEXT CH=", gaat over het li­chaam als klank­kast. Het gaat – op­nieuw – over het li­chaam van de per­former, van de kunste­naar, van de kij­ker. Het doet den­ken – her­haling – aan het ver­haal van Su­e­ly Rol­nik in "/>
             <ITEXT CPARENT="titre body" CH="Re­so­nating Surfaces"/>
             <ITEXT CH=", wiens li­chaam en per­soon­lijk­heid open­breekt door het te ge­brui­ken als klank­kast. Het toont ge­luid – of ook: lawaai, ruis, muziek – als iets dat lekt."/>
-            <ITEXT CPARENT="footnote" CH="15"/>
+            <ITEXT CPARENT="footnote" CH="10"/>
             <ITEXT CH=" Het toont het li­chaam als medium, als drager. En ook hier – her­haling – zijn het de drop-outs, wat weg­lekt, die het medium zicht­baar ma­ken. Denk – op­nieuw – aan de am­ne­sie, de sto­ringen in het ver­haal van Syl­via Kristel, aan wat bui­ten het ka­der valt in de portret­ten van Ro­bert en Lau­rien, aan de na­den tus­sen de cuts van "/>
             <ITEXT CPARENT="titre body" CH="Pres­to"/>
             <ITEXT CH=", aan de muziek van Ys­saÿe in het li­chaam van Cyn­thia Loemij in "/>
@@ -1218,9 +1218,9 @@
             <para PARENT="body first"/>
             <ITEXT CPARENT="titre body" CH="one, two, ma­ny"/>
             <ITEXT CH=" toont het li­chaam van de fluitist als een ma­chi­ne. Zijn li­chaam lijkt wel een doe­delzak als hij zijn longen door zijn neus vult met lucht terwijl hij door zijn mond blijft blazen op de dwarsfluit. Zijn cir­culai­re ademhalings­tech­niek zorgt voor een on­der­toon die het medium hoor­baar maakt. Dat zorgt voor een een­heid van li­chaam en in­stru­ment, van muziek en om­ge­ving. Het ge­luid komt niet al­leen uit een in­stru­ment, maar ook uit een li­chaam. Het is de les van Jo­hn Ca­ge die in zijn zoek­tocht naar stil­te voort­du­rend ge­con­fron­teerd wordt met onverwacht ge­luid. On­ge­hoord ge­luid : want voor Ca­ge is stil­te “all the sound we don’t in­tend”."/>
-            <ITEXT CPARENT="footnote" CH="16"/>
+            <ITEXT CPARENT="footnote" CH="11"/>
             <ITEXT CH=" Elke stil­te is een ge­luid. Het is de stil­te die het ge­luid hoor­baar maakt. En om­ge­keerd. Als Ca­ge het over ge­luid heeft, ge­bruikt hij vrij­wel dezelf­de woorden als over de stil­te : “When we ig­no­re it, it dis­turbs. When we lis­ten to it, we find it fasc-inating.”"/>
-            <ITEXT CPARENT="footnote" CH="17"/>
+            <ITEXT CPARENT="footnote" CH="12"/>
             <ITEXT CH=" Elke ge­wil­de stil­te, draagt een on­ge­hoord ge­luid. Een sto­ring, een drop-out, wat niet op zijn plaats is en het ge­luid van de om­ge­ving, het ka­der hoor­baar maakt. Maar natuur­lijk is dat al­leen maar een ge­voel en zijn al die ge­luiden, die sto­ringen, net wel op hun plaats. Ze zijn waar ze ho­ren. Het zijn wij – de luiste­raars – die ze er niet willen. "/>
             <para PARENT="body"/>
             <ITEXT CH="Als Ma­non de Boer Ca­ges "/>
@@ -1228,7 +1228,7 @@
             <ITEXT CH=" ver­filmt – de com­po­si­tie in drie met een stop­watch af­ge­me­ten be­we­gin­gen, waar­in de pi­anist zich achter de pi­a­no zet zon­der de toet­sen aan te raken – doet ze dat twee keer. De eer­s­te keer richt ze de vas­te came­ra op de muzikant achter de pi­a­no en regi­streert ze het om­ge­vings­ge­luid van zijn ruimte. De twee­de op­name regi­streert – met uit­zon­dering van de stop­watch van de pi­anist – geen ge­luid, terwijl de came­ra 360° door de ruimte be­weegt. Ze toont de zaal en het pu­bliek en, door het raam, de tuin, het ver­keer, het weer. De twee ge­film­de ver­sies naast elkaar zor­gen voor een ver­plaat­sing. De stil­te in de twee­de op­name, in­tro­du­ceert het ge­luid van de zaal waar­in de kij­ker naar de film kijkt. Zo maakt ze het on­ge­hoor­de hoor­baar. Wat hoort en wat niet, dat heeft hier al­les met plaats te ma­ken. Met een si­tua­tie. Door een ver­schui­ving in het ge­luid ver­plaatst Ma­non de Boer haar pu­bliek van de ene ruimte in de an­de­re, van de ene si­tua­tie (een con­cert­zaal) in de an­de­re (een filmzaal). "/>
             <para PARENT="body"/>
             <ITEXT CH="De pa­radox van Ca­ge is ook die van de Boer : door iets niet te la­ten ho­ren, maakt ze iets an­ders hoor­baar. Stil­te is hier het equi­va­lent van het bui­tenbeeld in de ci­nema. De stil­te in een com­po­si­tie, de stil­te in een ver­haal, de stil­te van een beeld. Ze toont het (n)iets. Hier is elk niets al­tijd al iets. Vandaar de rol van de ver­ha­len bij Ca­ge en bij de Boer. Het is niet zozeer het ver­haal (het iets) dat telt, maar wel het ge­beu­ren errond (het niets). Als Ca­ge ver­telt over zijn zoek­tocht naar padden­stoe­len, ver­telt hij ei­gen­lijk iets over zijn com­po­sitie­tech­niek."/>
-            <ITEXT CPARENT="footnote" CH="18"/>
+            <ITEXT CPARENT="footnote" CH="13"/>
             <ITEXT CH=" Als Su­e­ly Rol­nik ver­telt over hoe de muziek van het tro­pi­calis­mo haar li­chaam be­vrijdt, ver­telt ze ei­gen­lijk iets over de Brazi­li­aan­se dictatuur. Als Ro­byn Schul­kows­ky ver­telt over Ca­ge, heeft ze het ei­gen­lijk over de geest van een tijd."/>
             <para PARENT="body"/>
             <ITEXT CH="Idi­or­ryth­mie"/>
@@ -1238,23 +1238,23 @@
             <ITEXT CH=" ver­telt de Brus­sel­se dan­se­res Met­te Edvard­sen over hoor­colle­ges van Roland Bar­t­hes. In die colle­ges spe­len ver­ha­len een gro­te rol. De ver­ha­len die hij ge­bruikt, als frag­men­ten, om zijn ei­gen ver­haal te illustre­ren, die­nen om een me­tho­de, een cul­tuur zicht­baar te ma­ken. Voor een van de sleutel­con­cep­ten uit de colle­ges waar Edvard­sen naar luistert – "/>
             <ITEXT CPARENT="titre body" CH="Com­ment vi­vre en­sem­ble"/>
             <ITEXT CH=" uit 1976 – bedacht Bar­t­hes het neo­lo­gis­me ‘idi­or­ryth­mie’. Die term ge­bruikt Bar­t­hes voor de manier waar­op ie­der­een een ei­gen rit­me zoekt, vindt, toe­past en be­schermt op zijn ei­gen leven. Idi­or­ryth­mie im­pli­ceert ver­zet te­gen de macht of op zijn minst toch een spanning tus­sen macht en margi­nali­teit. Bar­t­hes legt dat uit door een on­derscheid te ma­ken tus­sen rit­me en rhuth­mos. Met het eer­s­te doelt hij op het af­ge­me­ten rit­me van de me­tronoom. Het twee­de is het be­vrij­de rit­me van de jazz: de swing. Rhuth­mos, dat is het rit­me dat iets toe­voegt of weg­neemt: een imper­fec­tie, een sup­plement, een gemis, een idi­os: wat niet past in een structuur (op een plaats, in een si­tua­tie: het on­ge­hoor­de)."/>
-            <ITEXT CPARENT="footnote" CH="19"/>
+            <ITEXT CPARENT="footnote" CH="14"/>
             <ITEXT CH=" De ont­wik­ke­ling van dat ei­gen rit­me, van die idi­or­ryth­mie, is een voor­waar­de voor het goe­de samen­leven. "/>
             <para PARENT="body first"/>
             <ITEXT CH="Ook hier die be­lang­rij­ke rol van het ver­haal : idi­or­ryth­mie – het rit­me waarmee elk li­chaam waar­neemt, regi­streert, ver­werkt – dat is, volgens Bar­t­hes, een fantas­me. Het gaat over de con­struc­tie van een ei­gen nar­ratief. Bar­t­hes wijst in zijn colle­ges op het ver­brok­kel­de rit­me van zijn ei­gen ver­haal, over de ver­schillen­de stappen, etap­pes die hij ge­bruikt om een­heid te bren­gen in die dis­con­ti­nuï­teit."/>
-            <ITEXT CPARENT="footnote" CH="20"/>
+            <ITEXT CPARENT="footnote" CH="15"/>
             <ITEXT CH=" Dat is de po­litiek van zijn me­tho­de : de de­con­struc­tie van de me­tataal."/>
-            <ITEXT CPARENT="footnote" CH="21"/>
+            <ITEXT CPARENT="footnote" CH="16"/>
             <ITEXT CH=" De ruis die dan ont­staat, het ge­luid van de les waar Edvard­sen het over heeft, werkt in twee richtin­gen : het hoort hem toe en het houdt hem in het vizier."/>
-            <ITEXT CPARENT="footnote" CH="22"/>
+            <ITEXT CPARENT="footnote" CH="17"/>
             <ITEXT CH=" Zijn con­cept van de idi­or­ryth­mie is daar deel van, als drop-out, als margi­nali­teit, als ab­normali­teit : het on­ge­hoor­de tastbaar ge­maakt."/>
-            <ITEXT CPARENT="footnote" CH="23"/>
+            <ITEXT CPARENT="footnote" CH="18"/>
             <ITEXT CH=" "/>
             <para PARENT="body"/>
             <ITEXT CH="Als Met­te Edvard­sen ver­telt over de colle­ges van Bar­t­hes, heeft ze het niet langer over een discours, maar over de wer­king van een stem en een li­chaam. Ze spreekt over Bar­t­hes’ li­chaam als klank­kast. De ironie maakt dat ove­ri­gens met­een duidelijk in de op­names van het eer­s­te colle­ge van "/>
             <ITEXT CPARENT="titre body" CH="Com­ment vi­vre en­sem­ble"/>
             <ITEXT CH="."/>
-            <ITEXT CPARENT="footnote" CH="24"/>
+            <ITEXT CPARENT="footnote" CH="19"/>
             <ITEXT CH=" De au­la waar Bar­t­hes moet spreken is te klein om al­le li­chamen van de luiste­raars op te van­gen. Bo­vendien werkt de ge­luids­in­stal­la­tie niet en moet Bar­t­hes de zaal toe­spreken op ei­gen kracht. Hij is volle­dig aan­ge­wezen op zijn ei­gen li­chaam om te com­muni­ce­ren met de zit­ten­de en staan­de li­chamen in de zaal. De af­wezig­heid van media (de ge­luids­in­stal­la­tie, een gro­te­re zaal) maakt de aan­wezi­ge media (het ei­gen li­chaam, de te klei­ne zaal) tastbaar. Bar­t­hes voelt zich on­ge­makkelijk : deze si­tua­tie hoort niet."/>
             <para PARENT="body"/>
             <ITEXT CH="Elk li­chaam is een klank­kast. Niet al­leen dat van Bar­t­hes. Het maakt elke op­voe­ring, elke weerga­ve, elke be­luistering, elke her­haling ver­schillend. Het li­chaam van de fluitist in "/>
@@ -1527,82 +1527,95 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="42" PTYPE="4" XPOS="668.788390941732" YPOS="14996.5801574816" WIDTH="225.139763741619" HEIGHT="100.108818896389" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="3" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="1" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 225.14 0 225.14 0 225.14 0 225.14 0 225.14 100.109 225.14 100.109 225.14 100.109 225.14 100.109 0 100.109 0 100.109 0 100.109 0 100.109 0 0 0 0 " NUMCO="16" COCOOR="-6.02244 -6.58476 -6.02244 -6.58476 231.117 -6.58476 231.117 -6.58476 231.117 -6.58476 231.117 -6.58476 231.117 106.637 231.117 106.637 231.117 106.637 231.117 106.637 -6.02244 106.637 -6.02244 106.637 -6.02244 106.637 -6.02244 106.637 -6.02244 -6.58476 -6.02244 -6.58476 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="118" BACKITEM="-1">
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="6"/>
-            <ITEXT CH=" Gilles Deleuze, geciteerd in: Christof Migone, "/>
+            <ITEXT CPARENT="note num" CH="1"/>
+            <tab/>
+            <ITEXT CH="Gilles Deleuze, geciteerd in: Christof Migone, "/>
             <ITEXT CPARENT="Footnote titre" CH="Sonicsomatic: performances of the unsound body"/>
             <ITEXT CH=", Errant bodies press, 2012: 151."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="7"/>
-            <ITEXT CH=" Gilles Deleuze, "/>
+            <ITEXT CPARENT="note num" CH="2"/>
+            <tab/>
+            <ITEXT CH="Gilles Deleuze, "/>
             <ITEXT CPARENT="Footnote titre" CH="Différence et répétition"/>
             <ITEXT CH=", PUF, 1968: 103."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="8"/>
-            <ITEXT CH=" Gilles Deleuze, "/>
+            <ITEXT CPARENT="note num" CH="3"/>
+            <tab/>
+            <ITEXT CH="Gilles Deleuze, "/>
             <ITEXT CPARENT="Footnote titre" CH="Verschil en herhaling"/>
             <ITEXT CH=", Boom, 2011: 124 – vertaald door Walter van der Star."/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="9"/>
-            <ITEXT CH=" Zie over werken in episodes naar een vervolg de tekst over Herman Asselberghs verder in deze reader."/>
+            <ITEXT CPARENT="note num" CH="4"/>
+            <tab/>
+            <ITEXT CH="Zie over werken in episodes naar een vervolg de tekst over Herman Asselberghs verder in deze reader."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="10"/>
-            <ITEXT CH=" In "/>
+            <ITEXT CPARENT="note num" CH="5"/>
+            <tab/>
+            <ITEXT CH="In "/>
             <ITEXT CPARENT="Footnote titre" CH="Sylvia Kristel – Paris"/>
             <ITEXT CH=" (2003), "/>
             <ITEXT CPARENT="Footnote titre" CH="Resonating Surfaces"/>
             <ITEXT CH=" (2005) en ‘Think about Wood, Think about Metal’ (2011)."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="11"/>
-            <ITEXT CH=" De tekst staat in de catalogus bij haar tentoonstelling in Witte de With en Frankfurter Kunstverein. En in een gesprek over Suely Rolnik vertelt Manon de Boer hoe Rolnik altijd ontevreden blijft bij elke versie die ze ziet, hoort, leest van haar eigen verhaal. Zie: http://squarevzw.be/ensuite/manoninterview.htm."/>
+            <ITEXT CPARENT="note num" CH="6"/>
+            <tab/>
+            <ITEXT CH="De tekst staat in de catalogus bij haar tentoonstelling in Witte de With en Frankfurter Kunstverein. En in een gesprek over Suely Rolnik vertelt Manon de Boer hoe Rolnik altijd ontevreden blijft bij elke versie die ze ziet, hoort, leest van haar eigen verhaal. Zie: http://squarevzw.be/ensuite/manoninterview.htm."/>
             <para PARENT="notes"/>
             <breakframe/>
-            <ITEXT CPARENT="note num" CH="12"/>
-            <ITEXT CH=" Gilles Deleuze, "/>
+            <ITEXT CPARENT="note num" CH="7"/>
+            <tab/>
+            <ITEXT CH="Gilles Deleuze, "/>
             <ITEXT CPARENT="Footnote titre" CH="Différence et répétition"/>
             <ITEXT CH=": 217. "/>
             <breakline/>
             <para PARENT="notes" ALIGN="0"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="13"/>
-            <ITEXT CH=" Ook een oeuvre is zo’n omgeving: “Als een film af is, kom ik er niet meer aan. Het kan altijd beter in een volgende film. Dat wel. In die zin kun je wel zeggen dat alle werken samen een soort archief vormen van iets, of dat ze ergens rond cirkelen. Maar ik streef niet naar het perfecte werk. En ik zou nooit een film opnieuw kunnen maken. Daar zou ik helemaal gek van worden.” Zie: http://squarevzw.be/ensuite/manoninterview"/>
+            <ITEXT CPARENT="note num" CH="8"/>
+            <tab/>
+            <ITEXT CH="Ook een oeuvre is zo’n omgeving: “Als een film af is, kom ik er niet meer aan. Het kan altijd beter in een volgende film. Dat wel. In die zin kun je wel zeggen dat alle werken samen een soort archief vormen van iets, of dat ze ergens rond cirkelen. Maar ik streef niet naar het perfecte werk. En ik zou nooit een film opnieuw kunnen maken. Daar zou ik helemaal gek van worden.” Zie: http://squarevzw.be/ensuite/manoninterview"/>
             <breakline/>
             <ITEXT CH=".htm"/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="14"/>
-            <ITEXT CH=" Suely Rolnik vertelt hoe het zingen van een Braziliaans lied haar lichaam, als een harnas, openbreekt. Dat is het moment waarop ze beslist om Parijs te verlaten en terug te keren naar Brazilië, waar ze o.a. veel tijd zal besteden aan de studie van de erg lichamelijke kunst van Lygia Clarke."/>
+            <ITEXT CPARENT="note num" CH="9"/>
+            <tab/>
+            <ITEXT CH="Suely Rolnik vertelt hoe het zingen van een Braziliaans lied haar lichaam, als een harnas, openbreekt. Dat is het moment waarop ze beslist om Parijs te verlaten en terug te keren naar Brazilië, waar ze o.a. veel tijd zal besteden aan de studie van de erg lichamelijke kunst van Lygia Clarke."/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="15"/>
-            <ITEXT CH=" “(…) noise is a leakage occurring at various levels, from material infestation of the airwaves (e.g. Artaud’s scatological radio work) to resistant strain opposing the propensity of historification to linearize genealogies and only permit through traffic in delineated intersections.” Christof Migone, "/>
+            <ITEXT CPARENT="note num" CH="10"/>
+            <tab/>
+            <ITEXT CH="“(…) noise is a leakage occurring at various levels, from material infestation of the airwaves (e.g. Artaud’s scatological radio work) to resistant strain opposing the propensity of historification to linearize genealogies and only permit through traffic in delineated intersections.” Christof Migone, "/>
             <ITEXT CPARENT="Footnote titre" CH="Sonicsomatic: performances of the unsound body"/>
             <ITEXT CH=": 5."/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="16"/>
-            <ITEXT CH=" Douglas Kahn, "/>
+            <ITEXT CPARENT="note num" CH="11"/>
+            <tab/>
+            <ITEXT CH="Douglas Kahn, "/>
             <ITEXT CPARENT="Footnote titre" CH="Noise, Water, Meat"/>
             <ITEXT CH=", MIT, 2001: 163."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="17"/>
-            <ITEXT CH=" John Cage, "/>
+            <ITEXT CPARENT="note num" CH="12"/>
+            <tab/>
+            <ITEXT CH="John Cage, "/>
             <ITEXT CPARENT="Footnote titre" CH="Silence"/>
             <ITEXT CH=", Marion Boyars, 2011 (1968): 3."/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="18"/>
-            <ITEXT CH=" Lees er het laatste stuk in hetzelfde boek op na: "/>
+            <ITEXT CPARENT="note num" CH="13"/>
+            <tab/>
+            <ITEXT CH="Lees er het laatste stuk in hetzelfde boek op na: "/>
             <ITEXT CPARENT="Footnote titre" CH="Indeterminacy"/>
             <ITEXT CH=": 260-273."/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="19"/>
+            <ITEXT CPARENT="note num" CH="14"/>
             <tab/>
             <ITEXT CH="Roland Barthes,"/>
             <ITEXT CPARENT="Footnote titre" CH=" Comment vivre ensemble"/>
@@ -1610,23 +1623,23 @@
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="20"/>
+            <ITEXT CPARENT="note num" CH="15"/>
             <tab/>
             <ITEXT CH="Ibidem: 52."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="21"/>
+            <ITEXT CPARENT="note num" CH="16"/>
             <tab/>
             <ITEXT CH="Ibidem: 53."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="22"/>
+            <ITEXT CPARENT="note num" CH="17"/>
             <tab/>
             <ITEXT CH="Ibidem: 118: “Tous les bruits m’appartiennent, me concernent: je suis visé par le bruit inconnu.”"/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="23"/>
+            <ITEXT CPARENT="note num" CH="18"/>
             <tab/>
             <ITEXT CH="Ibidem: 132."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="24"/>
+            <ITEXT CPARENT="note num" CH="19"/>
             <tab/>
             <ITEXT CH="Ze staan allemaal online: http://www.ubu.com/sound"/>
             <breakline/>
@@ -1695,7 +1708,9 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="41" PTYPE="4" XPOS="185.567559055118" YPOS="15158.5418307087" WIDTH="225.986456692913" HEIGHT="42.1875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Picture title, Elias Heuninck - 2012"/>
+            <ITEXT CH="Elias Heuninck, "/>
+            <ITEXT FONT="Source Sans Pro Semibold" CH="Lyrische Data"/>
+            <ITEXT CH=", 2010"/>
             <trail PARENT="pagina" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1703,52 +1718,70 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="30" PTYPE="7" XPOS="656.308070870788" YPOS="10883.0610236102" WIDTH="246.32" HEIGHT="0" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.5" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="4" POCOOR="0 0 0 0 246.32 0 246.32 0 " NUMCO="8" COCOOR="3.29921 4.1588 3.29921 4.1588 245.985 4.1588 245.985 4.1588 245.985 4.1588 245.985 4.1588 245.985 4.1588 245.985 4.1588 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="30" PTYPE="7" XPOS="656.308070870788" YPOS="10863.2185039252" WIDTH="246.32" HEIGHT="0" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.5" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="4" POCOOR="0 0 0 0 246.32 0 246.32 0 " NUMCO="8" COCOOR="3.29921 4.1588 3.29921 4.1588 245.985 4.1588 245.985 4.1588 245.985 4.1588 245.985 4.1588 245.985 4.1588 245.985 4.1588 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="7" PTYPE="4" XPOS="185.56755905126" YPOS="3395.08261814803" WIDTH="225.9864567" HEIGHT="42.1875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Picture title, Author - 2012"/>
+            <ITEXT CH="David Larcher, "/>
+            <ITEXT FONT="Source Sans Pro Semibold" CH="Videovoid: Trailer"/>
+            <ITEXT CH=", 1993"/>
             <trail PARENT="pagina" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="185.56755905126" YPOS="4087.05080712441" WIDTH="225.9864567" HEIGHT="42.1875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Picture title, Author - 2012"/>
+            <ITEXT CH="Els Opsomer, "/>
+            <ITEXT FONT="Source Sans Pro Bold" CH="_imovie[3]_: silver lips/for me"/>
+            <ITEXT CH=", 2006"/>
             <trail PARENT="pagina" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="14" PTYPE="4" XPOS="667.457322830788" YPOS="5470.98718507717" WIDTH="225.9864567" HEIGHT="42.1875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Picture title, Author - 2012"/>
+            <ITEXT CH="Anouk De Clercq, "/>
+            <ITEXT FONT="Source Sans Pro Semibold" CH="Kernwasser Wunderland"/>
+            <ITEXT CH=", 2004"/>
             <trail PARENT="pagina" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="21" PTYPE="4" XPOS="185.56755905126" YPOS="8238.85994098268" WIDTH="225.9864567" HEIGHT="42.1875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Picture title, Author - 2012"/>
+            <ITEXT CH="Anouk De Clercq &amp; Jerry Galle, "/>
+            <ITEXT FONT="Source Sans Pro Semibold" CH="Pixelspleen"/>
+            <ITEXT CH=", 2007"/>
             <trail PARENT="pagina" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="26" PTYPE="4" XPOS="667.457322830788" YPOS="9622.79631893543" WIDTH="225.9864567" HEIGHT="42.1875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Picture title, Author - 2012"/>
+            <ITEXT CH="Wim Janssen, "/>
+            <ITEXT FONT="Source Sans Pro Semibold" CH="Static"/>
+            <ITEXT CH=", 2010"/>
             <trail PARENT="pagina" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="29" PTYPE="4" XPOS="185.56755905126" YPOS="11006.7326968882" WIDTH="225.9864567" HEIGHT="42.1875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Picture title, Author - 2012"/>
+            <ITEXT CH="Stefaan Quix, "/>
+            <ITEXT FONT="Source Sans Pro Semibold" CH="Three Colour Systems: RGB, CMYK, BOP"/>
+            <ITEXT CH=", 2011"/>
             <trail PARENT="pagina" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="31" PTYPE="4" XPOS="185.56755905126" YPOS="11698.7008858646" WIDTH="225.9864567" HEIGHT="42.1875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Picture title, Author - 2012"/>
+            <ITEXT CH="Els Viaene &amp; Duncan Speakman, "/>
+            <ITEXT FONT="Source Sans Pro Semibold" CH="Soft Boundary"/>
+            <ITEXT CH=", 2012"/>
             <trail PARENT="pagina" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="36" PTYPE="4" XPOS="667.457322830788" YPOS="13082.6372638173" WIDTH="225.9864567" HEIGHT="42.1875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Picture title, Author - 2012"/>
+            <ITEXT CH="Gorik Lindemans, "/>
+            <ITEXT FONT="Source Sans Pro Semibold" CH="Madonna met kind"/>
+            <ITEXT CH=", 2011"/>
             <trail PARENT="pagina" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="53" PTYPE="4" XPOS="185.56755905126" YPOS="19310.3509646047" WIDTH="225.9864567" HEIGHT="42.1875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 225.986 0 225.986 0 225.986 0 225.986 0 225.986 42.1875 225.986 42.1875 225.986 42.1875 225.986 42.1875 0 42.1875 0 42.1875 0 42.1875 0 42.1875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Picture title, Author - 2012"/>
+            <ITEXT CH="Manon de Boer, "/>
+            <ITEXT FONT="Source Sans Pro Semibold" CH="one, two, many"/>
+            <ITEXT CH=", 2012"/>
             <trail PARENT="pagina" ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
