@@ -187,7 +187,7 @@
         <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="body" ALIGN="3" LINESPMode="0" LINESP="12" FIRST="11.33858268" OpticalMargins="14" MinGlyphShrink="0.93" MaxGlyphExtend="1.07" FONT="Nadia Serif Cut BK Cut" FONTSIZE="9.3" LANGUAGE="Dutch"/>
         <STYLE NAME="citations" ALIGN="3" LINESPMode="0" LINESP="14" INDENT="0" FIRST="0" VOR="2" NACH="4" OpticalMargins="14" MinGlyphShrink="0.98" MaxGlyphExtend="1.01" FONT="Univers Else Light " FONTSIZE="10" KERN="0" LANGUAGE="Dutch"/>
         <STYLE NAME="notes" ALIGN="3" LINESP="10" INDENT="8.503937008" FIRST="-8.503937008" VOR="0" NACH="2" OpticalMargins="14" MinGlyphShrink="0.96" MaxGlyphExtend="1.03" FONT="Univers Else Light " FONTSIZE="7.5" LANGUAGE="Dutch">
@@ -215,7 +215,7 @@
         <STYLE NAME="notes 100" ALIGN="3" LINESP="10" INDENT="11.33858268" FIRST="-11.33858268" VOR="0" NACH="2" OpticalMargins="14" MinGlyphShrink="0.96" MaxGlyphExtend="1.03" FONT="Univers Else Light " FONTSIZE="7.5" LANGUAGE="Dutch">
             <Tabs Type="0" Pos="8.503937008" Fill=""/>
         </STYLE>
-        <CHARSTYLE CNAME="Default Character Style" FONT="Bitstream Charter Bold" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Bitstream Charter Bold" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="footnote" FONT="Univers Else Light " FONTSIZE="7.5" FEATURES="superscript" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEV="102" KERN="2"/>
         <CHARSTYLE CNAME="pers" FONT="Source Sans Pro Regular" FONTSIZE="9.5" FEATURES="" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="95" TXTULW="3" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="Dutch"/>
         <CHARSTYLE CNAME="partsinfos()" FONT="Source Sans Pro Light" FONTSIZE="9.5" LANGUAGE="English"/>
@@ -234,7 +234,7 @@
         <LAYERS NUMMER="1" LEVEL="1" NAME="Bottom" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
         <LAYERS NUMMER="2" LEVEL="2" NAME="Top" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="1" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-8609207" PDLanguage="-8609207" markOffset="-1.54416265927435e+263" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
-        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="0" CMethod="0" Quality="1" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="1" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="8.50393700787402" BLeft="8.50393700787402" BRight="8.50393700787402" BBottom="8.50393700787402" useDocBleeds="0" cropMarks="1" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="0" CMethod="0" Quality="1" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="1" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
             <Subset Name="Bitstream Charter Bold"/>
             <Subset Name="Nadia Serif Cut BK Cut"/>
             <Subset Name="Source Sans Pro Bold"/>
@@ -244,6 +244,7 @@
             <Subset Name="Source Sans Pro Semibold"/>
             <Subset Name="Univers Else Bold "/>
             <Subset Name="Univers Else Light "/>
+            <Subset Name="Univers Else Regular "/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
@@ -380,7 +381,7 @@
         <PAGE PAGEXPOS="581.890393700788" PAGEYPOS="4863.77858267717" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="14" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5555.74677165354" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="15" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="199.583 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="581.890393700788" PAGEYPOS="5555.74677165354" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="16" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="6247.71496062992" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="17" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="6247.71496062992" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="17" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="197.352 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="581.890393700788" PAGEYPOS="6247.71496062992" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="18" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="6939.6831496063" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="19" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="581.890393700788" PAGEYPOS="6939.6831496063" PAGEWIDTH="481.889763779528" PAGEHEIGHT="651.968503937008" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="20" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="198.425 " HorizontalGuides="316.063 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
@@ -998,10 +999,10 @@
             <para PARENT="titres"/>
             <ITEXT CH="(Le­ren van Auschwitz)"/>
             <para PARENT="suite titre"/>
-            <ITEXT CH="0. Te veel of te weinig beeld? "/>
+            <ITEXT CH="0. Te veel of te weinig beeld ? "/>
             <para PARENT="txt parts"/>
             <ITEXT CH="Zijn er te veel of te weinig beelden ? De vraag rees een paar jaar ge­le­den in de na­sleep van 11 sep­tem­ber en de beelden­stroom die 9/11 met zich mee­bracht : beelden van terro­risten en gijze­laars in Af­ghanis­tan of Irak, beelden uit Ame­rikaan­se gevan­ge­nis­kam­pen als Abu Ghraib of Gu­ant­a­na­mo Bay en al­le an­de­re beelden van burgers, ac­tivisten of pro­fes­si­onals. Mijn ant­woord kwam toen in de vorm van een ten­toon­stel­ling"/>
-            <ITEXT CPARENT="footnote" CH="1"/>
+            <ITEXT CPARENT="footnote" CH=" 1"/>
             <ITEXT CH=" : mis­schien zien we te veel "/>
             <ITEXT CPARENT="body italic" CH="dezelf­de"/>
             <ITEXT CH=" beelden en is er nood aan meer "/>
@@ -1046,8 +1047,8 @@
             <para PARENT="body"/>
             <ITEXT KERN="-1" CH="1. Sok­kel "/>
             <para PARENT="txt parts"/>
-            <ITEXT KERN="-1" CH="“[…] l’énoncé n’est pas im­mé­diatement per­cep­ti­ble, tou­jours re­couvert par les phrases et les pro­po­siti­ons. Il faut en dé­cou­vrir le ‘so­cle’, le polir, mê­me le façonner, l’in­venter.”"/>
-            <ITEXT CPARENT="footnote" CH="XX"/>
+            <ITEXT KERN="-1" CH="“[…] l’énoncé n’est pas im­mé­diatement per­cep­ti­ble, tou­jours re­couvert par les phrases et les pro­po­siti­ons. Il faut en dé­cou­vrir le ‘so­cle’, le polir, mê­me le façonner, l’in­venter."/>
+            <ITEXT CPARENT="footnote" CH="4"/>
             <ITEXT KERN="-1" CH=" "/>
             <para PARENT="citations"/>
             <ITEXT CH="In "/>
@@ -1057,7 +1058,7 @@
             <ITEXT CH=" et, si pos­si­ble, la fai­re sui­vre d’une syn­thè­se qui pour­rait s’in­ti­tu­ler "/>
             <ITEXT CPARENT="body italic" CH="Les Ima­ges, les mots et les choses"/>
             <ITEXT CH=". Bref, re­pren­d­re et réor­gani­ser un im­men­se matériau his­to­ri­que et théo­ri­que.”"/>
-            <ITEXT CPARENT="footnote" CH="4"/>
+            <ITEXT CPARENT="footnote" CH="5"/>
             <ITEXT CH=" Didi-Huber­mans im­pli­ciete ver­wijzing naar twee vroe­ge werken van Fou­cault om een ant­woord te vin­den op de expli­ciete vraag naar de “ken­nis van het beeld” en de bij­dra­ge die dat kan leve­ren aan de “his­to­ri­sche ken­nis”, leest als een pro­gram­ma. Hij ver­wijst niet al­leen naar ideeën die be­palend zijn voor de ont­wik­ke­ling van Fou­caul­ts den­ken maar ook voor dat van zijn tijd­ge­no­ten dif­fe­rentie­denkers. Die werken, en dat van de tijd­ge­no­ten die ze om­ringen, zijn de sok­kel voor een be­lang­rij­ke epi­so­de uit de na­oor­log­se fi­lo­so­fie. Didi-Huber­man heeft het over uit­brei­ding én re­conver­sie van Fou­cault en tijd­ge­no­ten. Fou­caul­ts ar­che­o­logie van het we­ten, die een ar­che­o­logie is van de uit­druk­king (het statement, "/>
             <ITEXT CPARENT="body italic" CH="l’énoncé"/>
             <ITEXT CH="), vraagt voor Didi-Huber­man om een ar­che­o­logie van het beeld. Het be­tekent dat bij Didi-Huber­man den­ken en praten over beelden, moei­lijk los te zien is van den­ken en praten over taal. En praten over een ar­che­o­logie in Fou­caul­ti­aan­se zin, be­tekent natuur­lijk praten over een gril­lig en ge­laagd ge­geven. Geen line­ai­re ge­schie­denis, maar een moei­lijk te (be)grij­pen proces."/>
@@ -1067,7 +1068,7 @@
             <ITEXT CH=" er zou kun­nen uit­zien, de­mon­streer­de Didi-Huber­man enke­le ja­ren eerder al, met het eer­s­te deel van "/>
             <ITEXT CPARENT="titre body" CH="Ima­ges Mal­gré Tout"/>
             <ITEXT CH="."/>
-            <ITEXT CPARENT="footnote" CH="5"/>
+            <ITEXT CPARENT="footnote" CH="6"/>
             <ITEXT CH=" De tekst opent met de woorden : “Pour sa­voir, il faut s’imaginer” – een mot­to dat als een ro­de draad door het boek blijft lo­pen. Om te we­ten moet je ver­beelden, of be­ter "/>
             <ITEXT CPARENT="body italic" CH=": je in­beelden"/>
             <ITEXT CH=". Het statuut van het beeld voor Didi-Huber­man – in "/>
@@ -1095,7 +1096,7 @@
             <ITEXT CH=" en het "/>
             <ITEXT CPARENT="body italic" CH="proces"/>
             <ITEXT CH=" errond, of in de woorden van Gilles De­leuze “l’ac­tu­el et le vir­tu­el”,"/>
-            <ITEXT CPARENT="footnote" CH="6"/>
+            <ITEXT CPARENT="footnote" CH="7"/>
             <ITEXT CH=" zijn on­los­ma­kelijk met elkaar ver­bon­den. Ver­beelden be­tekent een con­fron­ta­tie aan­gaan met de ac­tuali­teit van het beeld. Het be­tekent het beeld al­tijd weer tot leven bren­gen en blijven be­werken. In die zin zoek ik aan­sluiting bij het project van de fi­lo­so­fie die ont­stond op de res­ten van WO II, op het braak­land van Auschwitz, met als eer­s­te hoog­te­punt mei ’68 en zijn “ver­beel­ding aan de macht”. "/>
             <para PARENT="body"/>
             <ITEXT CH="Het object van het beeld be­tekent weinig zon­der het sub­ject van de kij­ker dat er­op in­werkt. De vra­gen over de wer­king van beelden en ver­beel­ding die aan bod komen bij Didi-Huber­man zeg­gen, net als de vra­gen over de ge­tui­ge en de ge­tui­ge­nis bij Ag­am­ben, veel over het probleem van de zicht­baar­heid. De sok­kel van Fou­cault, waar zo­wel Didi-Huber­man als Ag­am­ben va­ri­anten op con­stru­e­ren, is zicht­baar en onzicht­baar te­gelijk. Het is de uit­zon­dering die regel wordt bij Ag­am­ben : de kracht van de "/>
@@ -1103,13 +1104,13 @@
             <ITEXT CH="-cy­clus, zijn studie van de uit­zon­deringstoe­stand die loopt van Auschwitz tot Gu­ant­a­na­mo – van het Der­de Rijk tot de Pa­triot Act, schuilt pre­cies in het zicht­baar ma­ken van wat niet meer zicht­baar is. Daar­om kon Henk Oos­ter­ling deze cy­clus (waar "/>
             <ITEXT CPARENT="titre body" CH="Rem­nants of Auschwitz"/>
             <ITEXT CH=" het der­de deel van is, over de ethiek en de ge­tui­ge­nis) om­schrijven als “een con­trast­vloei­stof die in het maat­schappe­lij­ke li­chaam wordt in­ge­spo­ten en din­gen zicht­baar maakt die voor­heen onzicht­baar wa­ren”."/>
-            <ITEXT CPARENT="footnote" CH="7"/>
+            <ITEXT CPARENT="footnote" CH="8"/>
             <ITEXT CH=" Het (af­wezi­ge) beeld, het (on)zicht­ba­re wordt met an­de­re woorden steeds be­lang­rij­ker in het den­ken van Ag­am­ben. Het zicht­baar ma­ken van het onzicht­ba­re pa­ra­dig­ma van onze maat­schap­pij – de manier waar­op de (zicht­ba­re) uit­zon­deringstoe­stand de (onzicht­ba­re) regel wordt – is een sok­kel voor zijn den­ken. "/>
             <para PARENT="body"/>
             <ITEXT CH="2. Mo­nade"/>
             <para PARENT="txt parts"/>
             <ITEXT KERN="0" CH="“[…] de bin­nen­komst in het kamp bracht de schok van het onverwach­te. De we­reld waar­in men terecht­kwam was ver­schrik­kelijk, in­der­daad, maar bo­vendien onbe­grij­pe­lijk. Ze be­ant­woord­de aan geen enkel model, de vij­and was bui­ten, maar ook bin­nen, ‘wij’ was een on­om­lijnd be­grip, er wa­ren geen twee par­tij­en, er was niet één scheids­lijn maar ve­le, va­ge, mis­schien wel tal­lo­ze, een tus­sen ie­der en ie­der an­der. Wie bin­nen­kwam hoop­te ten­minste op so­li­dari­teit van zijn lot­ge­no­ten, maar af­ge­zien van bij­zon­dere geval­len wa­ren er geen vrien­den. Wat er was, wa­ren dui­zend ver­ze­gel­de mo­na­den die een wan­ho­pi­ge, on­der­grond­se, on­op­houdelij­ke strijd met elkaar voerden.”"/>
-            <ITEXT CPARENT="footnote" CH="XX"/>
+            <ITEXT CPARENT="footnote" CH="9"/>
             <para PARENT="citations"/>
             <ITEXT CH="Dui­zend ver­ze­gel­de mo­na­den. Daar moe­ten we het mee doen als we het hebben over Auschwitz. Dat maakt het moei­lijk of vrij­wel on­mogelijk om nog iets te ver­tel­len, te to­nen van Auschwitz. De mo­na­den zijn niet al­leen ver­ze­geld en dra­gen hun volle­di­ge wer­ke­lijk­heid in zich. De mees­ten hebben het bo­vendien niet over­leefd en er zijn steeds minder over­le­ven­den. Van die over­le­ven­den is elk ver­haal, elke ge­tui­ge­nis, elk beeld dat ons wel bereikt, een op zich staand ge­slo­ten ge­heel dat be­werkt moet worden om er een be­teke­nis uit te ha­len. Een al­tijd deli­cate en dik­wijls on­eer­ba­re hande­ling. Een on­rechtvaar­dig­heid die no­dig is om de res­ten van de ge­schie­denis tot hun recht te la­ten komen. Elke mo­nade is een af­ge­rond ge­heel en toch al­leen maar een frag­ment, tus­sen al die an­de­re mo­na­den. Al­tijd volle­dig en toch onvolle­dig. Al die mo­na­den, daar moe­ten we het mee doen. "/>
             <para PARENT="body first"/>
@@ -1118,26 +1119,31 @@
             <ITEXT CH="Als om ons te hel­pen het on­voor­stel­ba­re op­nieuw voor­stel­baar te ma­ken, is de be­schrij­ving van Didi-Huber­man zo mogelijk nog ge­de­tailleerder dan die van de over­le­ven­den, om­dat hij – als ge­tui­ge van de ge­tui­gen – een be­roep kan doen op ver­schillen­de bron­nen. Maar hoe hard hij ook zijn best doet, zijn ge­tui­ge­nis van de ge­tui­ge­nis­sen mist samen­hang en blijft al­tijd onvolle­dig. Didi-Huber­man kan zich al­leen maar be­die­nen van de beelden en ge­tui­ge­nis­sen die de “res­ten” zijn van Auschwitz en waar de ei­gen­lij­ke ge­beurte­nis­sen on­der be­graven lig­gen. Al die beelden en ge­tui­ge­nis­sen vor­men samen een cumu­latief ge­heel. Het beeld zit, net als de "/>
             <ITEXT CPARENT="body italic" CH="énoncé"/>
             <ITEXT CH=", ver­vat in een proces dat blijft groei­en, cumu­le­ren. Een proces dat het beeld uit­ein­de­lijk be­graaft on­der een steeds gro­te­re berg van lezin­gen, spo­ren, ont­cijfe­ringen, her­in­ne­ringen."/>
-            <ITEXT CPARENT="footnote" CH="8"/>
+            <ITEXT CPARENT="footnote" CH="10"/>
             <ITEXT CH=" Het is die berg re­fe­ren­ties waar we door moe­ten om het beeld uit zijn in­er­tie te ha­len en op­nieuw tot leven te wek­ken. Dat maakt van Didi-Huber­mans be­schrij­ving een aan­een­schake­ling van ge­beurte­nis­sen die al­tijd ver­der aan­gevuld én uit­gezui­verd kan en moet worden. Het is in zijn woorden : een beeld, on­danks al­les. On­danks al­les wat errond, er­op, er­on­der zit en niet er­in. Het is geen “ima­ge toute”, geen totaalbeeld, maar een “ima­ge mal­gré tout”. De eer­s­te stap is de beelden te nemen on­danks dat “al­les” uit de titel. Het beeld nemen als mo­nade, al die frag­men­ten als op zich staan­de ge­he­len, en dan pas rekening houden met de an­de­re mo­na­den errond. Het is het voor­lig­gen­de werk van de ar­che­o­loog."/>
             <para PARENT="body"/>
             <ITEXT CH="De nauw­gezet­te, maar al­tijd ge­frag­men­teer­de lezing van de ge­tui­ge­nis­sen vormt aan­lei­ding en ka­der voor een even nauw­gezet­te lezing van de vier beelden die centraal staan in zijn boek. Het gaat over vier fo­to’s die le­den van het Son­der­kom­man­do tijdens hun gevan­gen­schap in de zomer van 1944 kon­den ma­ken en bui­ten­s­mok­ke­len. De fo­to’s to­nen ac­tivi­tei­ten in en rond de gas­kamers. Op het eer­s­te gezicht staan de beelden haaks op Didi-Huber­mans ge­de­tailleer­de be­schrij­ving van gelijk­aar­di­ge ac­tivi­tei­ten. Ze zijn donker, wazig, on­scherp. En toch zijn het be­lang­rij­ke beelden, die gaten vul­len (maar ook to­nen) in een ver­haal. Deze beelden zijn mo­na­den in de be­teke­nis die De­leuze, naar Leib­niz, daar­aan geeft. Elk van deze beelden vormt een ge­heel, “sans portes ni fenêtres, et con­tient le mon­de entier dans son fond très sombre, tout en éclai­rant une pe­tite porti­on de ce mon­de, porti­on va­ria­ble pour chacun. Le mon­de est donc plié dans chaque âme, mais dif­férem­ment, puis­qu’il y a un petit côté du pli qui est éclairé”."/>
-            <ITEXT CPARENT="footnote" CH="9"/>
+            <ITEXT CPARENT="footnote" CH="11"/>
             <ITEXT CH=" Elke mo­nade, elk beeld, be­licht zijn ei­gen we­reld, dat stuk­je van de we­reld dat het over­al met zich mee­draagt. Dat maakt elke mo­nade, elk van deze beelden, ver­schillend. Naar ge­lang wat het zelf uit­licht en naar ge­lang de mo­nade die het uit­licht. "/>
             <para PARENT="body"/>
-            <ITEXT CPARENT="body italic" CH="Waar­op richt zich het licht van deze beelden ?"/>
+            <ITEXT CPARENT="body italic" CH="Waar­op richt zich het licht van deze beelden"/>
+            <ITEXT CPARENT="body italic" FONT="Source Sans Pro Light" CH=" "/>
+            <ITEXT CPARENT="body italic" CH="?"/>
             <ITEXT CH=" Op de bui­ten­we­reld. In de eer­s­te plaats op de Pool­se ver­zets­strijders die ze ver­der moe­ten ver­spreiden en zo de gru­we­len van de kam­pen we­reld­kun­dig ma­ken. Zo zoeken deze beelden een mo­ge­lijk­heid om de ge­slo­tenheid van het kamp te door­breken. Ze illustre­ren de noodzaak om te ge­tui­gen, het be­wijs te leve­ren van leven en dood in de kam­pen. Ze to­nen de bin­nen­kant van het kamp (het komt dicht in de buurt van wat som­mi­gen de "/>
             <ITEXT CPARENT="body italic" CH="es­sen­tie"/>
             <ITEXT CH=" van het kamp noemen : veel wijst er­op dat deze fo­to’s ge­maakt werden van bin­nen in een gas­kamer) en de noodzaak van het bui­ten, als drijfveer om te blijven (over)leven en (over)werken in de kam­pen. Ze to­nen de mo­ge­lijk­heid van het bui­ten als een noodzakelij­ke voor­waar­de voor ver­zet. "/>
             <para PARENT="body"/>
-            <ITEXT CPARENT="body italic" CH="Wat be­lich­ten deze beelden ?"/>
+            <ITEXT CPARENT="body italic" CH="Wat be­lich­ten deze beelden"/>
+            <ITEXT CPARENT="body italic" FONT="Source Sans Pro Light" CH=" "/>
+            <ITEXT CPARENT="body italic" CH="?"/>
             <ITEXT CH=" Ze be­lich­ten wat Ag­am­ben de “res­ten van Auschwitz” noemt. Deze beelden vul­len – en to­nen – de lacu­ne, de es­sentiële leeg­te waar Ag­am­ben het over heeft en die hij te­rug­vindt in de ge­tui­ge­nis­sen van de kam­pen. Het zijn de frag­men­ten waarmee elk ver­haal, elke ge­tui­ge­nis be­gint. Het zijn bouw­ste­nen, mogelij­ke funda­men­ten waar elk ver­haal op steunt en naar ver­wijst. In die zin zijn deze beelden de sok­kel van een mogelijk ver­haal. Ze ma­ken zicht­baar wat onzicht­baar is. Deze beelden krij­gen zo een statuut dat niet ver­af ligt van dat van de "/>
             <ITEXT CPARENT="body italic" CH="volle­di­ge ge­tui­gen"/>
             <ITEXT CH=" die hun ge­tui­ge­nis af­werkten en meenamen in de dood. De dood als moment waar­op, volgens Lacan, de mens volle­dig samenvalt met zich­zelf, met het ei­gen li­chaam. De do­de als ul­tieme mo­nade."/>
             <para PARENT="body"/>
-            <ITEXT CPARENT="body italic" CH="Hoe lich­ten wij deze beelden dan uit "/>
+            <ITEXT CPARENT="body italic" CH="Hoe lich­ten wij deze beelden dan uit"/>
+            <ITEXT CPARENT="body italic" FONT="Source Sans Pro Light" CH=" "/>
             <ITEXT CH="? Niet, strikt ge­nomen. In al hun “sim­pli­ci­té” (“sim­pli­ci­té d’une mo­nade”, IMT : 45) be­lich­ten deze beelden al­leen zich­zelf. Daar­na, door ze in te pas­sen in het discours, blijven deze beelden niet langer een “ima­ge-une”, fun­de­rend en de­finitief, maar worden ze een “ima­ge-lacu­ne” : al­tijd onvolle­dig en al­tijd al­leen maar een spoor dat voort­du­rend dreigt te verd­wij­nen. Geen “ima­ge-une” dus in de woorden van Didi-Huber­man, maar wel “jus­te une ima­ge” in de woorden van God­ard en De­leuze."/>
-            <ITEXT CPARENT="footnote" CH="10 "/>
+            <ITEXT CPARENT="footnote" CH="12 "/>
             <ITEXT CH="Een beeld "/>
             <ITEXT CPARENT="body italic" CH="tus­sen"/>
             <ITEXT CH=" al­le an­de­re beelden. In die zin kan er geen sprake zijn van het beeld open te breken als mo­nade. Er kan al­leen maar sprake zijn van het een plaats te geven in een ge­heel, naast de an­de­re beelden als mo­na­den die (elk een stuk van) de we­reld in zich dra­gen. Het is pas dat samen­ge­stel­de ge­heel dat daar­na openge­broken kan worden. Dat maakt van elk beeld een tus­senbeeld, een over­gang."/>
@@ -1145,17 +1151,21 @@
             <ITEXT CH="3. Mon­ta­ge"/>
             <para PARENT="txt parts"/>
             <ITEXT CH="Voor Didi-Huber­man komt het er­op neer dat we al­tijd te veel én te weinig vra­gen van deze beelden. Te veel, door de volle­di­ge waar­heid te zoeken in beelden die te in­adequaat zijn, te on­pre­cies. Te weinig, door ze te ver­wijzen naar de we­reld van het simu­l­acrum (dan haal je ze uit de his­to­ri­sche con­text) of van het do­cu­ment (dan haal je ze uit hun speci­fieke fe­nome­nologie). De ge­schie­denis laat zich niet illustre­ren. Er be­staat geen waar­heid van het beeld. Maar de ge­schie­denis laat zich wel ver­beelden. De waar­heid van het beeld ligt ergens tus­sen­in – in de in­ter-es­se van de kij­ker die er iets mee doet. Het beeld als mo­nade (“ima­ge-une”) is al­tijd volle­dig. Het is pas in de mon­ta­ge (“jus­te une ima­ge”) dat het zijn onvolle­dig­heid toont. Op het moment dat wie kijkt het gaat in­pas­sen in een ver­haal, in een discours. De vraag die je dan moet stellen is : "/>
-            <ITEXT CPARENT="body italic" CH="wat kun­nen wij doen met deze beelden ? "/>
+            <ITEXT CPARENT="body italic" CH="wat kun­nen wij doen met deze beelden"/>
+            <ITEXT CPARENT="body italic" FONT="Source Sans Pro Light" CH=" "/>
+            <ITEXT CPARENT="body italic" CH="? "/>
             <ITEXT CH="Het ant­woord is : "/>
             <ITEXT CPARENT="body italic" CH="al­les"/>
             <ITEXT CH=". In al hun “com­plexité” (“com­plexité d’un mon­ta­ge” IMT 45) staan deze beelden in re­la­tie met al­les wat ze om­ringt. Ze krij­gen, als mo­nade, pas be­teke­nis in het knip- en plak­werk van de mon­ta­ge. Die mon­ta­ge, die de beelden samen­brengt, ze zicht­baar maakt, maar te­gelijk ook ver­bergt achter an­de­re beelden, is goed voor enke­le nieu­we vra­gen."/>
             <para PARENT="body first"/>
-            <ITEXT CPARENT="body italic" CH="Wat to­nen deze beelden "/>
+            <ITEXT CPARENT="body italic" CH="Wat to­nen deze beelden"/>
+            <ITEXT CPARENT="body italic" FONT="Source Sans Pro Light" CH=" "/>
             <ITEXT CH="? Vier scè­nes, twee sequen­ties, een ver­haal. In de ene reeks zien we man­nen met op­ge­rol­de mou­wen rond een on­duidelij­ke hoop ont­kle­de li­chamen. In de an­de­re een bos en een groep naak­te vrou­wen. Uit­zon­der­lij­ke si­tua­ties, ge­stuurd door de al­le­daag­se hande­lin­gen die Didi-Huber­man eerder al in de­tail be­schreef. De kij­ker kan slacht­of­fers on­derscheiden van men­sen aan het werk. Men­sen die gaan sterven of al dood zijn en an­de­ren die even pauze­ren, hun voor­hoofd af­vegen, de si­tua­tie overschou­wen. Uit het ve­le zwart rond het beeld – de deur en het inte­rieur, die func­ti­o­ne­ren als een ka­der in het ka­der – kun je het stand­punt af­leiden van de fo­to­graaf, die ver­moedelijk fo­to­grafeert van­uit een gas­kamer. Je kunt een ver­loop af­le­zen in de tijd. De eer­s­te fo­to’s (maar het zouden ook de twee­de kun­nen zijn) zijn be­wogen en de twee­de (die ook de eer­s­te kun­nen zijn) zijn scherper, pre­cie­zer en dus ook ge­waag­der want van iets dichter­bij ge­maakt. De eer­s­te (die van de le­ven­de vrou­wen ?) is slecht ge­kaderd en de twee­de (dezelf­de vrou­wen, na de ver­gas­sing ?) be­ter be­studeerd. Het ka­der sug­gereert de ha­che­lij­ke si­tua­tie waar­in de fo­to­graaf, lid van het Son­der­kom­man­do en dus zelf als gevan­ge­ne on­derworpen aan het Duit­se bevel, de beelden maakt. Het toont de plaats, de re­la­tie van de ge­tui­ge te­gen­over de slacht­of­fers. Dat ka­der toont de moei­lijk­heid en daar­door ook de noodzaak om te ge­tui­gen."/>
             <para PARENT="body"/>
-            <ITEXT CPARENT="body italic" CH="Wat is er ge­beurd met deze beelden "/>
+            <ITEXT CPARENT="body italic" CH="Wat is er ge­beurd met deze beelden"/>
+            <ITEXT CPARENT="body italic" FONT="Source Sans Pro Light" CH=" "/>
             <ITEXT CH="? Ze werden bui­ten­ge­smok­keld in een tube tand­pas­ta, met de hulp van Pool­se ver­zets­strijders. Ze werden ver­spreid (te laat, want na de oor­log). Ze werden be­werkt (er be­staan af­drukken van de beelden – Didi-Huber­man re­pro­du­ceert ze in zijn boek – waar­in het ka­der aan­ge­past werd, en het zwart dat het stand­punt toont van de fo­to­graaf weg­ge­sneden. Er be­staan af­drukken – ze staan ook in dit boek – die hetzelf­de doen door de fo­to recht te zet­ten en in te zoo­men op de vrou­wen tus­sen de bomen. En nog an­de­re – je zou het zelf nooit durven beden­ken, maar ze staan hier ook, zwart op wit – waar­in het gezicht en de bor­sten van de vrou­wen ge­retou­cheerd werden)."/>
-            <ITEXT CPARENT="footnote" CH="11"/>
+            <ITEXT CPARENT="footnote" CH="13"/>
             <ITEXT CH=" Ze werden ge­toond : ge­re­pro­du­ceerd in ver­schillen­de pu­bli­ca­ties over de kam­pen of geëx­poseerd, zo­als op de ten­toon­stel­ling naar aan­lei­ding waarvan Didi-Huber­man de eer­s­te tekst in dit boek schreef. "/>
             <para PARENT="body"/>
             <ITEXT CH="Deze beelden verg­den niet al­leen veel lef om te ma­ken (en te herma­ken). Het vraagt nog al­tijd veel moed om ze te to­nen en te be­kij­ken. Moed om te blijven kij­ken en het ver­haal ver­der aan te vul­len. Dat be­tekent moed, niet al­leen om het be­staan van deze beelden te "/>
@@ -1163,7 +1173,7 @@
             <ITEXT CH=", maar ook het be­staan van an­de­re beelden te "/>
             <ITEXT CPARENT="body italic" CH="ver­on­der­stellen"/>
             <ITEXT CH=". Het twee­de deel van Didi-Huber­mans boek is ge­schre­ven als ant­woord op een tekst van de Fran­se psycho­a­naly­ticus Gérard Wa­j­c­man."/>
-            <ITEXT CPARENT="footnote" CH="12"/>
+            <ITEXT CPARENT="footnote" CH="14"/>
             <ITEXT CH=" Na de pu­bli­ca­tie van Didi-Huber­mans eer­s­te tekst in 2001 schreef Wa­j­c­man er een reac­tie op voor "/>
             <ITEXT CPARENT="titre body" CH="Les Temps Modernes"/>
             <ITEXT CH=", het door Sar­tre op­gerich­te tijdschrift dat van­daag uit­ge­geven wordt door Clau­de Lanz­mann, de ma­ker van "/>
@@ -1175,7 +1185,7 @@
             <ITEXT CH=", “in­imagi­na­ble”. Onzicht­baar, on­denk­baar, onverbeeld­baar. "/>
             <para PARENT="body"/>
             <ITEXT CH="Deze vier beelden weer­leg­gen dat onte­gen­sprekelijk. De discus­sie tus­sen Wa­j­c­man en Didi-Huber­man gaat niet over wat zicht­baar en onzicht­baar is, maar wel over “l’imagé de l’ima­ge”, over het ver­beel­de van het beeld."/>
-            <ITEXT CPARENT="footnote" CH="13"/>
+            <ITEXT CPARENT="footnote" CH="15"/>
             <ITEXT CH=" Wat het beeld over­brengt : de "/>
             <ITEXT CPARENT="body italic" CH="rest"/>
             <ITEXT CH=" die er te­gelijk ook het surplus van is. Het gaat niet over een te­kort (of teveel) aan beelden, maar wel over een te­kort (of teveel) aan ver­beel­ding. Het is een discus­sie over de "/>
@@ -1185,7 +1195,7 @@
             <ITEXT CH=" an­derzijds (die volgens Didi-Huber­man te vin­den is in de "/>
             <ITEXT CPARENT="body italic" CH="Son­derbe­hand­lung"/>
             <ITEXT CH=", het he­le ge­beu­ren van de kam­pen). Deze vier beelden to­nen niet de ver­gas­sing (de es­sen­tie) maar wel (de­len van) het proces errond (de ex­ten­sie). Daar­in ligt hun be­teke­nis. Volgens Didi-Huber­man ver­wart Wa­j­c­man de on­tolo­gi­sche waar­de van de beelden met hun ge­bruiks­waar­de : de beelden zijn in­der­daad in­adequaat, maar de taal is dat ook. Daar­om is het be­lang­rijk kritisch te blijven te­gen­over de beelden, zon­der ze on­middel­lijk af te wijzen."/>
-            <ITEXT CPARENT="footnote" CH="14"/>
+            <ITEXT CPARENT="footnote" CH="16"/>
             <ITEXT CH=" Wa­j­c­man wei­gert deze beelden te ge­brui­ken, ze te erken­nen als be­wijs­materi­aal van de kam­pen, om­dat ze nooit de es­sen­tie van de kam­pen, het “ima­ge-toute”, to­nen. Hij wei­gert rekening te houden met de de­tails, met de frag­men­ten, met het ver­beel­de, en heeft al­leen oog voor het over­koe­pe­len­de (to­tale) ver­haal. Niet voor de al­le­daag­se hande­lin­gen, maar voor het fi­na­le re­sul­taat. Niet voor het bui­ten dat deze beelden een be­vrijdend, loute­rend ka­rak­ter geeft : een "/>
             <ITEXT CPARENT="body italic" CH="Er­lös­ung"/>
             <ITEXT CH=". Maar wel voor het onver­mijdelij­ke bin­nen, de gas­kamers, of be­ter : de ver­gas­sing, die al­tijd bui­ten beeld blijft. De ul­tieme eni­ge ech­te en dus on­mogelij­ke ge­tui­ge­nis van het bin­nen : de – ul­tieme, tota­li­se­ren­de –"/>
@@ -1212,7 +1222,8 @@
             <ITEXT CH="Voor God­ard (en voor Didi-Huber­man) krijgt een beeld pas be­teke­nis als je er een an­der beeld naast zet. Strikt ge­nomen laat de mon­ta­ge al toe een beeld te con­stru­e­ren. Ze zet beelden niet al­leen naast elkaar, maar ook "/>
             <ITEXT CPARENT="body italic" CH="in"/>
             <ITEXT CH=" elkaar."/>
-            <ITEXT CPARENT="footnote" CH="15"/>
+            <ITEXT CPARENT="footnote" CH="17"/>
+            <tab/>
             <ITEXT CH=" Die "/>
             <ITEXT CPARENT="body italic" CH="twee"/>
             <ITEXT CH=" beelden die in elkaar lo­pen, ver­smel­ten. Dat is wat God­ard "/>
@@ -1240,26 +1251,26 @@
             <ITEXT CH=", is niet te­rug­ge­komen om dat te ver­tel­len, of is sprake­loos te­rug­ge­komen. Maar zij, de ‘muzel­man­nen’, de overwel­dig­den, zijn de ech­te ge­tui­gen, wier ge­tui­ge­nis al­les en al­len zou hebben om­vat. "/>
             <ITEXT CPARENT="body italic" CH="Zij zijn de regel, wij zijn de uit­zon­dering"/>
             <ITEXT CH=".”"/>
-            <ITEXT CPARENT="footnote" CH="16 "/>
+            <ITEXT CPARENT="footnote" CH="18 "/>
             <para PARENT="citations"/>
             <ITEXT CH="Dat noemt Ag­am­ben de “Pa­radox van Levi”: de wa­re ge­tui­ge­nis over de kam­pen is de ge­tui­ge­nis van de muzel­man, die on­mogelijk zelf nog kan ge­tui­gen. Al­leen wie (in het) beeld ge­weest is, wie zich er­in be­vindt, wie erva­ren heeft wat er te zien is, kan be­grij­pen. Het beeld moet tel­kens weer ge­ac­tuali­seerd worden. Het wa­re ge­tui­gen be­tekent je in­leven in het leven waar de gevan­ge­ne zich te­gen ver­zet­te : de per­soon, de mens van de muzel­man, de eni­ge wa­re ge­tui­ge van de kam­pen die het he­le proces van de End­lös­ung door­ge­maakt heeft. Het be­tekent de – meest­al al over­le­den – muzel­man op­nieuw mens ma­ken, de – bij­na – do­de op­nieuw tot leven wek­ken. Het be­tekent de muzel­man (die ont­menselijk­te wezens die door de Duitsers in de kam­pen aan­ge­duid werden als “Figu­ren”, als"/>
             <ITEXT CPARENT="body italic" CH=" beelden"/>
             <ITEXT CH=" dus – een proces van naam­ge­ving dat mee deel uit­maakt van wat Didi-Huber­man een “travail de dé­simagi­nati­on” noemt : met de menselijk­heid zal ook het beeld van de slacht­of­fers verd­wij­nen), het be­tekent dus die muzel­man op­nieuw tot leven bren­gen door zelf beeld te worden. Dat maakt zich in­leven in de an­der de hoog­ste vorm van ver­beel­ding. "/>
             <para PARENT="body"/>
             <ITEXT CH="Naar het beeld, naar de muzel­man toe blijven gaan : “persister dans l’ap­pro­che, mal­gré tout, mal­gré l’in­ac­ces­si­bi­lité du phé­nomè­ne”."/>
-            <ITEXT CPARENT="footnote" CH="17"/>
+            <ITEXT CPARENT="footnote" CH="19"/>
             <ITEXT CH=" Ag­am­ben wijdt een van de vier hoofd­stukken van zijn boek aan de muzel­man. Het wa­ren wande­len­de lij­ken, nog niet dood, maar ook niet meer echt le­vend. Het wa­ren de eerstvolgen­den die ge­se­lec­teerd zouden worden voor de gas­kamers. Het was het beeld, het stadi­um dat ie­der­een kos­te wat het kost moest ver­mij­den. Het beeld dat nie­mand wou herken­nen in zich­zelf. Het beeld dat nie­mand wou zien of zijn. Er wa­ren veel al­ter­natie­ve namen voor de muzel­man. Een daar­van was “hij die de Gorgon gezien had”. Het mon­ster­lij­ke, door slan­gen bedolven Gorgon­hoofd van de Me­du­sa dat door Perseus, met de hulp van Athe­na, af­ge­hakt moest worden, zon­der het aan te kij­ken. Want wie de Gorgon in de ogen keek, was ten do­de op­ge­schreven en ver­an­derde ter plaat­se in een blok steen. Om zijn doel­wit toch te kun­nen raken zon­der het aan te kij­ken, ge­bruik­te Perseus zijn schild als spie­gel. Hij wend­de de blik af van de re­ali­teit en liet zich leiden door een reflec­tie ervan. "/>
             <para PARENT="body"/>
             <ITEXT CH="Voor Didi-Huber­man gaat het er in de legen­de van de Gorgon niet om zich te ver­zoe­nen met de re­ali­teit die ge­toond wordt (de stel­ling van Jean-Mi­chel Fro­don waar Didi-Huber­man naar ver­wijst in zijn boek) en ook niet om naar de Gorgon te le­ren kij­ken door de ogen van het slacht­of­fer (de stel­ling van Ag­am­ben), maar wel om het beeld te le­ren ge­brui­ken, om te le­ren om­gaan met het dis­po­sitief. In dit geval is dat een schild (bou­c­lier) en is het re­sul­taat een schildbeeld (ima­ge-bou­c­lier) : “sa­voir manier le bou­c­lier : "/>
             <ITEXT CPARENT="body italic" CH="l’ima­ge-bou­c­lier"/>
             <ITEXT CH="”."/>
-            <ITEXT CPARENT="footnote" CH="18"/>
+            <ITEXT CPARENT="footnote" CH="20"/>
             <ITEXT CH=" Het gaat er dus ze­ker niet om (de reac­tie van Wa­j­c­man) het schildbeeld te ge­brui­ken als een be­schermen­de sluier (een "/>
             <ITEXT CPARENT="body italic" CH="voi­le"/>
             <ITEXT CH=", een “"/>
             <ITEXT CPARENT="body italic" CH="ima­ge-voi­le"/>
             <ITEXT CH="”). Het gaat er wel om de con­fron­ta­tie met het beeld aan te gaan, via het dis­po­sitief (in de woorden van De­leuze : de dwin­gen­de mo­ge­lijk­heid) van het schild. Een con­fron­ta­tie die al­leen mogelijk is door an­ders te kij­ken. Daar zit de ethi­sche dimen­sie van elk beeld : blijven kij­ken, durven kij­ken, an­ders kij­ken en ver­beelden, “con­tre toute fata­lité de l’in­imagi­na­ble”."/>
-            <ITEXT CPARENT="footnote" CH="19"/>
+            <ITEXT CPARENT="footnote" CH="21"/>
             <ITEXT CH=" Daar ligt het ver­schil tus­sen Didi-Huber­man en Ag­am­ben : voor de eer­s­te zijn er geen grenzen aan de ver­beel­ding, be­hal­ve bij de per­soon die handelt met het dis­po­sitief, de ge­tui­ge "/>
             <ITEXT CPARENT="body italic" CH="in"/>
             <ITEXT CH=" de ge­tui­ge. Voor Ag­am­ben ligt de grens bij de ogen van de an­der, de ge­tui­ge "/>
@@ -1274,7 +1285,7 @@
             <para PARENT="body first"/>
             <ITEXT CH="Als Fou­cault in "/>
             <ITEXT CPARENT="titre body" CH="Des es­paces au­tres"/>
-            <ITEXT CPARENT="footnote" CH=" 20"/>
+            <ITEXT CPARENT="footnote" CH=" 22"/>
             <ITEXT CH=" spreekt over de uto­pie als plaats bui­ten de re­ali­teit (of een plaats zon­der plaats ei­gen­lijk : “em­placements sans li­eu réel”) en over haar ge­re­ali­seer­de te­gen­hanger in de vorm van de “he­te­roto­pie”, ver­bindt hij die twee ruimtes door een spie­gel, als een soort van gemeen­schappe­lij­ke erva­ring. Voor Fou­cault is de spie­gel een dis­po­sitief dat hem als kij­ker ver­plaatst naar een plaats waar hij niet echt is, een vir­tu­e­le plaats die zich opent aan de an­de­re kant van het op­pervlak. De spie­gel maakt hem zicht­baar, laat hem toe zich­zelf te be­kij­ken, op een plaats waar hij af­wezig is. Een uto­pie dus (bui­ten zijn re­ali­teit als kij­ker) maar, als grensfe­nomeen en als li­miet die de twee plaat­sen met elkaar ver­bindt, ook een he­te­roto­pie. Want de spie­gel be­staat wel de­gelijk. Het is een heel con­creet en tastbaar in­stru­ment, een dis­po­sitief, zo­als het schild van Perseus. De plaats (zon­der plaats) als dis­po­sitief."/>
             <para PARENT="body"/>
             <ITEXT CH="De plaat­sen die Fou­cault aan­duidt als he­te­roto­pieën zijn on­der an­de­re de plaat­sen voor het af­wij­ken­de : psychi­atri­sche in­stel­lin­gen, gevan­ge­nis­sen, be­jaarden­te­hui­zen. Soms spreekt hij van de he­te­roto­pie als mi­cro­kos­mos, zo­als in het geval van de tra­diti­one­le Perzi­sche tui­nen die ver­schillen­de de­len van de we­reld voor­stellen. Soms zijn het plaat­sen die ver­wijzen naar de ge­schie­denis, zo­als het kerk­hof of het ar­chief. Maar de ul­tieme he­te­roto­pie is voor Fou­cault die van de boot als een drij­ven­de ruimte, een plaats zon­der ei­gen­lij­ke plaats. De boot is niet al­leen het be­lang­rijkste in­stru­ment voor de eco­nomi­sche ont­wik­ke­ling sinds de 16"/>
@@ -1282,21 +1293,21 @@
             <ITEXT CH=" eeuw – een eco­nomi­sche toe­gang tot ‘an­de­re plaat­sen’ – maar meer nog de be­lang­rijkste leve­ran­cier van ver­beel­ding (“la plus gran­de ré­ser­ve d’imagi­nati­on”). In al die geval­len blij­ken die he­te­roto­pieën niet al­leen con­struc­ties, maar ook al­tijd duis­te­re spie­gels voor de maat­schap­pij waar­in ze be­staan. "/>
             <para PARENT="body"/>
             <ITEXT CH="Het kamp is een Fou­caul­ti­aan­se he­te­roto­pie. Het is een dis­po­sitief, bui­ten handbereik van zij die het on­dergaan en er­in leven. In de kam­pen wa­ren geen spie­gels om zich te be­schermen voor het beeld van de an­der."/>
-            <ITEXT CPARENT="footnote" CH="21"/>
+            <ITEXT CPARENT="footnote" CH="23"/>
             <ITEXT CH=" Het kamp fun­geer­de zelf, in zijn ge­slo­tenheid, als een spie­gel. Als Pri­mo Levi zich­zelf wou zien, moest hij naar zijn kamp­ge­no­ten kij­ken. Hij dacht (hoe­zeer hij ook wei­ger­de) zich­zelf te herken­nen in de mage­re, bleke, af­ge­leef­de gezich­ten van zijn lot­ge­no­ten. In de ge­scheur­de en be­smeur­de lom­pen rond hun lijf. Op één bij­zon­der moment ziet hij zich­zelf weer­spie­geld in de glazen in­stru­men­ten van het labo waar hij te­gen het ein­de van zijn gevan­gen­schap werkt. Zijn erva­ring in het labo, die hem tot een ge­pri­vi­le­gi­eer­de gevan­ge­ne maak­te, was niet zozeer be­lang­rijk om­dat hij een glimp van zich­zelf kon zien, maar wel door­dat hij zich­zelf elke dag ge­con­fron­teerd zag met de bui­ten­we­reld. Elke dag in het labo, was een dag in aan­wezig­heid van de an­der, van de Pool­se en Duit­se werk­vrou­wen die elke dag naar het kamp kwamen om er te werken. Vreem­de wezens met scho­ne kle­ren en een goed gevul­de brood­doos die er al­les aan de­den om de “Stink­ju­de” te ne­ge­ren en te con­fron­te­ren met zich­zelf, met zijn ei­gen (spie­gel)beeld."/>
-            <ITEXT CPARENT="footnote" CH="22"/>
+            <ITEXT CPARENT="footnote" CH="24"/>
             <ITEXT CH=" "/>
             <para PARENT="body"/>
             <ITEXT CH="Er wa­ren geen spie­gels om naar zich­zelf te kij­ken. Er wa­ren amper beelden van de an­der. Ei­gen­lijk wa­ren er he­lemaal geen beelden in de kam­pen. Het kamp was één beeld, vol gelij­ken, beeld ge­worden naas­ten. Er werd ge­fo­to­grafeerd, maar volgens erg strik­te regels en al­leen door en voor de Duitsers. Er werd zelfs ge­schil­derd, maar ook die beelden wa­ren al­leen be­stemd voor de Duitsers en toon­den al­les be­hal­ve het leven in het kamp. Ag­am­ben ver­telt over de Ita­li­aan­se jood Al­do Carpi die uit het hoofd Vene­ti­aan­se naak­ten en land­schappen moet schilde­ren voor de Duitsers. De beelden van de kam­pen schildert hij ach­ter­af, als ge­tui­ge, als hij weer bui­ten is en als een vrij mens af­stand kan nemen van het kamp. Als het kamp ook voor hem zicht­baar en han­teer­baar wordt als beeld van het dis­po­sitief. De eni­ge beelden voor de gevan­ge­nen in de kam­pen zijn die in hun ei­gen hoofden. Hoofden die meer en meer als één ge­heel, als één mon­ster­lijk hoofd gaan func­ti­o­ne­ren, ge­stuurd door gelijk­aar­di­ge erva­ringen van hon­ger en angst. Het zijn de fic­tie­beelden die ze mee­brach­ten van thuis en de waanbeelden die ze pro­du­ceerden ter plaat­se. Het zijn dik­wijls Dan­teske, klas­sieke, beelden die steeds meer op elkaar gin­gen "/>
             <ITEXT CPARENT="body italic" CH="gelij­ken"/>
             <ITEXT CH="."/>
-            <ITEXT CPARENT="footnote" CH="23"/>
+            <ITEXT CPARENT="footnote" CH="25"/>
             <ITEXT CH=" "/>
             <para PARENT="body"/>
             <ITEXT CH="Es­senti­eel aan elke spie­gel, elk beeld (maar ook aan elk dis­po­sitief, elke he­te­roto­pie) is dat het be­grensd is, maar zelf ook be­grenst. Het is een li­miet, een ka­der dat wijst op nog een bui­ten (op een an­de­re ruimte – "/>
             <ITEXT CPARENT="body italic" CH="une es­pace au­tre"/>
             <ITEXT CH="), dat in­sluit én uit­sluit en pre­cies daar­door ook de mo­ge­lijk­heid schept die grens te overschrijden. Het bui­tenbeeld (het con­trast dat de mon­ta­ge zicht­baar maakt) is met an­de­re woorden even be­lang­rijk als wat we zien in het beeld. De sug­ges­tie even be­lang­rijk als de expres­sie. Dat ka­der (van het beeld én van de ruimte) speelt in het den­ken van Didi-Huber­man een funda­mente­le rol."/>
-            <ITEXT CPARENT="footnote" CH="24"/>
+            <ITEXT CPARENT="footnote" CH="26"/>
             <ITEXT CH=" Het is moei­lijk om de ech­te hor­ror "/>
             <ITEXT CPARENT="body italic" CH="zo­als hij leeft on­der ons"/>
             <ITEXT CH=" on­der ogen te zien. Ge­makkelij­ker is om er de "/>
@@ -1304,23 +1315,23 @@
             <ITEXT CH=" reflec­tie, de ge­con­tex­tuali­seer­de gelij­ke, de goed "/>
             <ITEXT CPARENT="body italic" CH="ge­si­tu­eer­de"/>
             <ITEXT CH=" gelij­ke­nis van te zien."/>
-            <ITEXT CPARENT="footnote" CH="25"/>
+            <ITEXT CPARENT="footnote" CH="27"/>
             <ITEXT CH=" Dat is de les van Perseus en zijn gevecht te­gen de Gorgon. Het beeld op het schild wordt een middel om een (goed ge­scheiden, in­ge­kader­de) an­de­re re­ali­teit te to­nen en te zien : een waar­in de Gorgon ont­hoofd kan worden. De my­the van de Me­du­sa spreekt over “l’hor­reur du réel com­me sour­ce d’im­puis­san­ce”. Dankzij de came­ra ver­an­dert de on­macht van het Son­der­kom­man­do voor de hor­ror van de macht in de macht van het ver­zet : het is (het dis­po­sitief, de he­te­roto­pie, de ruimte van) de came­ra die de gevan­ge­nen op­nieuw ver­bindt met een po­tenti­eel bui­ten. De came­ra staat voor de mo­ge­lijk­heid van een bui­ten (van een an­de­re ruimte, "/>
             <ITEXT CPARENT="body italic" CH="une es­pace au­tre"/>
             <ITEXT CH=") en dus van ver­zet. De spie­gel / het schild, het ge­kader­de / be­grens­de beeld is de toe­gang tot de re­ali­teit, net als de spie­gel voor de he­te­roto­pie van Fou­cault. Het is geen dis­po­sitief om in het beeld te stappen, maar wel om in "/>
             <ITEXT CPARENT="body italic" CH="de re­ali­teit als beeld"/>
             <ITEXT CH=" te stappen."/>
-            <ITEXT CPARENT="footnote" CH="26"/>
+            <ITEXT CPARENT="footnote" CH="28"/>
             <para PARENT="body"/>
             <ITEXT KERN="0" CH="6. Mens­beeld"/>
             <para PARENT="txt parts"/>
             <ITEXT CH="“Com­me vous et moi, les res­pon­sa­bles d’Auschwitz avai­ent des nari­nes, une bou­che, une voix, une rai­son humai­ne, ils pouvai­ent s’unir, avoir des en­fants: com­me les Py­ra­mides ou l’Acro­po­le, Auschwitz est le fait, est le sig­ne de l’hom­me. L’ima­ge de l’hom­me est in­sé­pa­ra­ble, désormais, d’une chambre à gaz…”"/>
-            <ITEXT CPARENT="footnote" CH="xx"/>
+            <ITEXT CPARENT="footnote" CH="29"/>
             <para PARENT="citations"/>
             <ITEXT CH="Auschwitz is het teken van de mens. Dat heeft het gemeen met de pi­ra­miden en de Acro­polis die er­aan voor­af­gin­gen, maar ook met de wreed­he­den die er­op volg­den : de goelag­ar­chi­pel, het regime van Pol Pot, Gu­ant­a­na­mo Bay, Abu Ghraib. Als Bataille het heeft over het teken van de mens, dan heeft hij het over zijn cre­a­ties, ook al zijn het de­struc­ties. Hij heeft het over de tech­niek en de kunst, waar al die wreed- en schoon­he­den elkaar raken. Zo­als je Auschwitz niet kunt voor­stellen zon­der de mens (en zon­der de kunst : we hebben er een kunst­his­to­ri­cus als Didi-Huber­man voor no­dig om de beelden te in­ter­prete­ren, ze op­nieuw voor­stel­baar te ma­ken. We hebben er kunste­naars als God­ard, Lanz­mann, Re­s­nais en ve­le an­de­ren voor no­dig om met deze beelden te werken), kun je je geen mens (en dus ook geen kunst) meer voor­stellen zon­der die wreed­he­den. "/>
             <para PARENT="body"/>
             <ITEXT KERN="3" CH="Het gevolg van te kunst­mati­ge of kunst­zinni­ge in­ter­pre­ta­ties is dat het Abu Ghraib en Gu­ant­a­na­mo Bay zo onbe­grij­pe­lijk be­grij­pe­lijk maakt na de Gu­erni­ca (van Pi­cas­so), de Na­po­le­onti­sche oor­logen (van Goya), na Auschwitz (van Bataille). Zo menselijk. Dat maakt het zo moei­lijk (als feit) én ge­makkelijk (als cate­gorie) om ze tel­kens op­nieuw te den­ken. Meer voorbeelden, be­wijzen en de­tails be­moei­lij­ken én ver­ge­makkelij­ken de aan­vaar­ding en de weer­stand. Als­of we er midden­in leven, als­of het onver­mijdelijk is, als­of er geen an­de­re re­ali­teit meer mogelijk is, als­of er geen bui­ten en geen mo­ge­lijk­heid tot ver­zet meer is."/>
-            <ITEXT CPARENT="footnote" KERN="3" CH="27"/>
+            <ITEXT CPARENT="footnote" KERN="3" CH="30"/>
             <ITEXT KERN="3" CH=" "/>
             <para PARENT="body"/>
             <ITEXT CH="Een ant­woord op die ge­wen­ning (de tot regel ge­worden uit­zon­deringstoe­stand van Ag­am­ben), of noemen we het ge­woon met die re­cent ge­ca­no­niseer­de term "/>
@@ -1336,7 +1347,7 @@
             <ITEXT CH=" en daar­langs een"/>
             <ITEXT CPARENT="body italic" CH=" interesse"/>
             <ITEXT CH=" voor an­de­re beelden. Elke keer op­nieuw pro­be­ren te be­grij­pen en te voe­len wat er ge­beurd is. Tel­kens weer zoeken naar de ver­schillen die elke her­haling uniek ma­ken. Tel­kens weer ont­snap­pen aan die luie slaap – die droom, die nacht­merrie – die zo ge­ken­de, zo ge­vrees­de, zo ge­koes­ter­de eeuwi­ge weder­keer."/>
-            <ITEXT CPARENT="footnote" CH="28"/>
+            <ITEXT CPARENT="footnote" CH="31"/>
             <ITEXT CH=" Een einde­loze re­ali­ty check."/>
             <para PARENT="body"/>
             <ITEXT KERN="-1" CH="Waar al deze ver­ha­len op aan­stu­ren, is de erken­ning van de of het gelij­ke in het beeld, als een ge­deel­de erva­ring, een me­de­leven dat er ei­gen­lijk nog niet is. De ver­ha­len van de over­le­ven­den lij­ken aan te stu­ren op het herken­ba­re, dat toe­laat de ge­beurte­nis­sen, als tableaus, te plaat­sen. Dat is het lo­gi­sche gevolg van het beeld van zijn voet­stuk ha­len, van de mo­nade een plaats geven in de mon­ta­ge en van ons­zelf als kij­ker een plaats geven in het beeld. Dat is de retori­sche vraag die Pri­mo Levi, Ro­bert Antel­me en ve­le an­de­re over­le­ven­den van de kam­pen stellen in boeken met titels die zich la­ten ver­talen als “Is dit een mens ?” of “De menselij­ke soort”. Het is die vraag die we met Bataille beves­ti­gend moe­ten be­ant­woorden. "/>
@@ -1346,7 +1357,7 @@
             <ITEXT CH="l’"/>
             <ITEXT CPARENT="body italic" CH="ima­ge humai­ne"/>
             <ITEXT CH=" en tant que tel”."/>
-            <ITEXT CPARENT="footnote" CH="29 "/>
+            <ITEXT CPARENT="footnote" CH="32 "/>
             <ITEXT CH="Hij heeft het niet al­leen over een gelij­ke­nis en on­gelij­ke­nis (de ver­trouw­de menselij­ke ge­ba­ren van de le­ven­den als con­trast met de vreem­de, on­menselij­ke hoop naak­te lij­ken op de grond) maar ook over een an­tro­pomor­fis­me : in de kam­pen werd met het "/>
             <ITEXT CPARENT="body italic" CH="leven"/>
             <ITEXT CH=" ook het "/>
@@ -1360,12 +1371,12 @@
             <ITEXT CH="formu­le­ren, te "/>
             <ITEXT CPARENT="body italic" CH="her"/>
             <ITEXT CH="zien, zegt Didi-Huber­man : “Auschwitz dé­pas­se toute pensée ju­ri­di­que exi­stante, toute noti­on de fau­te et de jus­tice ? Il faut donc repen­ser la sci­en­ce po­liti­que et le droit tout entier. Auschwitz dé­pas­se toute pensée po­liti­que exi­stante, voi­re toute an­thro­po­logie ? Il faut donc repen­ser jusqu’au fondement des sci­en­ces humai­nes en tant que tel­les.”"/>
-            <ITEXT CPARENT="footnote" CH="30"/>
+            <ITEXT CPARENT="footnote" CH="33"/>
             <para PARENT="body"/>
             <ITEXT KERN="-1" CH="Of hoe Didi-Huber­man via het beeld wil doen voor de mens­we­ten­schappen wat Fou­cault deed via de taal : “Parler d’Auschwitz dans les termes de l’in­di­ci­ble, ce n’est pas s’ap­pro­cher d’Auschwitz, non, c’est au con­trai­re éloigner Auschwitz dans une ré­gion que Giorgio Ag­am­ben a fort bien dé­fi­nie en termes d’ado­rati­on mys­ti­que, voi­re de répé­titi­on in­sue de "/>
             <ITEXT CPARENT="body italic" KERN="-1" CH="l’ar­ca­num"/>
             <ITEXT KERN="-1" CH=" nazi lui-mê­me.”"/>
-            <ITEXT CPARENT="footnote" KERN="-1" CH="31"/>
+            <ITEXT CPARENT="footnote" KERN="-1" CH=" 34"/>
             <ITEXT KERN="-1" CH=" De uit­da­ging be­staat er­in het beeld niet op een voet­stuk te plaat­sen, maar wel het te "/>
             <ITEXT CPARENT="body italic" KERN="-1" CH="ge­brui­ken"/>
             <ITEXT KERN="-1" CH=" als een dis­po­sitief. Het "/>
@@ -1411,11 +1422,11 @@
             <ITEXT CH="Te­rug­ke­ren naar het be­gin, naar het meest in­ten­se leven, het leven dat nog "/>
             <ITEXT CPARENT="body italic" CH="à fond"/>
             <ITEXT CH=" ge­leefd kon worden, van voor we ei­gen­lijk mens wa­ren, be­tekent ook voor­uit­kij­ken naar het leven dat we niet meer kun­nen leven, het leven dat we zul­len moe­ten los­sen, het leven na ons mens-zijn, dat we moe­ten la­ten leven. Het be­tekent te­rug­gaan naar het mens-zijn als een funda­mente­le in­ter-es­se,"/>
-            <ITEXT CPARENT="footnote" CH="32 "/>
+            <ITEXT CPARENT="footnote" CH="35 "/>
             <ITEXT CH="dat niet los gezien kan worden van het leven dat het om­ringt. De erken­ning van Zoë als li­miet, die zo­wel staat voor een be­gin als voor een ein­de, be­tekent erken­nen dat wat voor ons ligt, ei­gen­lijk al achter ons ligt : de dood, het on­menselij­ke, het ein­de van de muzel­man. "/>
             <para PARENT="body"/>
             <ITEXT KERN="-1" CH="Te­rug­ke­ren naar het be­gin, be­tekent oog in oog staan met de on­los­ma­kelij­ke ver­bonden­heid. Het be­tekent te­rug­ke­ren naar Zoë als de li­miet die we over­al met ons mee­dra­gen. Zoë, niet al­leen als ein­de in Ag­am­bi­aan­se of Heid­e­g­geri­aan­se zin, maar ook als be­gin. Als een proces dat ons over­al en al­tijd be­ge­leidt, een voort­du­rend worden. Met Ro­si Braidot­ti (naar De­leuze &amp; Gu­at­tari)"/>
-            <ITEXT CPARENT="footnote" CH="33"/>
+            <ITEXT CPARENT="footnote" CH=" 36"/>
             <ITEXT KERN="-1" CH=" is de aan­vaar­ding van Zoë deel van het noma­disch worden en van een eco­fi­lo­so­fie die de na­druk legt op meer­vou­di­ge af­hankelijk­heid (“mul­ti­ple be­lon­gings”) en op de voor­menselij­ke en niet-menselij­ke elemen­ten ei­gen aan elk leven (en dus aan elke mens). Zo wordt het sub­ject een eco­lo­gi­sche en­ti­teit en Zoë drager van einde­loze vi­ta­li­teit, van leven als voort­du­rend worden. Zoë als ra­di­ca­le im­ma­nen­tie, als li­miet, in de zin van nieuw be­gin én van doel. "/>
             <para PARENT="body"/>
             <ITEXT CH="Te­rug­ke­ren naar het be­gin, als ul­tieme consequen­tie van Didi-Huber­mans herden­king van de mens­we­ten­schappen, is voor­uit­kij­ken naar wat achter ons ligt. Het be­tekent voor­bij­gaan aan het klas­sieke humanis­me, voor­bij het an­tropo­centris­me. Het be­tekent voor­bij­gaan aan het "/>
@@ -1443,16 +1454,16 @@
             <ITEXT SCALEV="100" KERN="-2" CH="”, “"/>
             <ITEXT KERN="-2" CH="devenir mi­no­ri­tai­re"/>
             <ITEXT SCALEV="100" KERN="-2" CH="”). Zo wordt een beeld een proces dat kneedt aan het zelf­beeld, en ont­staat de mens na het verd­wij­nen van de mens, de beeld ge­worden mens aan de vloed­lijn van het strand."/>
-            <ITEXT CPARENT="footnote" CH="34"/>
+            <ITEXT CPARENT="footnote" CH="37"/>
             <para PARENT="body" wordTrack="1"/>
             <ITEXT SCALEV="100" KERN="-2" CH="Het ant­woord van De­leuze &amp; Gu­at­tari op de (het) uit­geveeg­de mens(beeld) van Fou­cault, komt in de vorm van een “"/>
             <ITEXT KERN="-2" CH="devenir im­per­cep­ti­ble"/>
             <ITEXT SCALEV="100" KERN="-2" CH="”."/>
-            <ITEXT CPARENT="footnote" SCALEV="100" KERN="-2" CH="35"/>
+            <ITEXT CPARENT="footnote" SCALEV="100" KERN="-2" CH="38"/>
             <ITEXT SCALEV="100" KERN="-2" CH=" Het is geen onzicht­baar worden, maar wel on­waar­neem­baar. Geen uit­vegen, maar wel deel worden. Het is voort­du­rend worden als ie­der­een. “"/>
             <ITEXT KERN="-2" CH="C’est en ce sens que devenir tout le mon­de, fai­re du mon­de un devenir, c’est fai­re du mon­de, c’est fai­re un mon­de, des mondes, c’est-à-di­re trouver ses voi­sina­ges et ses zones d’in­discer­na­bi­lité."/>
             <ITEXT SCALEV="100" KERN="-2" CH="”"/>
-            <ITEXT CPARENT="footnote" SCALEV="100" KERN="-2" CH=" 36"/>
+            <ITEXT CPARENT="footnote" SCALEV="100" KERN="-2" CH=" 39"/>
             <ITEXT SCALEV="100" KERN="-2" CH=" Het is de ul­tieme consequen­tie van het deel worden aan het beeld, van het "/>
             <ITEXT CPARENT="body italic" KERN="-2" CH="an­ders"/>
             <ITEXT SCALEV="100" KERN="-2" CH=" worden, van het "/>
@@ -1464,14 +1475,14 @@
             <ITEXT CH="Het beeld wordt dan (met Sartre) een “acte”, een proces, of (met Deleuze) een “devenir”, een werkwoord : “Devenir n’est pas progresser ni régresser suivant une série. Et surtout "/>
             <ITEXT CPARENT="body italic" CH="devenir ne se fait pas dans l’imagination"/>
             <ITEXT CH=", même quand l’imagination atteint au niveau cosmique ou dynamique le plus élevé, comme chez Jung ou Bachelard. Les devenirs-animaux ne sont pas des rêves ni des fantasmes. Ils sont parfaitement réels. […] Le devenir ne produit pas autre chose que lui-même.”"/>
-            <ITEXT CPARENT="footnote" CH="37"/>
+            <ITEXT CPARENT="footnote" CH="40"/>
             <ITEXT CH=" Het gaat er niet om te kiezen tussen imiteren of zijn, de enige echte realiteit is die van het worden, het worden – of de productie – van het zelf. Uit het beeld stappen, uit het mensbeeld stappen, betekent (na het mens/beeld worden) anders worden : "/>
             <ITEXT CPARENT="body italic" CH="devenir autre"/>
             <ITEXT CH=". Het betekent doodgewoon in de wereld stappen, een confrontatie met het nu-hier of het atopische now-here dat Deleuze en Guattari zetten tegenover het utopische no-where in "/>
             <ITEXT CPARENT="titre body" CH="Qu’est-ce que la philosophie"/>
             <nbspace/>
             <ITEXT CPARENT="titre body" CH="?"/>
-            <ITEXT CPARENT="footnote" CH=" 38"/>
+            <ITEXT CPARENT="footnote" CH=" 41"/>
             <ITEXT CH=" "/>
             <ITEXT CPARENT="body italic" CH="Niet het inleven in de ander, maar wel het inleven in het andere is dan de hoogste vorm van verbeelding, van beeld-worden."/>
             <para PARENT="body"/>
@@ -1500,7 +1511,7 @@
             <ITEXT CH="Ik zocht je op om te praten over handboeken en werd ge­con­fron­teerd met je in­druk­wek­ken­de collec­tie kook­boeken. Waar komt die fasci­na­tie voor het kook­boek vandaan? "/>
             <para PARENT="interview-questions"/>
             <ITEXT CPARENT="pers" CH="Fem­ke Snel­ting"/>
-            <ITEXT CH=": Er komen heel veel din­gen bij elkaar die ik inte­res­sant, maar ook lastig vind. Kook­boeken hel­pen me om na te den­ken. Het heeft te ma­ken met een fasci­na­tie voor educa­tie. Ik werkte een tijd aan cur­ri­cula, on­derwijs­pro­gram­ma’s, voor het Piet Zwart In­sti­tuut in Rot­ter­dam. Dan kom je vanzelf op de vraag: Hoe leer je iets aan via taal? Wat zijn cri­teria? Hoe formu­leer je die zon­der dat je voor­af weet wie er straks voor je staat, wie die imagi­nai­re student is, in wel­ke si­tua­tie? Ze­ker in het kunst­on­derwijs is dat een fi­lo­so­fi­sche vraag. "/>
+            <ITEXT CH=" : Er komen heel veel din­gen bij elkaar die ik inte­res­sant, maar ook lastig vind. Kook­boeken hel­pen me om na te den­ken. Het heeft te ma­ken met een fasci­na­tie voor educa­tie. Ik werkte een tijd aan cur­ri­cula, on­derwijs­pro­gram­ma’s, voor het Piet Zwart In­sti­tuut in Rot­ter­dam. Dan kom je vanzelf op de vraag: Hoe leer je iets aan via taal? Wat zijn cri­teria? Hoe formu­leer je die zon­der dat je voor­af weet wie er straks voor je staat, wie die imagi­nai­re student is, in wel­ke si­tua­tie? Ze­ker in het kunst­on­derwijs is dat een fi­lo­so­fi­sche vraag. "/>
             <para PARENT="interview réponses"/>
             <ITEXT CH="Ik re­ali­seer­de me dat op een school zon­der cur­ri­cu­lum on­ge­schreven wet­ten gelden. Het be­tekent dat ie­der­een die an­de­re din­gen wil le­ren of aan­le­ren dan wat normaal lijkt, in de problemen komt. Het is de les van "/>
             <ITEXT CPARENT="tag" CH="Jo Free­man"/>
@@ -1613,7 +1624,7 @@
             <ITEXT FONT="Source Sans Pro Semibold" CH="Lu­ce Gi­ard"/>
             <ITEXT CH=" en "/>
             <ITEXT CPARENT="tag" CH="Mi­chel De Cer­teau "/>
-            <ITEXT CH="– een niet onbe­lang­rij­ke re­fe­ren­tie voor jou: met "/>
+            <ITEXT CH="– een niet onbe­lang­rij­ke re­fe­ren­tie voor jou : met "/>
             <ITEXT FONT="Source Sans Pro Semibold" CH="De Geuzen"/>
             <ITEXT CH=" or­ganiseer­de je een diner ter ere van "/>
             <ITEXT FONT="Source Sans Pro Semibold" CH="De Cer­teau"/>
@@ -1631,7 +1642,7 @@
             <ITEXT FONT="Source Sans Pro Semibold" CH="De Cer­teau "/>
             <ITEXT CH="en "/>
             <ITEXT FONT="Source Sans Pro Semibold" CH="Gi­ard"/>
-            <ITEXT CH=" gaat het al­tijd over de com­bi­na­tie van le­zen én doen: “het plezier van de tekst”, maar dan wel pa­ral­lel aan de hande­ling. Voor mij is een re­cept een voorbeeld van de ver­men­ging van die ver­schillen­de po­sities. Het is taal om een hande­ling over te dra­gen, je er een voor te stellen, je te her­in­ne­ren."/>
+            <ITEXT CH=" gaat het al­tijd over de com­bi­na­tie van le­zen én doen : “het plezier van de tekst”, maar dan wel pa­ral­lel aan de hande­ling. Voor mij is een re­cept een voorbeeld van de ver­men­ging van die ver­schillen­de po­sities. Het is taal om een hande­ling over te dra­gen, je er een voor te stellen, je te her­in­ne­ren."/>
             <para PARENT="interview réponses"/>
             <ITEXT CH="Een cur­ri­cu­lum en een kook­boek schrijven, hebben met elkaar gemeen dat je voor­waarden pro­beert te formu­le­ren voor iets dat daar­na in gang gezet wordt, vaak geïnspi­reerd op een com­bi­na­tie van erva­ring en ver­wachting. De voor­waarden en het re­sul­taat zijn niet hetzelf­de. Het zijn formu­les voor iets wat zich daar­na ver­schillen­de ke­ren, maar met va­ri­a­ties kan af­spe­len."/>
             <para PARENT="interview réponses"/>
@@ -1737,10 +1748,10 @@
             <para PARENT="interview réponses"/>
             <ITEXT CH="Maar zijn re­cep­ten werken wel. Ze zijn heel ef­fi­ciënt. Ook al – of on­danks – het feit dat hij het niet meer heeft over 100 gram bo­ter, maar wel over een klont. Geen 200 gram bloem, maar een handvol."/>
             <para PARENT="interview-questions"/>
-            <ITEXT CH="Dat is een vaag­heid die vrij­heid be­looft. Maar dat werkt al­leen, net als bij open sour­ce, voor wie zich daar ge­makkelijk bij voelt. Het gaat er op­nieuw over hoe je be­paal­de din­gen pro­beert te ar­chi­ve­ren, te do­cu­mente­ren, bui­ten je ei­gen blik­veld be­schik­baar te ma­ken. Wat be­tekent een klont bo­ter in Lon­den, en wat be­tekent zo’n klont in Brus­sel? Wie gaat dat straks le­zen, wan­neer, in wel­ke si­tua­tie, waar­om? Wat moet ik be­schrij­ven en wat niet en wan­neer wordt het pe­dant of aan­mati­gend? Waar sluit ik be­wust of onbe­wust ie­mand uit die niet de no­di­ge voor­ken­nis heeft? "/>
+            <ITEXT CH="Dat is een vaag­heid die vrij­heid be­looft. Maar dat werkt al­leen, net als bij open sour­ce, voor wie zich daar ge­makkelijk bij voelt. Het gaat er op­nieuw over hoe je be­paal­de din­gen pro­beert te ar­chi­ve­ren, te do­cu­mente­ren, bui­ten je ei­gen blik­veld be­schik­baar te ma­ken. Wat be­tekent een klont bo­ter in Lon­den, en wat be­tekent zo’n klont in Brus­sel ? Wie gaat dat straks le­zen, wan­neer, in wel­ke si­tua­tie, waar­om ? Wat moet ik be­schrij­ven en wat niet en wan­neer wordt het pe­dant of aan­mati­gend ? Waar sluit ik be­wust of onbe­wust ie­mand uit die niet de no­di­ge voor­ken­nis heeft? "/>
             <para PARENT="interview réponses"/>
             <para PARENT="body"/>
-            <ITEXT CH="Heb je dat ook met les­geven? Of lost zich dat op met di­rect con­tact? "/>
+            <ITEXT CH="Heb je dat ook met les­geven ? Of lost zich dat op met di­rect con­tact ? "/>
             <para PARENT="interview-questions"/>
             <ITEXT CH="Nee, dat lost zich niet op. Die af­stand is er al­tijd. Die spanning, die on­rust blijft. Het wordt nooit een com­for­tabe­le po­si­tie. "/>
             <para PARENT="interview réponses"/>
@@ -1802,11 +1813,13 @@
             <ITEXT CH=". Op basis van een diepgaand onderzoek van de dikwijls repetitieve en onbewuste handelingen van het alledaagse leven, ontwikkelt hij een theorie van de kruisende praktijk van producenten en gebruikers."/>
             <para PARENT="notes"/>
             <ITEXT FONT="Univers Else Bold " KERN="-1" CH="Child, Julia"/>
-            <ITEXT KERN="-1" CH=" Kookboekauteur en excentrieke pionierster van de televisiekookshow; ontsloot de Franse culinaire traditie voor de Amerikaanse thuiskok"/>
+            <ITEXT KERN="-1" CH=" Kookboekauteur en excentrieke pionierster van de televisie-kookshow; ontsloot de Franse culinaire traditie voor de Amerikaanse thuiskok"/>
             <para PARENT="notes"/>
             <ITEXT FONT="Univers Else Bold " CH="Constant"/>
-            <ITEXT CH=" Vereniging voor kunst en media, Brussel  http://www.constantvzw.org/site/"/>
+            <ITEXT CH=" Vereniging voor kunst en media, Brussel"/>
             <para PARENT="notes"/>
+            <ITEXT CH="     http://www.constantvzw.org/site/"/>
+            <para PARENT="notes" LINESP="8"/>
             <ITEXT FONT="Univers Else Bold " CH="Deleuze, Gilles"/>
             <ITEXT CH=" Frans differentiedenker (1925-1995). Zijn eerste boeken lezen als een encyclopedie van de filosofie – over Hume, Kant, Bergson, Nietzsche en Spinoza. Zijn latere werk (waaronder verschillende boeken, geschreven met psychoanalyticus Félix Guattari) lezen als een heruitvinding – een gebruiksaanwijzing zowaar."/>
             <para PARENT="notes"/>
@@ -1834,7 +1847,10 @@
             <ITEXT CPARENT="Footnote titre" CH="La mort de l’auteur"/>
             <ITEXT CH=". Foucault’s antwoord daarop verscheen in 1969 in "/>
             <ITEXT CPARENT="Footnote titre" CH="Qu’est-ce qu’un auteur"/>
-            <ITEXT CH=". Daarin gaat hij ervan uit dat een auteur nooit zuiver en eenvoudig is te herleiden tot een individu. In "/>
+            <ITEXT CH=". Daarin gaat hij ervan uit dat een auteur nooit zuiver en eenvoudig is te herleiden tot een individu. "/>
+            <breakline/>
+            <breakline/>
+            <ITEXT CH="In "/>
             <ITEXT CPARENT="Footnote titre" CH="L’ordre du discours"/>
             <ITEXT CH=" (1971) werkt hij dat verder uit en onderzoekt hij hoe de taal, de cultuur en de omgeving doorwerken in een discours."/>
             <para PARENT="notes"/>
@@ -1879,12 +1895,13 @@
             <ITEXT CPARENT="Footnote titre" CH="Le maître ignorant"/>
             <ITEXT CH="."/>
             <para PARENT="notes"/>
-            <ITEXT FONT="Univers Else Bold " CH="Jeanne Dielman"/>
-            <ITEXT CH=" "/>
-            <ITEXT CPARENT="Footnote titre" CH="Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles"/>
-            <ITEXT CH=" Film uit 1975 van Chantal Akerman, met Delphine Seyrig en Jan Decorte. Nauwgezette representatie van drie dagen uit het leven van een alleenstaande moeder: koken, kuisen, geld verdienen en verzorgen. Een belangrijke referentie voor Luce Giard’s bijdrage aan "/>
-            <ITEXT CPARENT="Footnote titre" CH="L’invention du quotidien"/>
-            <ITEXT CH="."/>
+            <ITEXT FONT="Univers Else Bold " CH="J"/>
+            <ITEXT FONT="Univers Else Bold " KERN="-1" CH="eanne Dielman"/>
+            <ITEXT KERN="-1" CH=" "/>
+            <ITEXT CPARENT="Footnote titre" KERN="-1" CH="Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles"/>
+            <ITEXT KERN="-1" CH=" Film uit 1975 van Chantal Akerman, met Delphine Seyrig en Jan Decorte. Nauwgezette representatie van drie dagen uit het leven van een alleenstaande moeder: koken, kuisen, geld verdienen en verzorgen. Een belangrijke referentie voor Luce Giard’s bijdrage aan "/>
+            <ITEXT CPARENT="Footnote titre" KERN="-1" CH="L’invention du quotidien"/>
+            <ITEXT KERN="-1" CH="."/>
             <para PARENT="notes"/>
             <ITEXT FONT="Univers Else Bold " CH="Knuth, Donald"/>
             <ITEXT CH=" Donald Knuth ontwikkelde de TeX typesetting engine en wordt beschouwd als de vader van de informatica. Zijn publicatie "/>
@@ -2612,11 +2629,13 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="623.542576646004" YPOS="1247.65275585906" WIDTH="313.414870162506" HEIGHT="122.832704691724" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTKERN="-2" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="3" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="1" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 313.415 0 313.415 0 313.415 0 313.415 0 313.415 122.833 313.415 122.833 313.415 122.833 313.415 122.833 0 122.833 0 122.833 0 122.833 0 122.833 0 0 0 0 " NUMCO="16" COCOOR="-6.0112 -5.95932 -6.0112 -5.95932 319.404 -5.95932 319.404 -5.95932 319.404 -5.95932 319.404 -5.95932 319.404 128.873 319.404 128.873 319.404 128.873 319.404 128.873 -6.0112 128.873 -6.0112 128.873 -6.0112 128.873 -6.0112 128.873 -6.0112 -5.95932 -6.0112 -5.95932 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="2" BOOKMARK="0" NEXTITEM="177" BACKITEM="-1">
             <ITEXT CPARENT="note num" CH="1"/>
-            <tab KERN="-2"/>
-            <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Exces:"/>
-            <tab CPARENT="Footnote titre" KERN="-2"/>
-            <ITEXT CPARENT="Footnote titre" KERN="-2" CH="beelden en lichamen in buitensporige tijden"/>
-            <ITEXT KERN="-2" CH=", Z33, Hasselt, 2006, www.squarevzw.be/XS."/>
+            <tab/>
+            <ITEXT CPARENT="Footnote titre" CH="Exces"/>
+            <ITEXT CPARENT="Footnote titre" FONT="Univers Else Light " CH=" "/>
+            <ITEXT CPARENT="Footnote titre" CH=":"/>
+            <tab CPARENT="Footnote titre"/>
+            <ITEXT CPARENT="Footnote titre" CH="beelden en lichamen in buitensporige tijden"/>
+            <ITEXT CH=", Z33, Hasselt, 2006, www.squarevzw.be/XS."/>
             <para PARENT="notes"/>
             <ITEXT CPARENT="note num" KERN="-2" CH="2"/>
             <tab KERN="-2"/>
@@ -2634,7 +2653,7 @@
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Images Malgré Tout"/>
             <ITEXT KERN="-2" CH=", Minuit, 2003. (verder IMT) Zie p. 157 e.v. voor een commentaar op de discussie tussen Godard en Lanzmann."/>
             <para PARENT="notes"/>
-            <ITEXT KERN="-2" CH="x"/>
+            <ITEXT CPARENT="note num" CH="4"/>
             <tab KERN="-2"/>
             <ITEXT KERN="-2" CH="Gilles De­leuze,"/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH=" Fou­cault"/>
@@ -2642,7 +2661,7 @@
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="4"/>
+            <ITEXT CPARENT="note num" CH="5"/>
             <tab KERN="-2"/>
             <ITEXT KERN="-2" CH="Georges Didi-Huberman, "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="L’Image brûle"/>
@@ -2650,7 +2669,7 @@
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Penser par les Images. Autour des travaux de Georges Didi-Huberman"/>
             <ITEXT KERN="-2" CH=", Cécile Defaut, 2006: 14"/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="5"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="6"/>
             <tab CPARENT="note num" KERN="-2"/>
             <ITEXT KERN="-2" CH="De tekst verscheen oorspronkelijk in de catalogus bij de tentoonstelling "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Mémoire des camps. Photographies des camps de concentration et d’extermination nazis (1933-1999"/>
@@ -2658,7 +2677,7 @@
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="6"/>
+            <ITEXT CPARENT="note num" CH="7"/>
             <tab KERN="-2"/>
             <ITEXT KERN="-2" CH="In een van zijn laatste teksten heeft Deleuze het over het actuele en de mist van virtuele beelden die het omringt  ("/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="L’Actuel et le Virtuel"/>
@@ -2666,61 +2685,61 @@
             <ITEXT FONT="Univers Else Light " KERN="-2" CH="agencement"/>
             <ITEXT KERN="-2" CH=", tussen het actuele object dat virtueel wordt en het virtuele beeld dat actualiseert. "/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="7"/>
+            <ITEXT CPARENT="note num" CH="8"/>
             <tab KERN="-2"/>
-            <ITEXT KERN="-2" CH="De Cauter, 2004: 166."/>
-            <para PARENT="notes"/>
-            <breakframe/>
-            <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="x"/>
-            <tab KERN="-2"/>
-            <ITEXT KERN="-2" CH="Pri­mo Levi, 1999 [1986]: 464-5"/>
-            <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="8"/>
-            <tab KERN="-2"/>
-            <ITEXT KERN="-2" CH="Foucault, 1969: 161/2."/>
+            <ITEXT KERN="-2" CH="De Cauter, 2004 : 166."/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
             <ITEXT CPARENT="note num" CH="9"/>
             <tab KERN="-2"/>
-            <ITEXT KERN="-2" CH="Deleuze – "/>
-            <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Pourparlers"/>
-            <ITEXT KERN="-2" CH=": 214."/>
-            <para PARENT="notes"/>
-            <breakframe/>
+            <ITEXT KERN="-2" CH="Pri­mo Levi, 1999 [1986] : 464-5"/>
             <para PARENT="notes"/>
             <ITEXT CPARENT="note num" KERN="-2" CH="10"/>
             <tab KERN="-2"/>
-            <ITEXT KERN="-2" CH="Ibidem: 57."/>
+            <ITEXT KERN="-2" CH="Foucault, 1969 : 161/2."/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
             <ITEXT CPARENT="note num" CH="11"/>
             <tab KERN="-2"/>
-            <ITEXT KERN="-2" CH="Een visuele ‘verjongingskuur’ die de vrouwen ongeschikt maakt voor de vergassing (maar wel voor de dwangarbeid) en zo afbreuk doet aan de geloofwaardigheid van de foto’s (zie: Clémént Chéroux, "/>
+            <ITEXT KERN="-2" CH="Deleuze – "/>
+            <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Pourparlers"/>
+            <ITEXT KERN="-2" CH=" : 214."/>
+            <para PARENT="notes"/>
+            <breakframe/>
+            <para PARENT="notes"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="12"/>
+            <tab KERN="-2"/>
+            <ITEXT KERN="-2" CH="Ibidem : 57."/>
+            <para PARENT="notes"/>
+            <breakframe/>
+            <para PARENT="notes"/>
+            <ITEXT CPARENT="note num" CH="13"/>
+            <tab KERN="-2"/>
+            <ITEXT KERN="-2" CH="Een visuele ‘verjongingskuur’ die de vrouwen ongeschikt maakt voor de vergassing (maar wel voor de dwangarbeid) en zo afbreuk doet aan de geloofwaardigheid van de foto’s (zie : Clémént Chéroux, "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Photographies de la résistance polonaise à Auschwitz"/>
             <ITEXT KERN="-2" CH=" in "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Mémoire des camps"/>
             <ITEXT KERN="-2" CH=": 86."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="12"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="14"/>
             <tab KERN="-2"/>
             <ITEXT KERN="-2" CH="Net als Didi-Huberman begon Wajcman zijn carrière in het begin van de jaren ’80 met een studie over de hysterie, “ce mal d’images” – IMT 103."/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="13"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="15"/>
             <tab KERN="-2"/>
-            <ITEXT KERN="-2" CH="Of letterlijk: de versiering van het beeld."/>
+            <ITEXT KERN="-2" CH="Of letterlijk : de versiering van het beeld."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="14"/>
+            <ITEXT CPARENT="note num" CH="16"/>
             <tab KERN="-2"/>
             <ITEXT KERN="-2" CH="IMT 91: “Les images sont faux, ils mentent, mais pas toutes !”"/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="15"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="17"/>
             <tab CPARENT="note num" KERN="-2"/>
             <ITEXT KERN="-2" CH="Dat wordt onmiddellijk duidelijk bij Godard, die in "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Histoire(s) du Cinéma"/>
@@ -2728,29 +2747,29 @@
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="16"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="18"/>
             <tab KERN="-2"/>
             <ITEXT KERN="-2" CH="Levi, 1999 [1986]: 506 – mijn cur­si­ve­ring. Primo Levi heeft het hier, veertig jaar na de feiten, over de communicatie over de kampen, over de muzelman als regel en de overlevende getuige als uitzondering. Als hij het heeft over de communicatie in de kampen, heeft hij het over de vertekening bij de overlevering en over de werking van het geheugen, de herinnering én de verbeelding. In "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="De verdronkene en de geredde"/>
             <ITEXT KERN="-2" CH=" wijdt hij het vierde hoofdstuk aan wat hij noemt de “taalverduistering” (522), de incommunicabiliteit, het gebrabbel in de taal van de anderen. Het gaat over het Duits, Jiddisch, Pools, Hongaars en de andere talen die zich in de kampen vermengen tot een soort bastaardtaal waarvoor elke gebruiker een eigen inbreng en een eigen sleutel heeft. Zo is elk beeld, elk verhaal altijd al een verbasterde interpretatie vanuit het standpunt van de getuige. Er zal altijd nog een zuiverder, een juister en preciezer beeld bestaan. Altijd zal er nog een verhaal mogelijk zijn dat dieper gaat, dat verder gaat, dat verder is geweest, dat verder kan gaan. En daarom zit er voor de kijker niets anders op dan zich te verplaatsen, naar het beeld toe te gaan, er een standpunt in te nemen om het te voltooien. Dat maakt van elk (virtueel) beeld een (heel concrete) actualiteit."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="17"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="19"/>
             <tab KERN="-2"/>
             <ITEXT KERN="-2" CH="IMT: 194"/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="18"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="20"/>
             <tab CPARENT="note num" KERN="-2"/>
             <ITEXT KERN="-2" CH="IMT: 222."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="19"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="21"/>
             <tab KERN="-2"/>
             <ITEXT KERN="-2" CH="IMT: 233."/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="20"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="22"/>
             <tab CPARENT="note num" KERN="-2"/>
             <ITEXT KERN="-2" CH="Een tekst uit 1967, geschreven één jaar na "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Les mots et les choses"/>
@@ -2758,56 +2777,56 @@
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Dits et écrits"/>
             <ITEXT KERN="-2" CH="."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="21"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="23"/>
             <tab CPARENT="note num" KERN="-2"/>
-            <ITEXT KERN="-2" CH="De afwezigheid van spiegels maakte deel uit van de ontpersoonlijking van de gevangenen, net als de afwezigheid van elke vorm van hygiëne, de geuniformiseerde kleding, door anderen gebruikt en van een onaangepaste maat, en de verdwijning van de naam die vervangen werd door een nummer. Zie: Ilsen About, "/>
+            <ITEXT KERN="-2" CH="De afwezigheid van spiegels maakte deel uit van de ontpersoonlijking van de gevangenen, net als de afwezigheid van elke vorm van hygiëne, de geuniformiseerde kleding, door anderen gebruikt en van een onaangepaste maat, en de verdwijning van de naam die vervangen werd door een nummer. Zie : Ilsen About, "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="La photographie au service du système concentrationnaire national-socialiste (1933-1945)"/>
             <ITEXT KERN="-2" CH=" in "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Mémoire des Camps"/>
             <ITEXT KERN="-2" CH=": 35."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="22"/>
+            <ITEXT CPARENT="note num" CH="24"/>
             <tab KERN="-2"/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Getuigenissen"/>
-            <ITEXT KERN="-2" CH=": 604. Hetzelfde motief keert terug bij Antelme."/>
+            <ITEXT KERN="-2" CH=" : 604. Hetzelfde motief keert terug bij Antelme."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" CH="23"/>
+            <ITEXT CPARENT="note num" CH="25"/>
             <tab KERN="-2"/>
-            <ITEXT KERN="-2" CH="Een gelijkenis waarover ik het in de volgende paragraaf zal hebben, en die recent opnieuw een grote rol speelde in de discussies over de beelden van Abu Ghraib en de vergelijkingen met beelden uit de klassieke kunst en de populaire pornografie. Zie: Stephen F. Eisenman, "/>
+            <ITEXT KERN="-2" CH="Een gelijkenis waarover ik het in de volgende paragraaf zal hebben, en die recent opnieuw een grote rol speelde in de discussies over de beelden van Abu Ghraib en de vergelijkingen met beelden uit de klassieke kunst en de populaire pornografie. Zie : Stephen F. Eisenman, "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="The Abu Ghraib Effect"/>
             <ITEXT KERN="-2" CH=", Reaktion Books, 2007."/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="24"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="26"/>
             <tab KERN="-2"/>
             <ITEXT KERN="-2" CH="“[…] même rayé à mort / un simple rectangle / de trente-cinq / millimètres / sauve l’honneur / de tout le réel.” Zo luidt het citaat uit "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Histoire(s) du Cinéma"/>
-            <ITEXT KERN="-2" CH=" dat Didi-Huberman gebruikt als motto voor het eerste deel van zijn boek: het beeld als begrensde én bekraste ruimte (als de krassen op de muur van een gevangeniscel). En ook het kader speelt een doorslaggevende rol in hoe Didi-Huberman de vier foto’s van het Sonderkommando interpreteert: het kader dat in dit geval wijst op de ruimte, essentieel voor een goed begrip van de foto’s. "/>
+            <ITEXT KERN="-2" CH=" dat Didi-Huberman gebruikt als motto voor het eerste deel van zijn boek : het beeld als begrensde én bekraste ruimte (als de krassen op de muur van een gevangeniscel). En ook het kader speelt een doorslaggevende rol in hoe Didi-Huberman de vier foto’s van het Sonderkommando interpreteert : het kader dat in dit geval wijst op de ruimte, essentieel voor een goed begrip van de foto’s. "/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="25"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="27"/>
             <tab CPARENT="note num" KERN="-2"/>
-            <ITEXT KERN="-2" CH="Fotografen als Margaret Bourke-White of George Rodger wijzen erop dat het precies de camera is die het in 1945 mogelijk maakte om naar de realiteit van de pas ontdekte kampen te kijken. Bourke-White: “L’usage de l’appareil photographique était presque un soulagement. Il intercalait une mince barrière entre moi et l’horreur devant moi.” Rodger: “Au moment où on regarde dans l’objectif, on oublie l’horreur et on photographie inconsciemment ou automatiquement.” Zie "/>
+            <ITEXT KERN="-2" CH="Fotografen als Margaret Bourke-White of George Rodger wijzen erop dat het precies de camera is die het in 1945 mogelijk maakte om naar de realiteit van de pas ontdekte kampen te kijken. Bourke-White : “L’usage de l’appareil photographique était presque un soulagement. Il intercalait une mince barrière entre moi et l’horreur devant moi.” Rodger: “Au moment où on regarde dans l’objectif, on oublie l’horreur et on photographie inconsciemment ou automatiquement.” Zie "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Mémoire des camps"/>
             <ITEXT KERN="-2" CH=": 134, 142."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="26"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="28"/>
             <tab CPARENT="note num" KERN="-2"/>
             <ITEXT KERN="-2" CH="En natuurlijk is zo een begrensd beeld, zo’n “rechthoek van 35 mm” waar Didi-Huberman naar verwijst met het citaat van Godard, niet meer of minder dan een cliché, voordat het geprojecteerd wordt (naar een groter, variabel formaat). De afstand tussen het fotografische of cinematografische cliché en het taalkundige cliché is niet zo groot. Ook Primo Levi wijdt in "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="De verdronkene en de geredde"/>
             <ITEXT KERN="-2" CH=" een hoofdstuk aan de clichés over de kampen, over de vragen van mensen met weinig inlevingsvermogen, over het gebrek aan verbeelding."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="x"/>
+            <ITEXT CPARENT="note num" CH="29"/>
             <tab KERN="-2"/>
             <ITEXT KERN="-2" CH="Ge­or­ges Bataille, "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Sar­tre"/>
             <ITEXT KERN="-2" CH=" (ge­ci­teerd door Didi-Huber­man in IMT: 42)"/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="27"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="30"/>
             <tab CPARENT="note num" KERN="-2"/>
             <ITEXT KERN="-2" CH="Susan Sontag heeft het er over in "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Regarding The Pain of Others"/>
-            <ITEXT KERN="-2" CH=" (2003). Ze noemt het letterlijk een falen van de verbeelding: “our failure is one of imagination, of empathy” (p. 8). Waar Sontag in "/>
+            <ITEXT KERN="-2" CH=" (2003). Ze noemt het letterlijk een falen van de verbeelding : “our failure is one of imagination, of empathy” (p. 8). Waar Sontag in "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="On Photography"/>
             <ITEXT KERN="-2" CH=" (1977) nog pleitte voor een ecologie van beelden, komt ze daar in haar laatste boek, volledig in de geest van het digitale tijdperk, op terug: want wie zal beslissen welke beelden wel en welke niet getoond zullen (of mogen) worden? Zie ook IMT: 108 voor de ecologische benadering van Sontag in "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="On Photography"/>
@@ -2817,61 +2836,61 @@
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="28"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="31"/>
             <tab CPARENT="note num" KERN="-2"/>
             <ITEXT KERN="-2" CH="Ik verwijs naar het “Unheimliche”, de “Freudian Slip” die voortdurend dreigt in de interpretatie van de beelden van Abu Ghraib (zie Stephen F. Eisenman, "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="The Abu Ghraib Effect"/>
             <ITEXT KERN="-2" CH="), maar ook naar het persoonlijke onderdrukte dat voortdurend opnieuw de kop opsteekt, cf. “wstawacz”, de droom in de droom bij Levi."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="29"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="32"/>
             <tab KERN="-2"/>
             <ITEXT KERN="-2" CH="IMT: 57."/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="30"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="33"/>
             <tab KERN="-2"/>
             <ITEXT KERN="-2" CH="IMT: 38."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="footnote" CH="31"/>
+            <ITEXT CPARENT="footnote" CH="34"/>
             <tab KERN="-2"/>
             <ITEXT KERN="-2" CH="IMT: 39."/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="32"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="35"/>
             <tab CPARENT="note num" KERN="-2"/>
             <ITEXT KERN="-2" CH="Deleuze &amp; Guattari. 1980: 36."/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="33"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="36"/>
             <tab CPARENT="note num" KERN="-2"/>
             <ITEXT KERN="-2" CH="Braidotti, 2006."/>
             <para PARENT="notes"/>
             <breakframe/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="34"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="37"/>
             <tab KERN="-2"/>
             <ITEXT KERN="-2" CH="Foucault, "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Les mots et les choses"/>
             <ITEXT KERN="-2" CH="."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="35"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="38"/>
             <tab CPARENT="note num" KERN="-2"/>
             <ITEXT KERN="-2" CH="Deleuze &amp; Guattari, "/>
             <ITEXT CPARENT="Footnote titre" KERN="-2" CH="Mille Plateaux"/>
             <ITEXT KERN="-2" CH=", Minuit, 1980."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="36"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="39"/>
             <tab CPARENT="note num" KERN="-2"/>
-            <ITEXT KERN="-2" CH="Ibidem: 343."/>
+            <ITEXT KERN="-2" CH="Ibidem : 343."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="37"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="40"/>
             <tab KERN="-2"/>
-            <ITEXT KERN="-2" CH="Ibidem: 291, mijn cursief."/>
+            <ITEXT KERN="-2" CH="Ibidem : 291, mijn cursief."/>
             <para PARENT="notes"/>
-            <ITEXT CPARENT="note num" KERN="-2" CH="38"/>
+            <ITEXT CPARENT="note num" KERN="-2" CH="41"/>
             <tab CPARENT="note num" KERN="-2"/>
             <ITEXT KERN="-2" CH="Deleuze &amp; Guattari. 1991, 95/6; Oosterling. 1996: 649; Braidotti. 2006: 253."/>
             <para PARENT="notes"/>
