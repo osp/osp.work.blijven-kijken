@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.4.1.svn">
-    <DOCUMENT ANZPAGES="1" PAGEWIDTH="992.125984251969" PAGEHEIGHT="651.968503937008" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="59.5275590551181" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Crimson Text Roman" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="2" HCMS="1" DPSo="0" DPSFo="0" DPuse="1" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="Dutch" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="22" GRAB="13" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="0" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="85.0393700787402" GapVertical="85.0393700787402" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.155" dispY="0.155" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="22" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="992.125984251969" PAGEHEIGHT="651.968503937008" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="59.5275590551181" PRESET="0" BleedTop="14.1732283464567" BleedLeft="14.1732283464567" BleedRight="14.1732283464567" BleedBottom="14.1732283464567" ORIENTATION="1" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Crimson Text Roman" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="2" HCMS="1" DPSo="0" DPSFo="0" DPuse="1" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="Dutch" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="22" GRAB="13" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="0" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="85.0393700787402" GapVertical="85.0393700787402" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.055" dispY="0.055" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="22" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
-        <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
-        <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
-        <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
-        <COLOR NAME="FromSVG#000000" RGB="#000000" Spot="0" Register="0"/>
-        <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
-        <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
-        <COLOR NAME="New Color" CMYK="#ff26ff00" Spot="0" Register="0"/>
-        <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
         <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
-        <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
-        <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
-        <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN>
             <EXCEPTION WORD="Schuw" HYPHENATED="Schuw"/>
             <EXCEPTION WORD="beeldverhalen" HYPHENATED="beeld-ver-ha-len"/>
@@ -30,8 +19,8 @@
             <EXCEPTION WORD="stadskrant" HYPHENATED="stads-krant"/>
             <EXCEPTION WORD="Guldenvlieslaan" HYPHENATED="Gul-den-vlies-laan"/>
             <EXCEPTION WORD="waarom" HYPHENATED="waar-om"/>
-            <EXCEPTION WORD="vanaf" HYPHENATED="van-af"/>
             <EXCEPTION WORD="signatuur" HYPHENATED="sig-na-tuur"/>
+            <EXCEPTION WORD="vanaf" HYPHENATED="van-af"/>
             <EXCEPTION WORD="waarop" HYPHENATED="waar-op"/>
             <EXCEPTION WORD="Strijdlustig" HYPHENATED="Strijd-lustig"/>
             <EXCEPTION WORD="school" HYPHENATED="school"/>
@@ -40,12 +29,12 @@
             <EXCEPTION WORD="Doodsbang" HYPHENATED="Doods-bang"/>
             <EXCEPTION WORD="Slachthuis" HYPHENATED="Slacht-huis"/>
             <EXCEPTION WORD="geloodst" HYPHENATED="ge-loodst"/>
-            <EXCEPTION WORD="Zelfbeschikkingsrecht" HYPHENATED="Zelf-be-schik-kings-recht"/>
             <EXCEPTION WORD="schoot" HYPHENATED="schoot"/>
+            <EXCEPTION WORD="Zelfbeschikkingsrecht" HYPHENATED="Zelf-be-schik-kings-recht"/>
             <EXCEPTION WORD="bestudeert" HYPHENATED="be-stu-deert"/>
             <EXCEPTION WORD="aanschijn" HYPHENATED="aan-schijn"/>
-            <EXCEPTION WORD="trouwpartijen" HYPHENATED="trouw-par-tij-en"/>
             <EXCEPTION WORD="achteraf" HYPHENATED="ach-ter-af"/>
+            <EXCEPTION WORD="trouwpartijen" HYPHENATED="trouw-par-tij-en"/>
             <EXCEPTION WORD="gemeenschappen" HYPHENATED="ge-meen-schap-pen"/>
             <EXCEPTION WORD="gesprek" HYPHENATED="ge-sprek"/>
             <EXCEPTION WORD="uithangbord" HYPHENATED="uit-hang-bord"/>
@@ -58,8 +47,8 @@
             <EXCEPTION WORD="Belangrijk" HYPHENATED="Be-lang-rijk"/>
             <EXCEPTION WORD="binnenuit" HYPHENATED="bin-nen-uit"/>
             <EXCEPTION WORD="goedaardig" HYPHENATED="goed-aar-dig"/>
-            <EXCEPTION WORD="Terwijl" HYPHENATED="Ter-wijl"/>
             <EXCEPTION WORD="opruimactie" HYPHENATED="opruim-ac-tie"/>
+            <EXCEPTION WORD="Terwijl" HYPHENATED="Ter-wijl"/>
             <EXCEPTION WORD="zelfstandigheid" HYPHENATED="zelf-stan-dig-heid"/>
             <EXCEPTION WORD="bijgestaan" HYPHENATED="bij-gestaan"/>
             <EXCEPTION WORD="schijnbaar" HYPHENATED="schijn-baar"/>
@@ -79,19 +68,19 @@
             <EXCEPTION WORD="wachthuisjes" HYPHENATED="wacht-huisjes"/>
             <EXCEPTION WORD="beschouwingen" HYPHENATED="be-schou-win-gen"/>
             <EXCEPTION WORD="betovergrootva" HYPHENATED="bet-over-groot-va"/>
-            <EXCEPTION WORD="tractorstoeltje" HYPHENATED="trac-tor-stoeltje"/>
             <EXCEPTION WORD="schuifelt" HYPHENATED="schui-felt"/>
+            <EXCEPTION WORD="tractorstoeltje" HYPHENATED="trac-tor-stoeltje"/>
             <EXCEPTION WORD="vijver" HYPHENATED="vij-ver"/>
             <EXCEPTION WORD="enorme" HYPHENATED="e-nor-me"/>
             <EXCEPTION WORD="tegenstelling" HYPHENATED="te-gen-stelling"/>
             <EXCEPTION WORD="onvoorspelbaar" HYPHENATED="on-voor-spel-baar"/>
             <EXCEPTION WORD="hoofdredacteur" HYPHENATED="hoofd-re-dac-teur"/>
             <EXCEPTION WORD="bijzondere" HYPHENATED="bij-zon-dere"/>
-            <EXCEPTION WORD="verstreken" HYPHENATED="ver-stre-ken"/>
             <EXCEPTION WORD="schijfje" HYPHENATED="schijf-je"/>
+            <EXCEPTION WORD="verstreken" HYPHENATED="ver-stre-ken"/>
             <EXCEPTION WORD="elfendertigste" HYPHENATED="elf-en-der-tig-ste"/>
-            <EXCEPTION WORD="zijspoor" HYPHENATED="zij-spoor"/>
             <EXCEPTION WORD="onthouden" HYPHENATED="ont-hou-den"/>
+            <EXCEPTION WORD="zijspoor" HYPHENATED="zij-spoor"/>
             <EXCEPTION WORD="dichtgeknepen" HYPHENATED="dicht-ge-kne-pen"/>
             <EXCEPTION WORD="muntstukken" HYPHENATED="munt-stuk-ken"/>
             <EXCEPTION WORD="onderin" HYPHENATED="on-der-in"/>
@@ -105,16 +94,16 @@
             <EXCEPTION WORD="kwijt" HYPHENATED="kwijt"/>
             <EXCEPTION WORD="waarachter" HYPHENATED="waar-ach-ter"/>
             <EXCEPTION WORD="daarom" HYPHENATED="daar-om"/>
-            <EXCEPTION WORD="tentoonstelling" HYPHENATED="ten-toon-stel-ling"/>
             <EXCEPTION WORD="breekbaarheid" HYPHENATED="breek-baar-heid"/>
+            <EXCEPTION WORD="tentoonstelling" HYPHENATED="ten-toon-stel-ling"/>
             <EXCEPTION WORD="gitzwart" HYPHENATED="git-zwart"/>
-            <EXCEPTION WORD="Zenuwachtig" HYPHENATED="Ze-nuw-ach-tig"/>
             <EXCEPTION WORD="Podofo" HYPHENATED="Po-do-fo"/>
+            <EXCEPTION WORD="Zenuwachtig" HYPHENATED="Ze-nuw-ach-tig"/>
             <EXCEPTION WORD="omhelst" HYPHENATED="om-helst"/>
-            <EXCEPTION WORD="zonneschijn" HYPHENATED="zon-ne-schijn"/>
-            <EXCEPTION WORD="vrijwaren" HYPHENATED="vrij-wa-ren"/>
             <EXCEPTION WORD="daarop" HYPHENATED="daar-op"/>
             <EXCEPTION WORD="doorsnee" HYPHENATED="door-snee"/>
+            <EXCEPTION WORD="vrijwaren" HYPHENATED="vrij-wa-ren"/>
+            <EXCEPTION WORD="zonneschijn" HYPHENATED="zon-ne-schijn"/>
             <EXCEPTION WORD="restte" HYPHENATED="rest-te"/>
             <EXCEPTION WORD="schouder" HYPHENATED="schou-der"/>
             <EXCEPTION WORD="terwijl" HYPHENATED="ter-wijl"/>
@@ -142,8 +131,8 @@
             <EXCEPTION WORD="veroveren" HYPHENATED="ver-ove-ren"/>
             <EXCEPTION WORD="Mijnen" HYPHENATED="Mij-nen"/>
             <EXCEPTION WORD="rechtop" HYPHENATED="recht-op"/>
-            <EXCEPTION WORD="wereldwijde" HYPHENATED="we-reld-wijde"/>
             <EXCEPTION WORD="schaamt" HYPHENATED="schaamt"/>
+            <EXCEPTION WORD="wereldwijde" HYPHENATED="we-reld-wijde"/>
             <EXCEPTION WORD="vrijaf" HYPHENATED="vrij-af"/>
             <EXCEPTION WORD="hoefijzer" HYPHENATED="hoef-ijzer"/>
             <EXCEPTION WORD="blijmoedige" HYPHENATED="blij-moe-dige"/>
@@ -153,8 +142,8 @@
             <EXCEPTION WORD="beschreef" HYPHENATED="be-schreef"/>
             <EXCEPTION WORD="hierover" HYPHENATED="hier-over"/>
             <EXCEPTION WORD="onveranderlijk" HYPHENATED="on-ver-an-der-lijk"/>
-            <EXCEPTION WORD="zwijmelt" HYPHENATED="zwij-melt"/>
             <EXCEPTION WORD="zijzelf" HYPHENATED="zij-zelf"/>
+            <EXCEPTION WORD="zwijmelt" HYPHENATED="zwij-melt"/>
             <EXCEPTION WORD="hijgend" HYPHENATED="hij-gend"/>
             <EXCEPTION WORD="rijgen" HYPHENATED="rij-gen"/>
             <EXCEPTION WORD="gesnapt" HYPHENATED="ge-snapt"/>
@@ -166,9 +155,9 @@
             <EXCEPTION WORD="Verontrust" HYPHENATED="Ver-ont-rust"/>
             <EXCEPTION WORD="verheugd" HYPHENATED="ver-heugd"/>
             <EXCEPTION WORD="diensters" HYPHENATED="dien-sters"/>
-            <EXCEPTION WORD="versleten" HYPHENATED="ver-sle-ten"/>
             <EXCEPTION WORD="aangesmeerd" HYPHENATED="aan-ge-smeerd"/>
             <EXCEPTION WORD="Frankrijk" HYPHENATED="Frank-rijk"/>
+            <EXCEPTION WORD="versleten" HYPHENATED="ver-sle-ten"/>
             <EXCEPTION WORD="wijfjesstraathond" HYPHENATED="wijf-jes-straat-hond"/>
             <EXCEPTION WORD="fruitschaal" HYPHENATED="fruit-schaal"/>
             <EXCEPTION WORD="interesse" HYPHENATED="inte-resse"/>
@@ -198,14 +187,14 @@
             <EXCEPTION WORD="Blijf" HYPHENATED="Blijf"/>
             <EXCEPTION WORD="verduisterden" HYPHENATED="ver-duis-ter-den"/>
             <EXCEPTION WORD="schoteltje" HYPHENATED="scho-tel-tje"/>
-            <EXCEPTION WORD="schrijfstukken" HYPHENATED="schrijf-stuk-ken"/>
             <EXCEPTION WORD="krijttekening" HYPHENATED="krijt-te-kening"/>
+            <EXCEPTION WORD="schrijfstukken" HYPHENATED="schrijf-stuk-ken"/>
             <EXCEPTION WORD="Schaarbeek" HYPHENATED="Schaar-beek"/>
             <EXCEPTION WORD="onhandigheid" HYPHENATED="on-han-dig-heid"/>
-            <EXCEPTION WORD="verstijft" HYPHENATED="ver-stijft"/>
             <EXCEPTION WORD="noodgedwongen" HYPHENATED="nood-ge-dwon-gen"/>
-            <EXCEPTION WORD="vrijheden" HYPHENATED="vrij-he-den"/>
+            <EXCEPTION WORD="verstijft" HYPHENATED="ver-stijft"/>
             <EXCEPTION WORD="vooroordelen" HYPHENATED="voor-oor-de-len"/>
+            <EXCEPTION WORD="vrijheden" HYPHENATED="vrij-he-den"/>
             <EXCEPTION WORD="lijntjes" HYPHENATED="lijn-tjes"/>
             <EXCEPTION WORD="begrijpt" HYPHENATED="be-grijpt"/>
             <EXCEPTION WORD="verbijt" HYPHENATED="ver-bijt"/>
@@ -217,31 +206,31 @@
             <EXCEPTION WORD="veroverert" HYPHENATED="ver-ove-rert"/>
             <EXCEPTION WORD="onzekerheden" HYPHENATED="on-ze-ker-he-den"/>
             <EXCEPTION WORD="beeldverhaal" HYPHENATED="beeld-ver-haal"/>
-            <EXCEPTION WORD="woestijnreiziger" HYPHENATED="woes-tijn-rei-zi-ger"/>
             <EXCEPTION WORD="somberheid" HYPHENATED="som-ber-heid"/>
+            <EXCEPTION WORD="woestijnreiziger" HYPHENATED="woes-tijn-rei-zi-ger"/>
             <EXCEPTION WORD="verjaardagscadeau" HYPHENATED="ver-jaar-dags-ca-deau"/>
             <EXCEPTION WORD="interessant" HYPHENATED="inte-res-sant"/>
             <EXCEPTION WORD="krijg" HYPHENATED="krijg"/>
             <EXCEPTION WORD="erover" HYPHENATED="er-over"/>
             <EXCEPTION WORD="schuift" HYPHENATED="schuift"/>
             <EXCEPTION WORD="agentschap" HYPHENATED="agent-schap"/>
-            <EXCEPTION WORD="veroordeelden" HYPHENATED="ver-oor-deel-den"/>
             <EXCEPTION WORD="kantooruren" HYPHENATED="kan-toor-uren"/>
+            <EXCEPTION WORD="veroordeelden" HYPHENATED="ver-oor-deel-den"/>
             <EXCEPTION WORD="deeltijds" HYPHENATED="deel-tijds"/>
             <EXCEPTION WORD="knipoog" HYPHENATED="knip-oog"/>
             <EXCEPTION WORD="vanop" HYPHENATED="van-op"/>
             <EXCEPTION WORD="krijt" HYPHENATED="krijt"/>
             <EXCEPTION WORD="schuiven" HYPHENATED="schui-ven"/>
             <EXCEPTION WORD="meisjesachtig" HYPHENATED="meis-jes-ach-tig"/>
-            <EXCEPTION WORD="zelfverwijt" HYPHENATED="zelf-ver-wijt"/>
             <EXCEPTION WORD="tijdens" HYPHENATED="tij-dens"/>
-            <EXCEPTION WORD="Toegewijd" HYPHENATED="Toe-ge-wijd"/>
+            <EXCEPTION WORD="zelfverwijt" HYPHENATED="zelf-ver-wijt"/>
             <EXCEPTION WORD="krijsen" HYPHENATED="krij-sen"/>
+            <EXCEPTION WORD="Toegewijd" HYPHENATED="Toe-ge-wijd"/>
             <EXCEPTION WORD="hacklab" HYPHENATED="hack-lab"/>
             <EXCEPTION WORD="bescheidenheid" HYPHENATED="be-schei-den-heid"/>
             <EXCEPTION WORD="wetenschappelijk" HYPHENATED="we-ten-schap-pe-lijk"/>
-            <EXCEPTION WORD="verkleurt" HYPHENATED="ver-kleurt"/>
             <EXCEPTION WORD="nieuwsgierigheid" HYPHENATED="nieuws-gie-rig-heid"/>
+            <EXCEPTION WORD="verkleurt" HYPHENATED="ver-kleurt"/>
             <EXCEPTION WORD="twijfelaar" HYPHENATED="twij-fe-laar"/>
             <EXCEPTION WORD="achterop" HYPHENATED="ach-ter-op"/>
             <EXCEPTION WORD="voorbijganger" HYPHENATED="voor-bij-gan-ger"/>
@@ -272,9 +261,9 @@
             <EXCEPTION WORD="gesjoemel" HYPHENATED="ge-sjoe-mel"/>
             <EXCEPTION WORD="snijschijven" HYPHENATED="snij-schij-ven"/>
             <EXCEPTION WORD="vaderschapsbestaan" HYPHENATED="va-der-schaps-bestaan"/>
-            <EXCEPTION WORD="uithouden" HYPHENATED="uit-hou-den"/>
             <EXCEPTION WORD="designschoenen" HYPHENATED="de-sign-schoe-nen"/>
             <EXCEPTION WORD="snijding" HYPHENATED="snij-ding"/>
+            <EXCEPTION WORD="uithouden" HYPHENATED="uit-hou-den"/>
             <EXCEPTION WORD="kunstgeschiedenis" HYPHENATED="kunst-ge-schie-denis"/>
             <EXCEPTION WORD="nijdig" HYPHENATED="nij-dig"/>
             <EXCEPTION WORD="verontrustend" HYPHENATED="ver-ont-rustend"/>
@@ -282,8 +271,8 @@
             <EXCEPTION WORD="aanspreken" HYPHENATED="aan-spre-ken"/>
             <EXCEPTION WORD="tederheid" HYPHENATED="te-der-heid"/>
             <EXCEPTION WORD="alsof" HYPHENATED="als-of"/>
-            <EXCEPTION WORD="Vranckx" HYPHENATED="Vranckx"/>
             <EXCEPTION WORD="stripauteur" HYPHENATED="strip-au-teur"/>
+            <EXCEPTION WORD="Vranckx" HYPHENATED="Vranckx"/>
             <EXCEPTION WORD="lijvige" HYPHENATED="lij-vige"/>
             <EXCEPTION WORD="heftigheid" HYPHENATED="hef-tig-heid"/>
             <EXCEPTION WORD="huwelijksportretten" HYPHENATED="hu-we-lijks-por-tret-ten"/>
@@ -295,13 +284,13 @@
             <EXCEPTION WORD="paardenstraat" HYPHENATED="paar-den-straat"/>
             <EXCEPTION WORD="achteruit" HYPHENATED="ach-ter-uit"/>
             <EXCEPTION WORD="verschuiven" HYPHENATED="ver-schui-ven"/>
-            <EXCEPTION WORD="weekend" HYPHENATED="week-end"/>
             <EXCEPTION WORD="sláchthuis" HYPHENATED="slácht-huis"/>
+            <EXCEPTION WORD="weekend" HYPHENATED="week-end"/>
             <EXCEPTION WORD="huurappartement" HYPHENATED="huur-appar-te-ment"/>
             <EXCEPTION WORD="prioriteitslijst" HYPHENATED="prio-ri-teits-lijst"/>
-            <EXCEPTION WORD="vluchtlijnen" HYPHENATED="vlucht-lij-nen"/>
             <EXCEPTION WORD="hooguit" HYPHENATED="hoog-uit"/>
             <EXCEPTION WORD="Tijdens" HYPHENATED="Tij-dens"/>
+            <EXCEPTION WORD="vluchtlijnen" HYPHENATED="vlucht-lij-nen"/>
             <EXCEPTION WORD="onderwijl" HYPHENATED="on-der-wijl"/>
             <EXCEPTION WORD="verstrijken" HYPHENATED="ver-strij-ken"/>
             <EXCEPTION WORD="herinnering" HYPHENATED="her-in-ne-ring"/>
@@ -310,8 +299,8 @@
             <EXCEPTION WORD="schijfjes" HYPHENATED="schijf-jes"/>
             <EXCEPTION WORD="binnenspringen" HYPHENATED="bin-nen-springen"/>
             <EXCEPTION WORD="onderwijs" HYPHENATED="on-der-wijs"/>
-            <EXCEPTION WORD="Schijnbaar" HYPHENATED="Schijn-baar"/>
             <EXCEPTION WORD="landschap" HYPHENATED="land-schap"/>
+            <EXCEPTION WORD="Schijnbaar" HYPHENATED="Schijn-baar"/>
             <EXCEPTION WORD="uiteenspatte" HYPHENATED="uit-een-spatte"/>
             <EXCEPTION WORD="schaap" HYPHENATED="schaap"/>
             <EXCEPTION WORD="beschermd" HYPHENATED="be-schermd"/>
@@ -326,8 +315,8 @@
             <EXCEPTION WORD="angst" HYPHENATED="angst"/>
             <EXCEPTION WORD="onknappe" HYPHENATED="on-knappe"/>
             <EXCEPTION WORD="actiescènes" HYPHENATED="ac-tie-scènes"/>
-            <EXCEPTION WORD="schudt" HYPHENATED="schudt"/>
             <EXCEPTION WORD="cijfers" HYPHENATED="cij-fers"/>
+            <EXCEPTION WORD="schudt" HYPHENATED="schudt"/>
             <EXCEPTION WORD="verontschuldigende" HYPHENATED="ver-ont-schul-di-gende"/>
             <EXCEPTION WORD="voetstuk" HYPHENATED="voet-stuk"/>
             <EXCEPTION WORD="ontvlamd" HYPHENATED="ont-vlamd"/>
@@ -340,18 +329,18 @@
             <EXCEPTION WORD="beslisten" HYPHENATED="be-slisten"/>
             <EXCEPTION WORD="gespleten" HYPHENATED="ge-sple-ten"/>
             <EXCEPTION WORD="Bijzondere" HYPHENATED="Bij-zon-dere"/>
-            <EXCEPTION WORD="strijdmakker" HYPHENATED="strijd-mak-ker"/>
             <EXCEPTION WORD="krijsende" HYPHENATED="krij-sende"/>
+            <EXCEPTION WORD="strijdmakker" HYPHENATED="strijd-mak-ker"/>
             <EXCEPTION WORD="verhoorkamer" HYPHENATED="ver-hoor-ka-mer"/>
             <EXCEPTION WORD="respijt" HYPHENATED="res-pijt"/>
             <EXCEPTION WORD="uitschuivers" HYPHENATED="uit-schui-vers"/>
             <EXCEPTION WORD="gordijn" HYPHENATED="gor-dijn"/>
             <EXCEPTION WORD="geschenken" HYPHENATED="ge-schen-ken"/>
-            <EXCEPTION WORD="volop" HYPHENATED="vol-op"/>
             <EXCEPTION WORD="schaamde" HYPHENATED="schaam-de"/>
+            <EXCEPTION WORD="volop" HYPHENATED="vol-op"/>
             <EXCEPTION WORD="vooraleer" HYPHENATED="voor-a-leer"/>
-            <EXCEPTION WORD="Yoplait" HYPHENATED="Yop-lait"/>
             <EXCEPTION WORD="versnellen" HYPHENATED="ver-snel-len"/>
+            <EXCEPTION WORD="Yoplait" HYPHENATED="Yop-lait"/>
             <EXCEPTION WORD="bewijs" HYPHENATED="be-wijs"/>
             <EXCEPTION WORD="kortsluiten" HYPHENATED="kort-slui-ten"/>
             <EXCEPTION WORD="lijmen" HYPHENATED="lij-men"/>
@@ -359,21 +348,21 @@
             <EXCEPTION WORD="dienen" HYPHENATED="die-nen"/>
             <EXCEPTION WORD="spontaneïteit" HYPHENATED="spon-ta-neï-teit"/>
             <EXCEPTION WORD="botsautootje" HYPHENATED="bots-autootje"/>
-            <EXCEPTION WORD="veranderde" HYPHENATED="ver-an-derde"/>
             <EXCEPTION WORD="uithoeken" HYPHENATED="uit-hoe-ken"/>
+            <EXCEPTION WORD="veranderde" HYPHENATED="ver-an-derde"/>
             <EXCEPTION WORD="losknoopt" HYPHENATED="los-knoopt"/>
-            <EXCEPTION WORD="vrijlaat" HYPHENATED="vrij-laat"/>
             <EXCEPTION WORD="gekleed" HYPHENATED="ge-kleed"/>
-            <EXCEPTION WORD="uitgespaard" HYPHENATED="uit-ge-spaard"/>
+            <EXCEPTION WORD="vrijlaat" HYPHENATED="vrij-laat"/>
             <EXCEPTION WORD="opgeschoren" HYPHENATED="op-ge-scho-ren"/>
-            <EXCEPTION WORD="Zijn" HYPHENATED="Zijn"/>
             <EXCEPTION WORD="hopeloosheid" HYPHENATED="ho-pe-loos-heid"/>
+            <EXCEPTION WORD="uitgespaard" HYPHENATED="uit-ge-spaard"/>
             <EXCEPTION WORD="wafelijzer" HYPHENATED="wa-fel-ijzer"/>
+            <EXCEPTION WORD="Zijn" HYPHENATED="Zijn"/>
             <EXCEPTION WORD="signaleert" HYPHENATED="sig-na-leert"/>
             <EXCEPTION WORD="beverigheid" HYPHENATED="be-ve-rig-heid"/>
             <EXCEPTION WORD="bovenaan" HYPHENATED="bo-ven-aan"/>
-            <EXCEPTION WORD="woordenschat" HYPHENATED="woor-den-schat"/>
             <EXCEPTION WORD="bezweren" HYPHENATED="be-zwe-ren"/>
+            <EXCEPTION WORD="woordenschat" HYPHENATED="woor-den-schat"/>
             <EXCEPTION WORD="grijnst" HYPHENATED="grijnst"/>
             <EXCEPTION WORD="Parijs" HYPHENATED="Pa-rijs"/>
             <EXCEPTION WORD="daaruit" HYPHENATED="daar-uit"/>
@@ -381,21 +370,21 @@
             <EXCEPTION WORD="Desondanks" HYPHENATED="Des-on-danks"/>
             <EXCEPTION WORD="oppervlakte" HYPHENATED="op-per-vlakte"/>
             <EXCEPTION WORD="lichaamsdelen" HYPHENATED="li-chaams-de-len"/>
-            <EXCEPTION WORD="vriendschap" HYPHENATED="vriend-schap"/>
             <EXCEPTION WORD="beschrijft" HYPHENATED="be-schrijft"/>
+            <EXCEPTION WORD="vriendschap" HYPHENATED="vriend-schap"/>
             <EXCEPTION WORD="beschikken" HYPHENATED="be-schik-ken"/>
             <EXCEPTION WORD="besluit" HYPHENATED="be-sluit"/>
-            <EXCEPTION WORD="veranderen" HYPHENATED="ver-an-de-ren"/>
             <EXCEPTION WORD="langharige" HYPHENATED="lang-ha-rige"/>
             <EXCEPTION WORD="schoonst" HYPHENATED="schoonst"/>
+            <EXCEPTION WORD="veranderen" HYPHENATED="ver-an-de-ren"/>
             <EXCEPTION WORD="Bloedernstig" HYPHENATED="Bloed-ernstig"/>
             <EXCEPTION WORD="druiloren" HYPHENATED="druil-oren"/>
             <EXCEPTION WORD="compagnies" HYPHENATED="com-pag-nies"/>
             <EXCEPTION WORD="Tersluiks" HYPHENATED="Ter-sluiks"/>
             <EXCEPTION WORD="schuif" HYPHENATED="schuif"/>
             <EXCEPTION WORD="voorin" HYPHENATED="voor-in"/>
-            <EXCEPTION WORD="veelal" HYPHENATED="veel-al"/>
             <EXCEPTION WORD="antiek" HYPHENATED="an-tiek"/>
+            <EXCEPTION WORD="veelal" HYPHENATED="veel-al"/>
             <EXCEPTION WORD="Overdrijving" HYPHENATED="Over-drij-ving"/>
             <EXCEPTION WORD="verhuisd" HYPHENATED="ver-huisd"/>
             <EXCEPTION WORD="Opgeblonken" HYPHENATED="Op-ge-blon-ken"/>
@@ -408,8 +397,8 @@
             <EXCEPTION WORD="spijtig" HYPHENATED="spij-tig"/>
             <EXCEPTION WORD="verblijf" HYPHENATED="ver-blijf"/>
             <EXCEPTION WORD="slachtershuis" HYPHENATED="slach-ters-huis"/>
-            <EXCEPTION WORD="waaraan" HYPHENATED="waar-aan"/>
             <EXCEPTION WORD="snijden" HYPHENATED="snij-den"/>
+            <EXCEPTION WORD="waaraan" HYPHENATED="waar-aan"/>
             <EXCEPTION WORD="schooiers" HYPHENATED="schooi-ers"/>
             <EXCEPTION WORD="schuimende" HYPHENATED="schui-mende"/>
             <EXCEPTION WORD="rijden" HYPHENATED="rij-den"/>
@@ -417,16 +406,16 @@
             <EXCEPTION WORD="Negenentwintig" HYPHENATED="Ne-gen-en-twintig"/>
             <EXCEPTION WORD="adashboard" HYPHENATED="adash-board"/>
             <EXCEPTION WORD="gekheid" HYPHENATED="gek-heid"/>
-            <EXCEPTION WORD="voorafbepaalde" HYPHENATED="voor-af-be-paalde"/>
-            <EXCEPTION WORD="terugnemen" HYPHENATED="te-rug-ne-men"/>
             <EXCEPTION WORD="Gestroomlijnde" HYPHENATED="Gestroom-lijnde"/>
+            <EXCEPTION WORD="terugnemen" HYPHENATED="te-rug-ne-men"/>
+            <EXCEPTION WORD="voorafbepaalde" HYPHENATED="voor-af-be-paalde"/>
             <EXCEPTION WORD="onhandigheden" HYPHENATED="on-han-dig-he-den"/>
-            <EXCEPTION WORD="wereldreiziger" HYPHENATED="we-reld-rei-zi-ger"/>
             <EXCEPTION WORD="beschreven" HYPHENATED="be-schre-ven"/>
+            <EXCEPTION WORD="wereldreiziger" HYPHENATED="we-reld-rei-zi-ger"/>
             <EXCEPTION WORD="versleepte" HYPHENATED="ver-sleepte"/>
+            <EXCEPTION WORD="Stoomstrijkijzer" HYPHENATED="Stoom-strijk-ij-zer"/>
             <EXCEPTION WORD="vermijden" HYPHENATED="ver-mij-den"/>
             <EXCEPTION WORD="verontrust" HYPHENATED="ver-ont-rust"/>
-            <EXCEPTION WORD="Stoomstrijkijzer" HYPHENATED="Stoom-strijk-ij-zer"/>
             <EXCEPTION WORD="gevechtsvliegtuigen" HYPHENATED="ge-vechts-vlieg-tui-gen"/>
             <EXCEPTION WORD="sindsdien" HYPHENATED="sinds-dien"/>
             <EXCEPTION WORD="negenentwintig" HYPHENATED="ne-gen-en-twintig"/>
@@ -436,15 +425,15 @@
             <EXCEPTION WORD="schijf" HYPHENATED="schijf"/>
             <EXCEPTION WORD="voorarm" HYPHENATED="voor-arm"/>
             <EXCEPTION WORD="Schouderklopjes" HYPHENATED="Schou-der-klop-jes"/>
-            <EXCEPTION WORD="vertellinkje" HYPHENATED="ver-tel-linkje"/>
             <EXCEPTION WORD="adamsappel" HYPHENATED="adams-ap-pel"/>
-            <EXCEPTION WORD="vastbijten" HYPHENATED="vast-bij-ten"/>
             <EXCEPTION WORD="boterham" HYPHENATED="bo-ter-ham"/>
+            <EXCEPTION WORD="vastbijten" HYPHENATED="vast-bij-ten"/>
+            <EXCEPTION WORD="vertellinkje" HYPHENATED="ver-tel-linkje"/>
             <EXCEPTION WORD="vriendschappelijke" HYPHENATED="vriend-schap-pe-lijke"/>
             <EXCEPTION WORD="openrijt" HYPHENATED="open-rijt"/>
             <EXCEPTION WORD="jonkheer" HYPHENATED="jonk-heer"/>
-            <EXCEPTION WORD="schuld" HYPHENATED="schuld"/>
             <EXCEPTION WORD="ontbijt" HYPHENATED="ont-bijt"/>
+            <EXCEPTION WORD="schuld" HYPHENATED="schuld"/>
             <EXCEPTION WORD="burgeracties" HYPHENATED="bur-ger-ac-ties"/>
             <EXCEPTION WORD="deeltijdse" HYPHENATED="deel-tijdse"/>
             <EXCEPTION WORD="verbrijzelt" HYPHENATED="ver-brij-zelt"/>
@@ -456,27 +445,27 @@
             <EXCEPTION WORD="herinstalleerde" HYPHENATED="her-instal-leerde"/>
             <EXCEPTION WORD="stijve" HYPHENATED="stij-ve"/>
             <EXCEPTION WORD="zijwaarts" HYPHENATED="zij-waarts"/>
-            <EXCEPTION WORD="webradio" HYPHENATED="web-radio"/>
-            <EXCEPTION WORD="toegankelijkheid" HYPHENATED="toe-gan-ke-lijk-heid"/>
             <EXCEPTION WORD="rijtje" HYPHENATED="rij-tje"/>
+            <EXCEPTION WORD="toegankelijkheid" HYPHENATED="toe-gan-ke-lijk-heid"/>
             <EXCEPTION WORD="versprongen" HYPHENATED="ver-spron-gen"/>
-            <EXCEPTION WORD="schrijnend" HYPHENATED="schrij-nend"/>
+            <EXCEPTION WORD="webradio" HYPHENATED="web-radio"/>
             <EXCEPTION WORD="bruutheid" HYPHENATED="bruut-heid"/>
+            <EXCEPTION WORD="schrijnend" HYPHENATED="schrij-nend"/>
             <EXCEPTION WORD="uithalen" HYPHENATED="uit-ha-len"/>
             <EXCEPTION WORD="zinsverbijstering" HYPHENATED="zins-ver-bijs-te-ring"/>
             <EXCEPTION WORD="gesmoord" HYPHENATED="ge-smoord"/>
             <EXCEPTION WORD="Liefst" HYPHENATED="Liefst"/>
             <EXCEPTION WORD="lijve" HYPHENATED="lij-ve"/>
-            <EXCEPTION WORD="waarover" HYPHENATED="waar-over"/>
             <EXCEPTION WORD="verstrooidheid" HYPHENATED="ver-strooid-heid"/>
+            <EXCEPTION WORD="waarover" HYPHENATED="waar-over"/>
             <EXCEPTION WORD="zesentwintig" HYPHENATED="zes-en-twintig"/>
             <EXCEPTION WORD="schommelstoel" HYPHENATED="schom-mel-stoel"/>
             <EXCEPTION WORD="Maagdeneilanden" HYPHENATED="Maag-den-ei-lan-den"/>
             <EXCEPTION WORD="daarentegen" HYPHENATED="daar-en-te-gen"/>
             <EXCEPTION WORD="uitgespuwde" HYPHENATED="uit-ge-spuwde"/>
             <EXCEPTION WORD="nondedjol" HYPHENATED="non-de-djol"/>
-            <EXCEPTION WORD="verstikkend" HYPHENATED="ver-stik-kend"/>
             <EXCEPTION WORD="veroorzaken" HYPHENATED="ver-oor-za-ken"/>
+            <EXCEPTION WORD="verstikkend" HYPHENATED="ver-stik-kend"/>
             <EXCEPTION WORD="neersmakte" HYPHENATED="neer-smakte"/>
             <EXCEPTION WORD="voorbijgegaan" HYPHENATED="voor-bij-ge-gaan"/>
             <EXCEPTION WORD="Waarom" HYPHENATED="Waar-om"/>
@@ -490,9 +479,9 @@
             <EXCEPTION WORD="veiligheidsagent" HYPHENATED="vei-lig-heids-agent"/>
             <EXCEPTION WORD="verhalen" HYPHENATED="ver-ha-len"/>
             <EXCEPTION WORD="naknikken" HYPHENATED="na-knik-ken"/>
-            <EXCEPTION WORD="verhuizen" HYPHENATED="ver-hui-zen"/>
             <EXCEPTION WORD="drieëntwintig" HYPHENATED="drieën-twintig"/>
             <EXCEPTION WORD="schalt" HYPHENATED="schalt"/>
+            <EXCEPTION WORD="verhuizen" HYPHENATED="ver-hui-zen"/>
             <EXCEPTION WORD="uitbarsting" HYPHENATED="uit-bar-sting"/>
             <EXCEPTION WORD="hulpeloosheid" HYPHENATED="hul-pe-loos-heid"/>
             <EXCEPTION WORD="uitgesproken" HYPHENATED="uit-ge-spro-ken"/>
@@ -517,11 +506,11 @@
             <EXCEPTION WORD="onteigenen" HYPHENATED="ont-ei-ge-nen"/>
             <EXCEPTION WORD="leeftijd" HYPHENATED="leef-tijd"/>
             <EXCEPTION WORD="beklaagdenbank" HYPHENATED="be-klaag-den-bank"/>
-            <EXCEPTION WORD="slachtershuizen" HYPHENATED="slach-ters-hui-zen"/>
             <EXCEPTION WORD="aanwijst" HYPHENATED="aan-wijst"/>
+            <EXCEPTION WORD="slachtershuizen" HYPHENATED="slach-ters-hui-zen"/>
             <EXCEPTION WORD="ingrijpend" HYPHENATED="in-grij-pend"/>
-            <EXCEPTION WORD="Tijd" HYPHENATED="Tijd"/>
             <EXCEPTION WORD="lafaard" HYPHENATED="laf-aard"/>
+            <EXCEPTION WORD="Tijd" HYPHENATED="Tijd"/>
             <EXCEPTION WORD="ontsnapt" HYPHENATED="ont-snapt"/>
             <EXCEPTION WORD="terugrijden" HYPHENATED="te-rug-rij-den"/>
             <EXCEPTION WORD="geschonken" HYPHENATED="ge-schon-ken"/>
@@ -533,8 +522,8 @@
             <EXCEPTION WORD="controleert" HYPHENATED="con-tro-leert"/>
             <EXCEPTION WORD="pijnlijk" HYPHENATED="pijn-lijk"/>
             <EXCEPTION WORD="Vrijheid" HYPHENATED="Vrij-heid"/>
-            <EXCEPTION WORD="Vleesschouwer" HYPHENATED="Vlees-schou-wer"/>
             <EXCEPTION WORD="loskwam" HYPHENATED="los-kwam"/>
+            <EXCEPTION WORD="Vleesschouwer" HYPHENATED="Vlees-schou-wer"/>
             <EXCEPTION WORD="sloophamer" HYPHENATED="sloop-ha-mer"/>
             <EXCEPTION WORD="onooglijk" HYPHENATED="on-oog-lijk"/>
             <EXCEPTION WORD="gekletter" HYPHENATED="ge-klet-ter"/>
@@ -948,7 +937,7 @@
             <EXCEPTION WORD="slimmigheid" HYPHENATED="slimmig-heid"/>
             <EXCEPTION WORD="gesoigneerd" HYPHENATED="ge-soig-neerd"/>
         </HYPHEN>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="body" ALIGN="3" LINESPMode="0" LINESP="12" RMARGIN="2.834645669" FIRST="7.086614173" OpticalMargins="14" MinGlyphShrink="0.95" MaxGlyphExtend="1.05" FONT="Nadia Serif Cut BK Cut" FONTSIZE="9.3" FCOLOR="Black" LANGUAGE="Dutch"/>
         <STYLE NAME="intro" ALIGN="3" LINESP="18" OpticalMargins="14" MinGlyphShrink="0.97" MaxGlyphExtend="1.03" FONT="PT Sans Regular" FONTSIZE="14" LANGUAGE="Dutch"/>
         <STYLE NAME="notes" ALIGN="3" LINESP="10" INDENT="8.503937008" FIRST="-8.503937008" VOR="0" NACH="2" OpticalMargins="14" MinGlyphShrink="0.96" MaxGlyphExtend="1.03" FONT="Univers Else Light " FONTSIZE="7.5" LANGUAGE="Dutch"/>
@@ -992,8 +981,8 @@
         </STYLE>
         <STYLE NAME="Copy of titre intro (2)" ALIGN="0" LINESP="30" NACH="3" FONT="Source Sans Pro Light" FONTSIZE="21" FEATURES="" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="0" LANGUAGE="Dutch"/>
         <STYLE NAME="interview réponses sans" ALIGN="3" LINESP="12" INDENT="0" FIRST="0" FONT="Source Sans Pro Light" FONTSIZE="9.5" LANGUAGE="Dutch"/>
-        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Crimson Text Roman" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Dutch"/>
-        <CHARSTYLE CNAME="footnote" FONT="Univers Else Light " FONTSIZE="7.5" FEATURES="superscript" FCOLOR="Magenta" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEV="102" KERN="2"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="Crimson Text Roman" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Dutch"/>
+        <CHARSTYLE CNAME="footnote" FONT="Univers Else Light " FONTSIZE="7.5" FEATURES="superscript" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEV="102" KERN="2"/>
         <CHARSTYLE CNAME="parenthese parties intro" FONT="PT Serif Regular" FONTSIZE="14" LANGUAGE="Dutch"/>
         <CHARSTYLE CNAME="Imported Default Character Style (bk_part1_L2)" FONT="Bitstream Charter Bold" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="pers" FONT="Source Sans Pro Regular" FONTSIZE="9.5" FEATURES="" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="95" TXTULW="3" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="Dutch"/>
@@ -1055,27 +1044,26 @@
             <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
         </Sections>
         <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="992.125984251969" PAGEHEIGHT="651.968503937008" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="59.5275590551181" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="992.125984251969" PAGEHEIGHT="651.968503937008" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="59.5275590551181" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="481.89 552.756 354.331 510.236 " HorizontalGuides="285.155 617.499 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="992.125984251969" PAGEHEIGHT="651.968503937008" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="59.5275590551181" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="552.756 354.331 510.236 481.89 " HorizontalGuides="316.063 617.499 18.1874 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="144.08073490126" YPOS="61.7874540625196" WIDTH="311.811023622047" HEIGHT="161.618818921735" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 161.619 311.811 161.619 311.811 161.619 311.811 161.619 0 161.619 0 161.619 0 161.619 0 161.619 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 161.619 311.811 161.619 311.811 161.619 311.811 161.619 0 161.619 0 161.619 0 161.619 0 161.619 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="52" BACKITEM="-1">
-            <ITEXT FCOLOR="Black" CH="In "/>
-            <ITEXT CPARENT="titre body" FCOLOR="Black" CH="Blijven Kijken"/>
-            <ITEXT FCOLOR="Black" CH=" / "/>
-            <ITEXT CPARENT="titre body" FCOLOR="Black" CH="Ce qui nous regarde"/>
-            <ITEXT FCOLOR="Black" CH=" / "/>
-            <ITEXT CPARENT="titre body" FCOLOR="Black" CH="Dropouts"/>
-            <ITEXT FCOLOR="Black" CH=" gaan kunstenaars aan de slag met de materie van de media. Ze zoeken het moment waarop beelden verschijnen: in de ontmoeting van twee pixels, in de introductie van een nieuwe technologie, in een manier van luisteren, in het aftasten van een medium. Andere kunstenaars tonen waar beelden verdwijnen: door een teveel aan pixels, de democratisering van een technologie, een o"/>
-            <ITEXT FCOLOR="Black" KERN="-2" CH="verweldigend geluid, een uitschakeling van het gevoel."/>
+            <ITEXT FCOLOR="Black" KERN="-1" CH="In "/>
+            <ITEXT CPARENT="titre body" FCOLOR="Black" KERN="-1" CH="Blijven Kijken"/>
+            <ITEXT FCOLOR="Black" KERN="-1" CH=" / "/>
+            <ITEXT CPARENT="titre body" FCOLOR="Black" KERN="-1" CH="Ce qui nous regarde"/>
+            <ITEXT FCOLOR="Black" KERN="-1" CH=" / "/>
+            <ITEXT CPARENT="titre body" FCOLOR="Black" KERN="-1" CH="Dropouts"/>
+            <ITEXT FCOLOR="Black" KERN="-1" CH=" gaan kunstenaars aan de slag met de materie van de media. Ze zoeken het moment waarop beelden verschijnen : in de ontmoeting van twee pixels, in de introductie van een nieuwe technologie, in een manier van luisteren, in het aftasten van een medium. Andere kunstenaars tonen waar beelden verdwijnen : door een teveel aan pixels, de democratisering van een technologie, een overweldigend geluid, een uitschakeling van het gevoel."/>
             <para PARENT="body first"/>
-            <ITEXT CPARENT="titre body" FCOLOR="Black" CH="Blijven Kijken"/>
-            <ITEXT FCOLOR="Black" KERN="-2" CH=" / "/>
-            <ITEXT CPARENT="titre body" FCOLOR="Black" CH="Ce qui nous regarde"/>
-            <ITEXT FCOLOR="Black" KERN="-2" CH=" / "/>
-            <ITEXT CPARENT="titre body" FCOLOR="Black" CH="Dropouts"/>
-            <ITEXT FCOLOR="Black" KERN="-2" CH=" speelt zich af op een terrein tussen politiek en esthetiek. Het begint bij een keuze voor een esthetiek en eindigt bij een vorm voor een politiek. Deze mediakunstenaars zijn allemaal ook kunstenaars die nadenken over de materie van hun werk. Elk op hun manier gaan ze tot de grens van het verbeeldbare: het (on)zichtbare, het andere, het persoonlijke dat zorgt voor een maximum aan betrokkenheid."/>
+            <ITEXT CPARENT="titre body" FCOLOR="Black" KERN="-1" CH="Blijven Kijken"/>
+            <ITEXT FCOLOR="Black" KERN="-1" CH=" / "/>
+            <ITEXT CPARENT="titre body" FCOLOR="Black" KERN="-1" CH="Ce qui nous regarde"/>
+            <ITEXT FCOLOR="Black" KERN="-1" CH=" / "/>
+            <ITEXT CPARENT="titre body" FCOLOR="Black" KERN="-1" CH="Dropouts"/>
+            <ITEXT FCOLOR="Black" KERN="-1" CH=" speelt zich af op een terrein tussen politiek en esthetiek. Het begint bij een keuze voor een esthetiek en eindigt bij een vorm voor een politiek. Deze mediakunstenaars zijn allemaal ook kunstenaars die nadenken over de materie van hun werk. Elk op hun manier gaan ze tot de grens van het verbeeldbare : het (on)zichtbare, het andere, het persoonlijke dat zorgt voor een maximum aan betrokkenheid."/>
             <nbspace/>
             <para PARENT="body"/>
             <para PARENT="body"/>
-            <ITEXT CH="Met teksten over David Larcher, Els Opsomer, Anouk De Clercq &amp; Jerry Galle, Wim Janssen, Stefaan Quix, Els Viaene &amp; Duncan Speakman, Gorik Lindemans, Elias Heuninck, Manon de Boer, Georges Didi-Huberman, Femke Snelting, Renzo Martens, Mekhitar Garabedian, Pieter Geenen en Herman Asselberghs."/>
+            <ITEXT KERN="-1" CH="Met teksten over David Larcher, Els Opsomer, Anouk De Clercq &amp; Jerry Galle, Wim Janssen, Stefaan Quix, Els Viaene &amp; Duncan Speakman, Gorik Lindemans, Elias Heuninck, Manon de Boer, Georges Didi-Huberman, Femke Snelting, Renzo Martens, Mekhitar Garabedian, Pieter Geenen en Herman Asselberghs."/>
             <trail PARENT="interview réponses sans"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1102,7 +1090,7 @@
             <trail PARENT="sommaire" LINESP="15"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="233.954750662283" YPOS="267.000761131498" WIDTH="114" HEIGHT="136.0629921" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.1411471544" LOCALSCY="0.1412440568" LOCALX="-64.50116272" LOCALY="-80.31317597" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="3" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="1" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="spiegel.jpg" PFILE2="" PFILE3="" PRFILE="Embedded Camera RGB Profile" EPROF="Embedded Camera RGB Profile" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 114 0 114 0 114 0 114 0 114 136.063 114 136.063 114 136.063 114 136.063 0 136.063 0 136.063 0 136.063 0 136.063 0 0 0 0 " NUMCO="16" COCOOR="-14.9995 -14.9926 -14.9995 -14.9926 129 -14.9926 129 -14.9926 129 -14.9926 129 -14.9926 129 151.069 129 151.069 129 151.069 129 151.069 -14.9995 151.069 -14.9995 151.069 -14.9995 151.069 -14.9995 151.069 -14.9995 -14.9926 -14.9995 -14.9926 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="233.954750662283" YPOS="267.000761131498" WIDTH="114" HEIGHT="136.062992125984" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.1411471544" LOCALSCY="0.1412440568" LOCALX="-64.50116272" LOCALY="-80.31317597" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="3" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="1" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="spiegel.jpg" PFILE2="" PFILE3="" PRFILE="Embedded Camera RGB Profile" EPROF="Embedded Camera RGB Profile" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 114 0 114 0 114 0 114 0 114 136.063 114 136.063 114 136.063 114 136.063 0 136.063 0 136.063 0 136.063 0 136.063 0 0 0 0 " NUMCO="16" COCOOR="-14.9995 -14.9926 -14.9995 -14.9926 129 -14.9926 129 -14.9926 129 -14.9926 129 -14.9926 129 151.069 129 151.069 129 151.069 129 151.069 -14.9995 151.069 -14.9995 151.069 -14.9995 151.069 -14.9995 151.069 -14.9995 -14.9926 -14.9995 -14.9926 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1289,7 +1277,7 @@
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="142.809081406298" YPOS="539.510603692913" WIDTH="232.940918593702" HEIGHT="79.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 232.941 0 232.941 0 232.941 0 232.941 0 232.941 79.5 232.941 79.5 232.941 79.5 232.941 79.5 0 79.5 0 79.5 0 79.5 0 79.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 232.941 0 232.941 0 232.941 0 232.941 0 232.941 79.5 232.941 79.5 232.941 79.5 232.941 79.5 0 79.5 0 79.5 0 79.5 0 79.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="0">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="751.661574801969" YPOS="266.68776904252" WIDTH="114.0009449" HEIGHT="136.0629921" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.5" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 114.001 0 114.001 0 114.001 0 114.001 0 114.001 136.063 114.001 136.063 114.001 136.063 114.001 136.063 0 136.063 0 136.063 0 136.063 0 136.063 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 114.001 0 114.001 0 114.001 0 114.001 0 114.001 136.063 114.001 136.063 114.001 136.063 114.001 136.063 0 136.063 0 136.063 0 136.063 0 136.063 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="751.661574801969" YPOS="268.672021011024" WIDTH="114.0009449" HEIGHT="136.062992125984" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.5" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 114.001 0 114.001 0 114.001 0 114.001 0 114.001 136.063 114.001 136.063 114.001 136.063 114.001 136.063 0 136.063 0 136.063 0 136.063 0 136.063 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 114.001 0 114.001 0 114.001 0 114.001 0 114.001 136.063 114.001 136.063 114.001 136.063 114.001 136.063 0 136.063 0 136.063 0 136.063 0 136.063 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1315,6 +1303,22 @@
             <breakline/>
             <ITEXT FONT="Source Sans Pro Light" FONTSIZE="11.5" CH="Dropouts"/>
             <trail ALIGN="1" LINESP="14"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="5" XPOS="581.908464566929" YPOS="-0.310039370078739" WIDTH="13.1303560500087" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.25" PCOLOR="None" PCOLOR2="Registration" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="5" XPOS="610.254921214174" YPOS="-0.310039365196849" WIDTH="13.13035605" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.25" PCOLOR="None" PCOLOR2="Registration" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="5" XPOS="581.90846452126" YPOS="680.004921262442" WIDTH="13.13035605" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.25" PCOLOR="None" PCOLOR2="Registration" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="5" XPOS="610.25492122126" YPOS="680.004921262442" WIDTH="13.13035605" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.25" PCOLOR="None" PCOLOR2="Registration" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>

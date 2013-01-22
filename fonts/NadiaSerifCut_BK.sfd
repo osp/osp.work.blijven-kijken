@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1026230984
-ModificationTime: 1358526198
+ModificationTime: 1358802663
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -52,7 +52,7 @@ OS2StrikeYSize: 50
 OS2StrikeYPos: 259
 OS2Vendor: 'DaMa'
 OS2UnicodeRanges: 00000000.00000000.00000000.00000000
-Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable" [150,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -489,7 +489,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 25 10
+WinInfo: 0 30 12
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -834,13 +834,6 @@ Encoding: 40 40 7
 Width: 313
 Flags: W
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 281.583007812 762.4140625 m 5,0,1
@@ -856,6 +849,7 @@ SplineSet
  173.583007812 745.4140625 173.583007812 745.4140625 228.583007812 792.4140625 c 5,19,-1
  281.583007812 762.4140625 l 5,0,1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: parenright
@@ -863,13 +857,6 @@ Encoding: 41 41 8
 Width: 311
 Flags: W
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 261 338 m 260,0,1
@@ -885,6 +872,7 @@ SplineSet
  138 743 138 743 190 639 c 4,19,20
  261 495 261 495 261 338 c 260,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: asterisk
@@ -4420,6 +4408,13 @@ Encoding: 105 105 70
 Width: 310
 Flags: W
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 262 0 m 29,0,-1
@@ -4444,7 +4439,7 @@ SplineSet
  202 702 202 702 202 683 c 256,10,11
 EndSplineSet
 Validated: 1
-Kerns2: 86 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  84 -19 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  83 -19 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  76 -44 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 71 -75 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  76 -44 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  83 -19 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  84 -19 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  86 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
 EndChar
 
 StartChar: j
@@ -7552,7 +7547,7 @@ EndChar
 
 StartChar: uni2009
 Encoding: 8201 8201 130
-Width: 136
+Width: 100
 VWidth: 0
 Flags: W
 LayerCount: 2
